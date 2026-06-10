@@ -1,0 +1,157 @@
+MASTER SERVICES AGREEMENT
+This Master Services Agreement (“Agreement”) is made and entered into this 25th day of
+March 2026 (“Effective Date”) by and between ImOn Communications, LLC, an Iowa
+limited liability company (“ImOn”), and Iowa City Community School District, located
+at 355 Iowa Ave. Iowa City, IA 52240 (“Customer”) and contains the terms and
+conditions for the products and Services (collectively “Services”) that you ordered from
+ImOn. ImOn and Customer may be referred to as the “Parties” or “Party” throughout
+this Agreement.
+1. SCOPE OF AGREEMENT. This Agreement applies to all of the Services that you
+have ordered from ImOn. A description of the Services you ordered as well as additional
+Business and Legal Terms of Service are provided at www.ImOn.net and form a binding
+part of this Agreement. For any Services subject to tariffs, catalogues, or price lists
+(collectively “Price Lists”), the Price Lists are incorporated into this Agreement. ImOn
+may amend any terms, pricing, and conditions in response to a regulatory change
+beyond its control that materially changes the technical feasibility or economics of
+Services provided, including, but not limited to, no longer providing a particular Service.
+ImOn will provide written notice to Customer when exercising this right. If amended,
+Customer will have thirty (30) days to terminate the Agreement for cause in writing, after
+which Customer has waived its right to do so. In the event that ImOn costs increase
+due to factors outside of ImOn's control, including without limitation, increased
+retransmission and programming costs, Customer acknowledges and agrees that ImOn
+shall pass through and Customer shall pay such increased costs regardless of whether
+Customer is currently receiving any promotional pricing for ImOn Services.
+2. TERM. The initial term of this Agreement is 60 month (“Term”). The term shall begin
+on the date ImOn first activates Service at a Customer location (the “Service Activation
+Date”) unless Customer orders any circuit-based Services. If circuit- based Services are
+ordered, the Service Activation Date will be fifty (50) calendar days after this Agreement
+is signed. The addition of new locations and Services will not change the term length or
+Service Activation Date of this Agreement. However, certain circuit-based Services will
+require a minimum one-year term length. If Customer orders such a service with less
+than twelve months remaining in their existing term, then the addition of that service
+shall automatically extend the existing term of the entire Agreement for twelve (12)
+months from the Service Activation Date of that new circuit-based service. Upon
+expiration, if this Agreement is not renewed by the Parties, Services will be provided on
+a month-to-month basis after the existing term expires or until one Party provides the
+other Party with thirty (30) days written notice to terminate service, or forty-five (45)
+days’ notice for circuit-based services. After the initial Term of the Agreement expires,
+1
+
+ImOn may increase previously rate-stabilized prices, eliminate any term and volume
+discount, or both, at its discretion.
+3. TERMINATION. Either Party may terminate this Agreement for cause without
+damages in the event of a material breach by providing (a) written notice specifying the
+cause of termination and (b) if the other Party does not cure the material breach within
+thirty (30) days of receiving notice. Your right to terminate for cause is waived if you do
+not exercise this right within ninety (90) days of the event giving rise to the claim.
+4. EARLY TERMINATION CHARGE. If you terminate this Agreement before the end of
+the current Term without cause, as reasonably determined by ImOn, you agree to pay
+any applicable early termination charge (“ETC”) plus any vendor assistance credits.
+ETC is determined by multiplying the monthly recurring charge listed on your Invoice
+times the number of months remaining in your current Term. The Parties agree that
+ImOn’s damages in the event of early termination would be difficult or impossible to
+determine, and that any ETC constitutes liquidated damages and is not intended as a
+penalty. Customer will not be liable for any ETC or unreimbursed vendor assistance
+credits should Customer’s business operations under the same or similar ownership be
+(a) completely moved to a location where ImOn is not offering local service at the time
+of the move, or (b) are permanently closed, except that Customer shall remain liable for
+any ETC if Customer has a circuit-based service that would subject ImOn to an early
+termination charge from the underlying circuit provider. Upon request, Customer shall
+provide proof of its move or permanent closure to ImOn, and its failure to do so will
+result in assessment of ETC.
+Notwithstanding the foregoing, ETC does not include any build-out expenses related to
+the capital investment incurred by ImOn to extend its fiber optic network to the
+Customer’s business location (“Build-out Costs”). Customer acknowledges that ImOn’s
+deferment of such Build-Out Costs is expressly contingent on the Customer’s
+commitment to fulfill the initial Term of this Agreement. If Customer terminates this
+Agreement during the initial Term for any reason, including without limitation,
+permanently going out of business or moving to a new location not currently served by
+ImOn, Customer agrees to repay ImOn a pro-rata amount of such Build-out Costs
+based on the following formula:
+If the initial Term of the Agreement is one year or less, Customer shall pay the entire
+Build-out Costs. If the initial Term of the Agreement is greater than one year, Customer
+shall pay a pro-rata of the Build-out Costs calculated by multiplying the total Build-out
+Costs listed in this Agreement times a fraction in which the numerator is the total
+months remaining in the initial Term of the Agreement and the denominator is the total
+months of the initial Term of this Agreement. Customer shall pay any applicable Build-
+out Costs to ImOn by the date listed on the final Invoice.
+2
+
+5. NOTICE. The Parties shall designate and maintain the following Principal Contacts
+for purposes of this Agreement:
+For ImOn:
+Principal Contact: Darrin O’Brien
+Business Phone: 319.519.6328
+Email: mailto: darrin.obrien@imon.net
+Business Mailing: 101 3rd Avenue SW, Suite 400, Cedar Rapids, Iowa 52404
+For Customer:
+Principal Contact: Joshua Reynolds
+Business Phone: 319.688.1000
+Email: reynolds.joshua@iowacityschools.org
+Business Mailing: 1725 N Dodge St, Iowa City, IA 52245
+Account ID #: 2075778
+6. SERVICES. The Services that you have selected to purchase from ImOn are set forth
+in the Pricing Addendum. Only the monthly recurring price for Local Line Packages and
+Long Distance Services for Domestic calls installed at your original location are fixed for
+the Initial Term of this Agreement. Prices do not include applicable federal, state and
+local use, excise, sales and privilege taxes; applicable surcharges related to universal
+service programs, emergency telephone service (911/E911), telecommunications relay
+service for the hearing impaired; payphone surcharges; and other similar surcharges for
+required programs. ImOn may add, delete or modify such surcharges and taxes without
+notice while this Agreement remains in effect as necessary to implement changes
+imposed by law. Certain Services purchased under this Agreement may be provided, in
+part, by third-party vendor(s), which may be affiliated with ImOn. The Parties agree that
+changes to Local Line Packages and Long Distance Services packages requested by
+Customer through ImOn Customer Care will serve to amend the Agreement. You are
+responsible for monthly recurring charges, usage charges, one-time activation charges,
+one-time installation charges, Build-out costs, escort service, collocation access fees
+and equipment purchase charges unless such charges are expressly waived in writing
+in this Agreement. The Pricing Addendum does not reflect special construction charges
+that may be applicable to Services you have ordered. For Cable TV (video) products,
+Customer acknowledges that ImOn shall be entitled to pass through (with no mark-up)
+all yearly fee increases mandated upon ImOn, including without limitation,
+retransmission fees. Customer agrees to pay such additional fee increases.
+3
+
+7. SERVICE SUSPENSION/MAINTENANCE. Periodically ImOn will perform
+maintenance on its network during the standard maintenance window of midnight to 4
+A.M. central standard time. ImOn may need to perform unscheduled network
+maintenance outside the standard maintenance window that may result in a brief
+service interruption. ImOn will give Customers advance notification of such interruption
+whenever reasonably possible. Any ImOn liability resulting from an unscheduled service
+interruption will be determined in accordance with the governing Price List and this
+Agreement.
+8. WORK STATEMENT. This Agreement shall consist of the terms listed above and
+any attached Addendums and Work Statements agreed to by both Parties.
+Installing new 10 Gb / 10 Gb Internet service at 355 Iowa Ave, Iowa City, IA 52240.
+Internet Service
+Solution Quantity/ Speed Unit Price Total
+Ethernet Access Internet -10Gb 10 Gb / 10 Gb $1200.00 $1,200.00
+/25 IP Block 1 $225.00 $225.00
+Internet Service Total $1,425.00
+IP Details
+“X” applicable product Comments
+DHCP (default)
+Static IP (single usable static IP)
+Static Subnet (/31,/30,/29,etc.) X /25 IP Block
+DHCP Reservation
+Other
+Total* Verify Equipment Compatibility for /31
+Inte
+4
+
+Investment Summary - Non Recurring Build Costs
+Install / Build Costs Waived -$3,028.00
+Total NRC $0.00
+Investment Summary – Monthly Recurring Charges
+Term Length 60 Months
+Total MRC $1,425.00
+net Service Total
+IN WITNESS WHEREOF, ImOn and Customer have caused this Agreement
+to be signed by their duly authorized representatives.
+ImOn Communications, LLC Iowa City Community School District
+Name: Name:
+Title: Title:
+Signature: Signature:
+Date: Date:
+5

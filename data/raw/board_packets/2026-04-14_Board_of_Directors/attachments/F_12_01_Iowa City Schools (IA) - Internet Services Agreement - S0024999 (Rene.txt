@@ -1,0 +1,395 @@
+Internet Services Agreement
+between
+Unite Private Networks, LLC d/b/a Segra
+120 W 12th Street, Floor 11
+Kansas City, MO 64105
+and
+Iowa City Schools
+1725 North Dodge Street
+Iowa City, IA 52245
+Segra ID: S0024999
+Dated _________________, 2026
+1
+
+Confidential
+Internet Services Agreement
+This Internet Services Agreement is entered into as of the first date listed above by and between
+Iowa City Schools (“Customer”) and Unite Private Networks, LLC d/b/a Segra (“Segra”). The Customer
+and Segra may hereinafter be referred to individually as a “Party” or together as the “Parties.”
+Recitals
+A. Segra is in the business of leasing Internet facilities (“Internet Facilities”) and providing
+Internet access services (“Internet Services”) to school districts and other customers.
+B. Following a competitive bidding process, Customer selected Segra as the most cost-effective
+provider of leased Internet Facilities and Internet Services to Customer.
+C. Customer has received all approvals required by it to enter into this Agreement, under which
+Segra will lease Internet Facilities and provide Internet Services to Customer.
+D. The Parties previously entered into that certain Internet Services Agreement executed by and
+between Customer and Segra on April 26, 2019 (Segra ID#: 22019) (the “2019 Agreement”). The 2019
+Agreement has expired and is currently renewing on a month-to-month basis by conduct of the Parties. It is
+the Parties intention that the 2019 Agreement shall remain in effect until June 30, 2026 to align with the E-
+Rate funding year, and that this Agreement shall take their place effective July 1, 2026, without any lapse in
+the lease of the Internet Facilities and Internet Services in connection therewith.
+Agreement
+NOW, THEREFORE, in consideration of the mutual covenants set forth herein and other good and
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Customer and
+Segra agree as follows:
+1. Internet Facilities and Services. Segra agrees to lease Internet Facilities and provide the
+Internet Services to the Customer, as described in further detail within Schedule A attached hereto. The
+Internet Facilities are owned by Segra and will continue to be owned by Segra following the expiration or
+termination of this Agreement. This Agreement shall operate as a “lease” as defined by applicable law.
+Nothing in this Agreement shall be construed as a transfer of title to any part of the Internet Facilities to the
+Customer or the creation of a security interest. The Customer disclaims any interest it may claim in the
+materials, equipment, fiber optic cable, and all personal property installed by Segra on the real property of
+the Customer. The Customer shall keep Segra’s Internet Facilities free from all liens and encumbrances.
+The Customer’s use of the Internet Facilities and Internet Services shall be limited to the Customer. The
+Customer may not assign, lease, or allow any other party the right to use the Internet Facilities without
+Segra’s express consent. Any other use shall be considered default under Section 11(a).
+2. Agreement Term. This Agreement will have a term of five (5) years, commencing upon July
+1, 2026. This Agreement may be extended upon mutual agreement of Segra and the Customer.
+3. E-Rate Program. If requested by the Customer, Segra will work with the Customer to
+participate in the Schools and Libraries Program of the Universal Service Fund (the “E-Rate Program”). In
+that event, the Parties will cooperate in maximizing the discounts available to the Customer under the E-Rate
+Program related to the Internet Facilities and the Internet Services. Notwithstanding the foregoing or anything
+to the contrary, the Customer’s participation in the E-Rate Program is not a condition of either Party’s
+obligations under this Agreement.
+2
+
+Confidential
+4. Change Orders. Any changes to the Internet Facilities or the Internet Services will be set
+forth in a change order or other document signed by both the Customer and Segra.
+5. Additional Sites and Upgrades. This Agreement contemplates the possibility of the
+Customer adding and/or upgrading Internet Services during the term. If the Customer elects to add or
+upgrade services during the term of this Agreement, the Parties will execute a Statement of Understanding
+related to this Agreement. All Internet Services under this Agreement will have a term that is coterminous
+with the term noted in Schedule C. The Parties will agree on a payment schedule for the additional services
+and/or upgrades and these terms will be memorialized in the Statement of Understanding.
+6. Delivery and Installation. Segra will deliver, install, configure, and maintain the Internet
+Facilities. Without limiting the generality of the foregoing, the Parties agree as follows:
+(a) Staging, Storage, and Access. During the installation of the Internet Facilities, the
+Customer agrees to provide Segra with (i) suitable staging and storage areas at Customer facilities
+for relevant equipment, materials, and components and (ii) access to Customer facilities as may be
+necessary to install, as reasonably determined by Segra, provided that such access must be
+scheduled with the Customer in advance. Customer personnel may accompany Segra personnel
+during any installation work at any Customer facility.
+(b) Substitute Materials. In the event that any materials or components of or relating
+to the Internet Facilities are not available for timely delivery and installation, Segra may substitute
+materials or components of equivalent or superior functionality and performance.
+(c) Site Preparation. Prior to the installation of Internet Facilities, the Customer will
+clean and otherwise prepare all installation sites and will continue to maintain those sites (but not,
+for clarity, the Internet Facilities) following such installation.
+(d) Landscaping. Segra will restore all landscaping disturbed the Segra’s installation,
+maintenance, or removal activities. The Customer will be responsible for landscape watering,
+including at restored landscaping sites.
+(f) Non-Internet Facilities. The Customer is responsible for the installation,
+configuration, and maintenance of all facilities and components that are not Internet Facilities. At
+the Customer’s request, Segra may install, configure, and maintain such facilities and components,
+subject to Segra’s standard charges, terms, and conditions.
+(g) Special Needs. If additional labor or materials are needed to install or maintain the
+Internet Facilities due to unusual site requirements or other special needs or characteristics of the
+Customer or its facilities, as reasonably determined by Segra and agreed to by the Customer, the
+Customer will reimburse Segra for any corresponding extra costs incurred by Segra to address those
+requirements, needs, or characteristics.
+(h) Planning and Deviations. Appropriate representatives of Segra and the Customer
+will meet prior to the installation of the Internet Facilities, and otherwise as necessary, to formulate
+and finalize the installation methodology and configuration design for the Internet Facilities. If,
+prior to or during the installation process, Segra, in its reasonable judgment, deems it necessary or
+prudent to materially deviate from the final installation design, it will present such deviation to the
+Customer for its approval, which the Customer may not unreasonably withhold or delay; provided,
+however, that Segra reserves the right to make, without such approval, changes in fiber routing,
+3
+
+Confidential
+conversion from underground to overhead configuration to avoid obstructions, and other
+modifications to the final installation methodology and design.
+(i) Timeline. Segra and the Customer agree to the installation and configuration
+timeline set forth in Schedule B. The Customer agrees to all reasonable extensions necessitated by
+the actions or inactions of the Customer or otherwise resulting from circumstances beyond Segra’s
+control.
+(j) Maintenance. Segra is responsible for maintaining the Internet Facilities. The
+Customer agrees to provide Segra with such access to its facilities as may be necessary to efficiently
+carry out its maintenance activities, as reasonably determined by Segra, provided that, when
+practicable, (i) such access must be scheduled with the Customer in advance. Customer personnel
+may accompany Segra personnel during any maintenance work at any Customer facility.
+(k) Service Commencement Letter. Upon completion of the installation, the
+Customer will receive a Service Commencement Letter from Segra indicating that the Internet
+Services are operational. Unless otherwise agreed to by the Parties in writing, Segra’s issuance of
+a Service Commencement Letter signifies the beginning of the Term.
+7. Fees and Payment. The Customer will pay for the leased Internet Facilities and the Internet
+Services in the amounts set forth on Schedule C and otherwise in accordance with and this Section 7.
+(a) Partial Fees. In the event that any fees are payable on a monthly basis (or otherwise
+on a regular schedule), the fee for any partial month (or other relevant period) will be pro-rated
+accordingly.
+(b) Due Dates and Late Payment Charges. All fees will be paid no later than thirty
+(30) days following the receipt by the Customer of an invoice from Segra. If any part of a lease
+payment or other payment obligation of Customer is more than thirty (30) days past due, such
+amount shall accrue interest from the date such payment is due until paid, including accrued interest
+compounded monthly, at a rate equal to one and one half percent (1.5%) per month on the
+outstanding balance (18% per annum) or (ii) if less, the maximum late payment charge permissible
+under applicable law. The Customer understands that the Customer’s obligation to make lease
+payments continues throughout the Term, regardless of Customer’s actual usage of the Internet.
+(c) Changes in Internet Facilities and Internet Services. If, pursuant to Section 4
+above, the Internet Facilities or Internet Services are changed, the Parties will agree on an
+appropriate adjustment or supplement to the fees set forth in Schedule C.
+(d) Taxes and Additional Charges. All applicable taxes and fees, including federal,
+state, local use, excise, gross receipts, sales or privilege taxes, occupation taxes, duties, regulatory
+fees, or similar liabilities charged to or against Segra or the Customer because of the services
+furnished by Segra shall be assessed to and paid by the Customer. The Customer must provide
+documentation evidencing its exemption from any such taxes or fees.
+(e) Billing Method. Segra will invoice under USAC’s Billed Entity Applicant
+Reimbursement Method (“BEAR Method”) (the total amount before applying the Customer’s
+USAC discount). Upon the Customer’s receipt and notification to Segra of the issuance of its
+FCDL, the Customer may choose its preferred method of billing by filling out a form provided by
+Segra.
+4
+
+Confidential
+8. Customer Agreements and Acknowledgements. The Customer agrees as follows:
+(a) Adequacy of Internet Services. The Customer acknowledges that the Internet
+Facilities and Internet Services described in Schedule A meet the Customer’s requirements.
+(b) Security. The Customer is solely responsible for providing security services in
+respect of the Internet Facilities located at or on Customer facilities or properties. The Customer
+will provide such security services in a commercially reasonable manner, in light of all security
+considerations applicable to the relevant facility or property.
+(c) Compliance with Law. The Internet Facilities and Internet Services shall not be
+used in a manner that could be construed as a violation of this Agreement or any laws, regulations,
+orders, and/or rules of any governmental authority having jurisdiction. The Customer and Segra
+agree to take all reasonable actions as may be appropriate to comply with all laws, regulations,
+orders and/or rules.
+(d) Customer Personnel. The Customer will ensure that its personnel and contractors
+(i) are educated and trained in the proper use and operation of the Internet Facilities for the Internet
+Services (ii) follow applicable operations and instruction.
+(e) Electrical Circuits and Energy. The Customer will provide all electrical energy
+required for the installation and operation of the Internet Facilities.
+(f) Authority; Non-Violation. The Customer represents and warrants that (i) this
+Agreement has been duly authorized, executed, and delivered by the Customer, and (ii) the
+execution, delivery, and performance of this Agreement do not and will not conflict with, breach,
+or otherwise violate any of the organizational or governing documents of the Customer or any
+agreement or instrument to which the Customer is a party or by which the Customer is bound.
+(g) Insurance. The Customer will procure and maintain insurance policies covering
+all loss and damage to Internet Facilities located at facilities under the Customer’s control,
+including without limitation all materials and components located at Customer facilities prior to,
+during, or after the installation process, with appropriate coverage limits and other terms and
+conditions. The Customer will cause such insurance policies (i) to include Segra as a certificate
+holder and (ii) to require at least thirty (30) days’ written notice to Segra prior to the effective date
+of any termination of coverage. Upon request by Segra, the Customer agrees to provide proof of
+insurance meeting these requirements.
+9. Segra Warranties and Disclaimers. Subject in all cases to Section 17(i) below, Segra agrees
+as follows:
+(a) Compliance with Law. Segra will comply with all applicable laws while providing
+the Internet Services.
+(b) Authority; Non-Violation. Segra represents and warrants that (i) this Agreement
+has been duly authorized, executed, and delivered by Segra, and (ii) the execution, delivery, and
+performance of this Agreement do not and will not conflict with, breach, or otherwise violate any
+of the organizational or governing documents of Segra or any agreement or instrument to which
+Segra is a party or by which Segra is bound.
+5
+
+Confidential
+(c) Non-Internet Facilities and Services. Segra makes no representation or warranty
+whatsoever regarding facilities and components that are not Internet Facilities, or regarding services
+that are not Internet Services.
+(d) Disclaimer. Segra MAKES NO REPRESENTATION OR WARRANTY
+EITHER EXPRESSED OR IMPLIED, REGARDING THE INTERNET SERVICES OR
+INTERNET FACILITIES, AND SPECIFICALLY DISCLAIMS ANY WARRANTY,
+INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTIBILITY AND/OR FITNESS
+FOR A PARTICULAR PURPOSE, AND ASSUMES NO OBLIGATION WITH RESPECT TO
+THE ENFORCEMENT OF ANY MANUFACTURER’S WARRANTIES AND GUARANTEES.
+No defect, unfitness, or other condition of system equipment or services shall relieve Customer of
+the obligation to pay any charges hereunder or perform any other obligations under this Agreement.
+10. Alterations and Attachments. The Customer may not make any alterations or attachments
+to the Internet Facilities without Segra’s prior written consent. Unless agreed to in writing by Segra, Segra
+has no maintenance or other obligations whatsoever with respect to any alterations or attachments made to
+the Internet Facilities by the Customer. If Segra provides any maintenance or other services in respect of
+any such alterations or attachments, Segra will provide such services subject to its standard charges, terms,
+and conditions. Segra is not responsible for any malfunction, non-performance, or performance degradation
+of the Internet Facilities, or any inability of Segra to satisfy its obligations under this Agreement, caused by
+or resulting directly or indirectly from any alteration or attachment made to the Internet Facilities by the
+Customer, or any other action by the Customer. The Customer is solely responsible for, and agrees to
+indemnify Segra against, all claims and damages caused by or resulting directly or indirectly from any
+alteration or attachment made to the Internet Facilities by the Customer.
+11. Termination. Either Party may terminate this Agreement for cause by giving written notice
+to the other Party, and this Agreement will be terminated as follows:
+(a) By Segra. As it relates to termination by Segra, “for cause” means (i) the
+Customer’s failure or refusal to make any payment due to Segra hereunder within ten (10) days
+after the Customer receives written notice from Segra of such failure or refusal, (ii) the Customer’s
+continuing failure or refusal to perform any other material obligation under this Agreement, subject
+to a reasonable cure period not to exceed thirty (30) days, or (iii) willful misconduct, embezzlement,
+or other illegal or unethical acts by the Customer.
+(b) By the Customer. As it relates to termination by the Customer, “for cause” means
+(i) Segra’s continuing failure or refusal to perform any material obligation under this Agreement,
+subject to a reasonable cure period, or (ii) Segra’s uncured failure to adhere to any applicable laws,
+regulations, or other rules imposed by an entity with governing authority.
+For clarity, upon the termination of this Agreement for cause by Segra, Segra will be entitled to recover
+liquidated damages in the amount of all fees that would have been payable to Segra under this Agreement
+for its full term (i.e., assuming this Agreement had not been terminated early).
+By executing the Agreement, the Customer warrants that the Customer has funds appropriated and available
+to pay all amounts due hereunder through the end of the Customer’s current fiscal period. The Customer
+further agrees to request all appropriations and funding necessary to pay for the Internet Services for each
+subsequent fiscal period through the end of the Agreement Term. In the event funds are not appropriated,
+budgeted, or otherwise made available, this Agreement shall be terminated on the last day of the period for
+which funds were appropriated for such purposes and the Customer shall have no further obligation
+hereunder upon the following conditions: (i) the Customer has taken all actions necessary to obtain
+6
+
+Confidential
+adequate funding; (ii) despite the Customer’s best efforts, funds have not been appropriated and are
+otherwise unavailable to pay for the Internet Services; and (iii) the Customer has negotiated in good faith
+with Segra to develop revised terms, an alternative payment schedule, or a new agreement to accommodate
+the Customer’s budget. The Customer must provide Segra thirty (30) days’ written notice of its intent to
+terminate Internet Services. If the Customer terminates the Internet Services under this Section, the
+Customer agrees as follows: (i) it will pay all amounts due for Internet Services incurred through date of
+termination and reimburse all unrecovered non-recurring charges, including Segra’s actual construction
+costs incurred in performance under the Agreement; and (ii) it will not contract with any other provider for
+the same or substantially similar services or equipment for a period equal to the original Agreement Term.
+12. Effect of Termination or Expiration. Upon the termination or expiration of this Agreement,
+Segra will have the right to remove any Internet Facilities located at facilities under the Customer’s control,
+and the Parties agree to cooperate in allowing such removal by Segra.
+13. Confidential Information. Each Party acknowledges (a) that it will have access to
+Confidential Information of the other Party, (b) that such information constitutes valuable, special, and
+unique property, and (c) that no right or license is granted with respect to such information, except as
+specifically set forth in this Agreement. Each Party agrees that it will not at any time, in any manner
+whatsoever, whether directly or indirectly, disclose to any person or entity, or use, any confidential
+information of the other party, except as required by law or as necessary for the performance or enforcement
+of this Agreement. “Confidential Information” means all non-public and proprietary information of or
+concerning one Party that is disclosed or made available to the other Party, including the terms of this
+Agreement and any non-public information concerning a Party’s business, operations, plans, processes,
+products (including related manuals and support materials), systems, marketing information, diagnostics,
+specifications, know-how, personnel, patrons, students, or data of any kind. Each Party will ensure that its
+employees and other representatives comply with the confidentiality obligations under this Agreement.
+Each party agrees that it will not copy the Confidential Information of the other Party other than on an “as
+necessary” basis in connection with the performance or enforcement of this Agreement. Upon the request
+of other party, or upon the termination or expiration of this Agreement, each Party agrees to return or
+destroy any Confidential Information of the other Party in its possession. The Parties acknowledge that
+remedies at law may be inadequate to protect against any actual or threatened breach of the confidentiality
+obligations under this Agreement, and, without prejudice to any other rights and remedies otherwise
+available, agree to the granting of injunctive relief without proof of actual damages. This Section 13 will
+survive the termination or expiration of this Agreement.
+14. Independent Contractor Status. Nothing contained herein may be construed as making the
+Parties partners or joint venturers or creating a principal/agent relationship. Segra has no authority to create
+any obligation on behalf of, or in the name of, the Customer, or otherwise to bind the Customer in any way.
+15. Notices. Any notice, demand, waiver, or consent under this Agreement must be in writing
+and, unless otherwise agreed to by the recipient, delivered by prepaid registered or certified mail (with
+return receipt requested), or by a national overnight courier service, addressed as follows:
+If to Segra: Unite Private Networks, LLC d/b/a Segra
+Attn: Legal Department
+120 W 12th Street, Floor 11
+Kansas City, MO 64105
+SegraLegal@SegraFiber.com
+If to the Customer: Iowa City Schools
+7
+
+Confidential
+Attn: _______________
+1725 North Dodge Street
+Iowa City, IA 22019
+All such notices, demands, waivers, and consents will be effective upon receipt or refusal of delivery,
+whichever occurs first. Either Party may change its address or facsimile number for purposes of this Section
+15 by giving notice in accordance with this Section 15.
+16. Force Majeure. Neither Party will be liable for the failure to fulfill its obligations under
+this Agreement if and to the extent such failure is caused by an occurrence beyond its reasonable control,
+including, without limitation: expropriation or confiscation of facilities, compliance with any order or
+decree of any governmental authority; acts of war or terrorism, floods or abnormal severe weather; riots,
+rebellion, or sabotage; fires or explosions; labor disputes, strikes, or other concerted acts of workmen;
+accidents or other casualty; damage to fiber or facilities caused by a third party; and failures of utilities,
+local exchange carriers, cities, municipalities, and other political subdivision to follow laws, agreements,
+or contracts. Further, neither Party will be liable for delays caused by the inaction of utilities, local
+exchange carriers, cities, municipalities, or other political subdivisions in granting access to rights of way,
+poles, or any other required items needed for the installation or operation of the Internet Facilities.
+17. Miscellaneous.
+(a) Waivers. Any failure or delay by either Party in exercising any right or remedy
+under this Agreement will not constitute a waiver of that right or remedy. Any waiver by either
+Party of any right or remedy under this Agreement must be in writing and signed by the party
+waiving the right or remedy.
+(b) Governing Law. The laws of the state of Iowa govern this Agreement, without
+regard to conflicts of law principles.
+(c) Entire Agreement. This Agreement, including the schedules attached hereto,
+constitutes the entire contract and supersedes any and all other prior agreements or understandings,
+written or oral, including any and all documents exchanged between the parties in any competitive
+bidding process for the Internet Facilities and the Internet Services (or similar facilities and
+services).
+(d) Amendments. Any amendment to this Agreement must be in writing and signed
+by both Parties.
+(e) Assignment. Neither Party may assign its rights or obligations under this
+Agreement without the prior written consent of the other Party, which may not withhold or delay
+its consent unreasonably. Notwithstanding the preceding sentence, Segra may, without the
+Customer’s consent, (i) assign its rights and obligations under this Agreement to an affiliate, (ii)
+assign its right to receive payments under this Agreement to any creditor, and (iii) assign its rights
+and obligations under this Agreement to an entity acquiring all or substantially all of Segra’s assets.
+Any purported assignment prohibited by this provision will be null and void.
+(f) Successors and Assigns. This Agreement is binding upon and inures to the benefit
+of the successors and permitted assigns of the parties to this Agreement.
+(g) Headings. The headings contained in this Agreement are for convenience of
+reference only and may not be utilized in construing or interpreting this Agreement.
+8
+
+Confidential
+(h) Counterparts. This Agreement may be executed in counterparts, each of which
+will be deemed an original, but which together will constitute but one and the same instrument.
+(i) Limitations on Damages. With the exception of any service credits for service-
+impacting conditions under the Service Level Agreement, Segra will not be liable for any indirect
+or consequential damages, including but not limited to, lost profits or business revenue, lost
+business, failure to realize expected savings, lost or damaged data, other commercial or economic
+loss of any kind, whether or not such damages are foreseeable.
+(j) Construction. This Agreement is to be construed as the joint and equal work
+product of each Party and may not be interpreted more or less favorably in respect of either party
+on account of its preparation or drafting.
+(k) Acceptable Use. The Customer represents and warrants that it shall comply with
+all relevant laws pertaining to the Internet Services. The Customer further represents and warrants
+that at all times the Customer shall conform its use of the Internet Services to the Segra Acceptable
+Use Policy, which is available at www.uniteprivatenetworks.com/acceptable-use-policy/.
+(k) Severability. In the event that any term or provision of this Agreement is held
+invalid or unenforceable by any court having jurisdiction over this Agreement (i) the subject matter
+ruled invalid or unenforceable shall be addressed by the Parties via an amendment that shall
+substitute valid and enforceable provisions; and (ii) it will not affect the validity or enforceability
+of the remaining terms and provisions of this Agreement not otherwise addressed within the
+Amendment. In the event the parties cannot reach a mutually acceptable amendment within thirty
+(30) days of the final ruling of the highest court to which the matter is taken, the Agreement shall
+terminate retroactively as of the date of the last court’s decision or as otherwise directed by the
+court.
+(m) Waiver of Jury Trial. Each Party waives trial by jury with respect to any dispute
+regarding or arising under this Agreement.
+(n) Time Limit for Legal Actions. All legal action, regardless of its form, relating to
+or arising under this Agreement must be commenced within the requisite period of time required
+for such action under the applicable statute(s) of limitation.
+(o) Dispute Resolution. Each Party agrees that, prior to taking any legal action,
+regardless of its form, relating to or arising under this Agreement, it will work in good faith with
+the other Party in an effort to resolve the disputed matter.
+Signature page to follow.
+9
+
+Confidential
+IN WITNESS WHEREOF, this Agreement has been executed by a duly authorized representative
+of each Party as of the day and year first above written.
+Unite Private Networks, LLC d/b/a Segra:
+Signature:_______________________________________
+Name: ___________________________________
+Title: ___________________________________
+Date: ___________________________________
+Iowa City Schools:
+Signature:___________________________________________
+Name:
+Title:
+Date: ___________________________________
+10
+
+Schedule A – Internet Services
+Internet Services:
+Circuit 1: Ten (10) Gbps of bandwidth shall be delivered to 1725 N Dodge St, Iowa City, IA 52245.
+IP Addresses:
+Associated with Circuit 1: /25 IPv4 Addresses (128 with 126 useable)
+The District understands that one (1) usable IP address in each IPv4 address block may need to be reserved,
+leaving one (1) fewer usable IP address for the District.
+Schedule B – Installation Timeline
+Anticipated delivery of Internet Services under this Agreement shall occur on approximately July 1, 2026.
+Schedule C – Fees and Payment Schedule
+The Customer shall remit payments to Segra for the duration of the term of this Agreement as follows:
+1. Internet Services
+a. Non-Recurring Fees: $ 0.00
+b. Monthly Fees: $ 1,270.00
+2. IP Addresses
+a. Non-Recurring Fees: $ 0.00
+b. Monthly Fees: $ 256.00 (for /25 IPv4)
+3. Other Fees
+All applicable taxes and fees shall be paid by the Customer in addition to the regular charges under this
+Agreement unless exempt per Section 7(d) of this Agreement.
+11

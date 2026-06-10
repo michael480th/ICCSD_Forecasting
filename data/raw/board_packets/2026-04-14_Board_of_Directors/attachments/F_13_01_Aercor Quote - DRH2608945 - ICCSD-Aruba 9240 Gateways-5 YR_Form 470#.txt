@@ -1,0 +1,106 @@
+Quotation/Offer
+DRH2608945 - ICCSD
+Date: 2/13/26
+Expiration Date 7/31/26
+Prepared For: Project Name: From:
+Iowa City Community School District Aruba 9240 Gateways Aercor Inc.
+1725 N. Dodge Street Form 470# 260018741 2520 Broadway Street NE
+Iowa City, IA 52245 Project Description: Suite 204
+Trent Hansen Minneapolis, MN 55413
+(319) 688-1286 www.aercor.com
+hansen.trent@iowacityschools.org
+SPIN Number: 143034134
+Hardware $117,042.40
+Maintenance $72,496.00
+Shipping $5.00
+Total: $189,543.40
+Derrick R. Hoffmann
+Vice President of Sales
+Phone: 651-289-4211
+Email: drhoffmann@aercor.com
+Proposal Comments:
+SPIN Number: 143034134
+Invoicing options of BEAR or SPI will be provided
+** Please reference the quote number on your purchase order. Thank you. **
+***Credit Card payments will be subject to a convenience fee where applicable and must be
+paid at time of order***
+Page 1 of 3
+
+Customer Name: Iowa City Community School District
+Quote/Offer ID: DRH2608945 - ICCSD
+Date: 2/13/26
+Customer Unit Customer Extended
+Line Product Number Description Qty Sale Price Sale Price
+Hardware
+1 R7H95A Aruba 9240 (US) Campus Gateway 8 $13,198.00 $105,584.00
+2 R7J63A Aruba 9240 Spare 550W AC Power Supply 8 $288.40 $2,307.20
+3 JW124A PC-AC-NA North America AC Power Cord 16 $3.20 $51.20
+4 J9151E-AO Addon HP J9151E Compatible 10GBase-LR SFP+ Transceiver 28 $325.00 $9,100.00
+(SMF, 1310nm, 10km, LC, DOM)
+Hardware Total: $117,042.40
+Maintenance
+5 H34FNE Aruba 5Y FC NBD Exch E/R 9240CGatewaySVC 8 $9,062.00 $72,496.00
+Maintenance Total: $72,496.00
+Customer Total: $189,538.40
+Note: The information in this Proposal is considered PROPRIETARY and CONFIDENTIAL to Aercor.
+By review of this information, you agree to maintain its confidentiality and use it for internal business purposes only.
+Any variation in quantity, description or delivery may result in price changes.
+Prices are valid for 30 days from date of this Proposal unless otherwise stated.
+Delivery dates can, and do, change frequently and at very short notice. The estimated delivery date on this Proposal is only valid from the date of acceptance via
+signature. Once we receive this signed Proposal, we will confirm a new estimated delivery date. Shipping and taxes are added at the time of invoice. Shipping
+charges are subject to additional handling fees for specifying carriers and/or expedited shipments.
+This Proposal is subject to (a) the Terms and Conditions attached hereto and (b) credit and finance approval.
+Opened boxes are not eligible for return.
+Proposal Comments:
+SPIN Number: 143034134
+Invoicing options of BEAR or SPI will be provided
+Page 2 of 3
+
+Exhibit A
+PRODUCT PURCHASE AGREEMENT
+TERMS AND CONDITIONS
+1. Product
+Aercor Inc (Aercor) will provide to the other party hereunder (“Client”), the product or products specified in the sales proposal (the “Document”) to
+which these Terms and Conditions are attached and made a part of (individually and collectively, the “Product”), by sale, license or sublicense, as
+provided under and upon the terms and conditions of this Agreement. These Terms and Conditions, along with the Document and all appendices
+thereto, are collectively the “Agreement”.
+2. Invoicing and Payment
+The purchase price for the Product will be due and payable as indicated in the attached Document. Payment terms are net 30 days. If Client’s account
+is past due and Aercor has notified Client verbally or in writing of the past due balance, it may, without advance notice, immediately cease any and all
+Product sales hereunder, or revoke any and all Product licenses hereunder, without any liability for breach of this Agreement. If Client’s account, after
+default, is referred to an attorney or collection agency for collection, Client will pay all of Aercor’s expenses incurred in such collection efforts including,
+without limitation, court costs and reasonable attorney’s fees.
+3. Taxes
+The customer agrees that they are responsible for payment of any sales or use tax arising from its purchase of product under this agreement.
+4. Limitations on Warranty
+Aercor MAKES NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE PRODUCT. Aercor EXPRESSLY DISCLAIMS
+ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. Client should refer to
+the Product license, documentation and other information provided by the manufacturer of the Product for warranty and any other information
+regarding any Product.
+5. Limitation of Liability
+Client's exclusive remedy, and Aercor’s sole liability to client, for any cause whatsoever will be limited to any purchase price or license fees, as
+applicable paid to Aercor by client under this agreement. The foregoing limitation will apply regardless of the form of action, whether contract or tort,
+including without limitation, negligence. In no event will Aercor be liable for any loss of profit, revenue, data, use, or other commercial injury, or any
+special, incidental, indirect or consequential damages, suffered by client or any third party, whether or not Aercor has been advised of the possibility of
+such loss, injury, damages or third party claim, under any cause of action arising out of or relating to this agreement.
+6. Enforceability
+If any provision, or any part of any provision, of this Agreement will be held void, voidable, invalid, or inoperative, no other provision of this
+Agreement will be affected as a result thereof and accordingly, the remaining provisions of this Agreement will remain in full force and effect as though
+such void, voidable, invalid or inoperative provision or part thereof had not been contained herein.
+7. Relationship
+This Agreement does not create an agency, employment, partnership joint venture, trust or other fiduciary relationship between the parties. Neither
+party shall have the right to bind the other to any third person or otherwise to act in a way as a representative or agent of the other.
+8. Entire Agreement
+This Agreement sets forth the entire agreement between the parties with respect to the subject matter herein, superseding all prior agreements,
+negotiations or understandings, whether oral or written, with respect to such subject matter. To the extent that any of the terms and conditions of
+the Document or any appendices thereof conflict with these Terms and Conditions, these Terms and Conditions will control. This Agreement may
+not be changed, modified or waived in whole or part except by an instrument in writing signed by both parties. Unless otherwise defined in the
+Document, all defined terms will have the definitions set forth in these Terms and Conditions.
+Aercor Authorized Signatory Customer Authorized Signatory
+By:_________________________________ By:__________________________________________
+Name:______________________________ Name:_______________________________________
+Title:_______________________________ Title:________________________________________
+Date:_______________________________ Date:________________________________________
+_______________________________ PO#:________________________________________
+Quote Ref:
+DRH2608945 - ICCSD

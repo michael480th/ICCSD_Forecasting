@@ -1,0 +1,858 @@
+VERIZON WIRELESS LIMITED DISTANCE LEARNING AUTHORIZED
+CUSTOMER AGREEMENT
+This agreement (“Authorized Customer Agreement” or “Agreement”) is made by and between Cellco Partnership d/b/a Verizon
+Wireless, on behalf of itself and those of its affiliates providing services under this agreement (“Verizon Wireless”) and Iowa City
+Community School District, having its principal place of business at 2255 N Dubuque Road Iowa City Iowa 52245 (“Authorized Customer”
+or “Customer”), a Qualifying Library or School (as defined below).
+Whereas, Verizon entered into an agreement (“LAUSD Agreement”) with the LOS ANGELES UNIFIED SCHOOL DISTRICT (“LAUSD”
+or the “District”) where Verizon agreed to extend negotiated pricing for “ANYTIME-ANYWHERE LEARNING INITIATIVE” DATA PLAN and
+EQUIPMENT OFFERING(S)” to K-12 public schools and public libraries in Alaska, Arizona, Colorado, Hawaii, Idaho, Iowa, Illinois, Indiana,
+Kansas, Michigan, Minnesota, Missouri, Montana, North Dakota, Nebraska, Nevada, New Mexico, Ohio, South Dakota, Texas, Utah, and
+Wisconsin (each a “Qualifying Library or School” and together “Qualifying Libraries and Schools”) purchase “ANYTIME-ANYWHERE
+LEARNING INITIATIVE” DATA PLAN and EQUIPMENT OFFERING(S)” at discounted rates.
+Whereas Verizon and Authorized Customer have agreed to the sale of the negotiated “ANYTIME-ANYWHERE LEARNING
+INITIATIVE” DATA PLAN and EQUIPMENT OFFERING(S)” to Authorized Customer under the terms and conditions of this agreement.
+NOW THEREFORE, in consideration of the mutual promises and conditions set forth herein, and intending to be legally bound, the Parties
+hereto agree as follows:
+1. Definitions:
+1.1. Effective Date: The date that this Agreement is signed by the last Party to sign below.
+1.2. Equipment: Equipment necessary to provide the “ANYTIME-ANYWHERE LEARNING INITIATIVE” DATA PLAN. Only the Equipment
+set forth in this Agreement is available for purchase from Verizon Wireless.
+1.3. Legal Notice: A written communication given by one Party to the other that advises of a dispute under or termination of this
+Agreement, or that is otherwise required by this Agreement.
+1.4. Products and Services: The plans, features, and products and services that Verizon Wireless will provide under this Agreement,
+as described in this Agreement.
+1.5. Wireless Service: The “ANYTIME-ANYWHERE LEARNING INITIATIVE” data service and plan.
+2. Term of Agreement: This Agreement term shall commence on the Effective Date. The term shall continue until March 12, 2029, or such
+earlier or later date the LAUSD Agreement terminates. The minimum line term is three (3) months; thereafter, services are on a Month-to-
+Month basis. It is expressly understood and agreed that neither Party has any right or expectation of renewal beyond the term of this
+Agreement as stated above and that either Party may decide in its sole discretion to not renew this Agreement.
+3. Purchases by Customer: The Los Angeles Unified School District (“LAUSD”) negotiated rates for the “ANYTIME-ANYWHERE LEARNING
+INITIATIVE” DATA PLAN and EQUIPMENT OFFERING(S) may be made available to Qualified Libraries and Schools, subject to the following
+and the terms of this Agreement. The Authorized Customer hereby agrees that it is separately and solely liable for all obligations and
+payments for Data Plan equipment and services provided under this Authorized Customer Agreement. LAUSD will not be responsible for
+payments for Data Plan services provided to any individual Authorized Customer under this Authorized Customer Agreement. Authorized
+Customer understands and agrees that it is only a beneficiary of the pricing under the LAUSD Agreement for the products and services
+described in this Agreement, and no other provision.
+4. Purchases made under this Authorized Customer Agreement will only be used to support Qualifying Libraries and Schools within the state
+where Authorized Customer is located. Verizon Wireless reserves the right to terminate this Authorized Customer Agreement if it is
+determined that the Authorized Customer does not a Qualifying Library and School. Authorized Customer must provision each Data Plan with
+Mobile Device Management Software that ensures Children’s Internet Privacy Act (CIPA) compliance.
+5. In order for the Authorized Customer to benefit from discounted pricing for Qualifying Libraries and Schools under the LAUSD sponsored
+1
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+“ANYTIME-ANYWHERE LEARNING INITIATIVE”, the Authorized Customer agrees to the disclosure of limited account information as part of
+the contractual reporting requirements to LAUSD.
+6. Customer must provide to Verizon Wireless written notice of those individuals in Customer’s agency that have legal authority to purchase
+Equipment, Wireless Service, and Products and Services under this Agreement (these are your “Points of Contact”). Unless Customer tells
+Verizon Wireless otherwise, these Points of Contact will have full authority to handle all matters related to this Agreement, including
+authorizing or blocking Customer’s employees from purchasing particular Products and Services. The person signing this Agreement shall
+automatically be designated as a Point of Contact. Customer can designate a third party to act as its Point of Contact as long as Customer
+signs Verizon Wireless’s letter of agency naming the third party and indicating the scope of its authority.
+7. Devices
+7.1. Devices Purchased from Verizon Wireless: You may purchase Devices from us at a discount, subject to the requirements for such
+discount. Discounted Devices and accessories may not be purchased to resell. You must activate any discounted Device on our
+network within 30 days of receipt; otherwise, we will charge you the difference between the discounted price you paid and the
+full retail price of the Device. Violation of this section may, in our sole discretion, result in the (a) limitation or discontinuance of
+the sale of Devices at a discount; (b) termination of Corporate Subscriber lines or M2M Lines; (c) termination of this Agreement
+upon Legal Notice; and (d) pursuit of such other legal or equitable remedies. We may adjust Device pricing to reflect higher costs
+from original equipment manufacturers due to U.S. governmental tariffs on goods manufactured outside of the U.S., if applicable.
+7.1.1. Shipping; Risk of Loss; Acceptance of Devices from Verizon: Title and risk of loss pass to Customer, and your acceptance
+occurs, when Verizon Wireless delivers the Device(s) at the address designated on your order. Verizon Wireless may charge
+Customer for shipping. Verizon Wireless will ship Devices to you within five business days of receipt of order, subject to
+availability. Customer may exchange any Device or return it within thirty (30) days from acceptance. Devices provided under
+the Subsidized Jetpack Plan must be activated within thirty (30) days of delivery.
+7.2. Equipment Purchased from Original Equipment Manufacturer (OEM): Customer may activate Equipment that Customer
+purchases from Original Equipment Manufacturers (OEM), but that Equipment must be on Verizon Wireless’ approved Equipment
+list when Customer activates them. OEMs establish their own legal terms for the sale of Equipment, and Verizon Wireless has no
+control over their charges, terms or return policies. Verizon Wireless is not responsible for any claims related to such OEM
+Equipment or Customer’s use of them. Equipment that Verizon Wireless has not approved may cause transmissions to fail, be
+blocked or misrouted, may use Wireless Service in a manner Customer does not intend, and may attempt to continue to register
+on Verizon Wireless’s network after termination. Such activities may result in additional charges for which Customer will be
+responsible.
+7.3. Only Equipment purchased from Verizon Wireless under this Agreement or directly from OEMs may be placed on the Data Plan.
+7.4. Lost or Stolen Equipment: If Customer loses Equipment or it is stolen, Customer may request that Verizon Wireless suspend
+service and billing to the affected M2M Line for up to 30 days. Until a suspension begins, Customer is still responsible for charges.
+After the suspension ends, service and billing for the line will resume. The time of any suspension will not count toward satisfying
+the Line Term.
+8. Wireless Service Terms
+8.1. Wireless Service Availability: Wireless Service uses radio technologies and is subject to transmission and service area
+limitations, interruptions, and dropped calls caused by atmospheric, topographical or environmental conditions, cell site
+availability, the Device or its installation, governmental regulations, system limitations, maintenance or other conditions or
+activities affecting operation. Wireless Service is only available within each applicable plan coverage area, within the operating
+range of the wireless systems, and with Devices that are approved to operate on our network. Customer acknowledges that in
+some areas, Wireless Service may be provided by a third-party roaming carrier, subject to our agreements with such carriers.
+Data service on these roaming carriers’ networks may be limited or slowed. Third-party roaming carriers are not our
+affiliates or subcontractors, and we bear no liability for their network performance or their actions or omissions. Customer
+2
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+must activate your Devices within the areas served by the Verizon Wireless owned and operated network in the United States
+and must deploy Customer’s fixed-location Devices within these areas. Customer’s mobile Devices may be used to roam on the
+networks of our roaming partners in the United States and, if permitted by your plan, other countries, but must be primarily
+used on our owned and operated networks in the United States. We reserve the right to terminate any Government Subscriber
+lines and M2M Lines that are not primarily used on our owned and operated network.
+8.2. Enhancement of Wireless Service: Customer must obtain our approval and written agreement before installing, deploying or
+using any regeneration equipment or similar mechanism (for example, a repeater) to originate, amplify, enhance, retransmit or
+regenerate Wireless Service. Verizon Wireless may terminate Customer’s Government Subscriber lines and M2M Lines and,
+upon Legal Notice, may terminate this Agreement and pursue any other available remedies if Customer violates this section.
+8.3. Use of Wireless Service and Devices; MTNs; SIMs: In order to protect our network, operations, and other customers, we may
+suspend or terminate service to affected lines with prior written notice, deny activation of new lines or, upon Legal Notice, may
+terminate this Agreement, if Customer uses the Wireless Service or Devices (a) in an illegal or improper manner (including
+"spamming" or other abusive messaging or calling); (b) in a manner prohibited by the applicable terms of the Products or
+Services; or (c) in a manner that, in our sole discretion, has an adverse impact on our network, operations or customers.
+Customer shall be solely responsible for the use of the Wireless Service to transmit, receive, store or process its data in
+compliance with applicable laws and regulations. Customer may only use Wireless Service on unmanned aerial vehicles (UAVs)
+with Devices and plans that Verizon Wireless has designated and approved for such use. Verizon Wireless will assign one mobile
+telephone number ("MTN") to each line. Customer can port a MTN to another carrier, but Customer does not have any property
+right in the MTN. Verizon Wireless may change, reassign or eliminate a MTN upon reasonable notice to Customer under certain
+circumstances, including fraud prevention, area code changes, and regulatory or statutory law enforcement requirements. If the
+Device requires a Subscriber Identity Module ("SIM") card provided by Verizon Wireless, Verizon Wireless owns any intellectual
+property or software on the SIM card.
+8.4. Termination, Suspension or Limitation of Wireless Service or Agreement: Verizon Wireless can, immediately and without
+notice, limit, suspend or terminate Customer’s Wireless Service or the Agreement for any good cause, including, but not limited
+to: (1) if you: (a) breach this Agreement; (b) use your Wireless Service for any illegal, improper or fraudulent purpose, including
+use that violates trade and economic sanctions and prohibitions promulgated by any US governmental agency; (c) are unable
+to pay us or go bankrupt; or (d) default under any device financing agreement with Verizon Wireless; or (2) if Customer, any
+user of Customer’s Device or any Point of Contact on Customer’s account: (a) threaten or harass our representatives; or (b)
+modify Customer’s Device from its manufacturer's specifications. We can also temporarily limit Customer’s Wireless Service
+for any operational or governmental reason
+8.5. Line Term. Once you complete a Line Term, the line will be on a month-to-month basis.
+8.6. No Resale. The resale of Products or Services is strictly prohibited.
+9. Monthly Bills: Customer’s billing and shipping addresses must be in Verizon Wireless’s licensed service area. Verizon Wireless will
+bill Customer monthly, and Customer is responsible for paying all fees, charges, Taxes and Surcharges (as defined in the “Taxes;
+Surcharges; Exemptions” section below). Verizon Wireless generally bills monthly access fees and feature charges for the current
+month of service, and airtime overage and other usage charges in arrears.
+10. Disputed Charges: Customer must dispute any charges within 180 days of the due date of the bill by giving Verizon Wireless written
+notice, including the date of the bill, the disputed amount, the reason for the dispute, and any supporting documentation. Verizon
+Wireless will make a good faith effort to reconcile the dispute within 60 days of the date of Customer’s notice.
+11. Payment Terms: Customer is required to pay undisputed charges within 30 days of the date of each bill.
+12. Failure to Pay: If Customer fails either to make a payment on time or to dispute charges as required, Verizon Wireless may block
+3
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Customer’s use of the Product and Service or take action as set forth in the applicable Service Attachment.
+13. Taxes; Surcharges; Exemptions: If Verizon Wireless is legally required to collect taxes, fees, assessments or other charges, or if a
+roaming partner charges a tax (each, a “Tax”), then Verizon Wireless will bill Customer for those Taxes. If Verizon Wireless incurs an
+expense to comply with legal or governmental requirements, or to provide or improve service to our customers (other than a net
+income tax), Verizon Wireless may bill a surcharge to recover or offset that expense (a “Surcharge”). Taxes and Surcharges may
+change from time to time. If Customer provides Verizon Wireless with an official Tax exemption certificate or with other evidence
+of exemption that Verizon Wireless finds acceptable, then Verizon Wireless will not collect Taxes covered by the exemption, except
+those charged by a roaming partner. If, however, Customer asks Verizon Wireless to apply an exemption and the exemption is later
+found not to apply, Customer will be responsible to pay the uncollected Tax, plus interest and any penalties, to the extent permitted
+by applicable law, regulations and/or ordinances. Verizon Wireless does not issue credits for Taxes billed before Verizon Wireless
+receives evidence of exemption.
+14. LIMITATION OF DAMAGES: NEITHER PARTY, NOR ITS AGENTS OR VENDORS, SHALL BE LIABLE TO THE OTHER PARTY, ITS EMPLOYEES
+OR AGENTS FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION
+LOST PROFITS, LOST BUSINESS, OR OTHER COMMERCIAL OR ECONOMIC LOSS, WHETHER SUCH DAMAGES ARE CLAIMED FOR
+BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF WARRANTY OR OTHER THEORY, AND REGARDLESS OF
+WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES UNLESS APPLICABLE LAW FORBIDS A
+WAIVER OF SUCH DAMAGES. UNLESS DIRECTLY CAUSED BY THE WILLFUL MISCONDUCT OF VERIZON WIRELESS, VERIZON WIRELESS
+SHALL NOT BE LIABLE TO CUSTOMER, ITS EMPLOYEES OR AGENTS FOR INJURY TO PERSONS OR PROPERTY, LOSSES (INCLUDING ANY
+LOSS OF BUSINESS), DAMAGES, CLAIMS OR EXPENSES OF ANY KIND CAUSED DIRECTLY OR INDIRECTLY BY (1) THE EQUIPMENT; (2)
+SOFTWARE OR APPLICATIONS ON OR USED WITH THE EQUIPMENT OR WITH WIRELESS SERVICE (OR THE USE OR LOSS OF USE
+THEREOF); (3) LOSS OF OR WRONGFUL ACCESS TO DATA STORED BY VERIZON WIRELESS; OR (4) ANY INTERRUPTION OF WIRELESS
+SERVICE. IN NO EVENT SHALL VERIZON WIRELESS OR ITS VENDORS BE LIABLE FOR LOSSES, DAMAGES, CLAIMS OR EXPENSES OF ANY
+KIND ARISING OUT OF THE USE OR ATTEMPTED USE OF, OR THE INABILITY TO ACCESS, LIFE SUPPORT OR MONITORING SYSTEMS OR
+EQUIPMENT, 911 OR E911, OR OTHER EMERGENCY NUMBERS OR SERVICES.
+15. Confidentiality: DATA PLAN and EQUIPMENT pricing provided by Verizon Wireless will be kept 100% confidential and not released
+publicly in any manner unless otherwise required by law. Release of DATA PLAN and EQUPMENT pricing to CA Schools is exempt
+from this Confidentiality provision.
+16. Assignment: Any assignment requires the Parties’ prior written consent. The Parties agree that this Agreement shall be for the
+benefit of and binding on our respective successors and permitted assigns.
+17. Force Majeure: Any failure by Verizon Wireless to perform shall be excused if caused by failure of a third-party wireless or
+telecommunications provider serving a particular area, power failure, national emergency, interference by any governmental
+agency, act of God, strike or other labor disturbance, fire, terrorism, riot, war, or any other cause beyond Verizon Wireless’s
+reasonable control.
+18. Notices: Verizon Wireless will provide notice of most issues related to Customer’s use of the Equipment, Wireless Service or the
+Products and Services via mail or e-mail to Customer’s Point of Contact, or via a message with Customer’s monthly bill. Any Legal
+Notice required by this Agreement must be given in writing and delivered by registered or certified mail or express courier to the
+receiving Party’s address and will be deemed effective upon delivery. Legal Notice, should be sent to the following addresses
+If to Customer:
+Customer
+Contact Name: Josh Reynolds
+Title: IT Manager
+Address: 2255 N Dubuque Road Iowa City IA 52245
+Address:
+If to Verizon:
+Verizon Wireless
+Sr Director- Contract Mgmt., State & Local Government
+10170 Junction Drive, Floor 02
+Annapolis Junction, MD 20701
+4
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+19. Governing Law; Venue; Jurisdiction: Both Parties agree that the laws of the state where Authorized Customer is located shall govern
+the validity, construction and performance of this Agreement.
+20. Waiver; Severability; Survival: No provision of this Agreement shall be considered waived unless both Parties agree in writing to such
+waiver. Either Party’s forbearance or delay in enforcing any right under this Agreement shall not be construed as a waiver of such
+right. If a court of competent jurisdiction holds any provision of this Agreement invalid, illegal or unenforceable, the remaining
+provisions of this Agreement shall remain in full force and effect. Termination of this Agreement shall not affect either Party’s
+accrued rights or obligations under this Agreement as they exist at the time of termination, or any rights or obligations that either
+expressly or by implication continue after this Agreement has ended.
+21. Counterparts: Verizon Wireless and Customer can each execute a counterpart version of this Agreement. When delivered to the
+other Party, each shall be deemed to be an original and all versions together shall constitute one instrument. An electronic or
+facsimile copy of the executed Agreement shall be deemed, and shall have the same legal effect as, an original document.
+22. Entire Agreement: The terms and conditions of this Agreement constitute the entire agreement between the Parties with respect to
+this subject matter. This Agreement, including any exhibits, schedules, and attachments, supersedes any and all prior agreements and
+understandings on the subject matter of this Agreement. There are no other oral or written understandings or agreements between
+the Parties relating to the subject matter of this Agreement. This Agreement shall not be amended or modified, including by a
+purchase order, unless both Parties agree in writing.
+5
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+The undersigned is duly authorized by the Authorized Customer to designate the “Authorized Contacts” (“Exhibit C”), who are authorized
+to take action with respect to the account established with Verizon Wireless to purchase equipment, add lines of service, cancel lines of
+service, and make changes to the account that financially bind the Authorized Customer to the terms and conditions of this Authorized
+Customer Agreement.
+SIGNATURES
+Each Party represents and warrants to the other that: (a) it is in good standing under the laws of the state of its incorporation or
+formation; (b) the execution, delivery and performance of this Agreement have been duly authorized by all necessary company action
+to the extent applicable; and (c) the person signing this Agreement on its behalf is duly authorized to bind it to this Agreement.
+CUSTOMER Cellco Partnership d/b/a Verizon Wireless
+Signature: Date: Signature: Date:
+Printed Name: Printed Name: Clifton Miller Jr.
+Title: Title: Sr. Dir – Contract Management
+6
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Exhibit A
+DATA PLAN AND EQUIPMENT OFFERING(S)
+DATA PLAN:
+4G/5G UWB Machine-to-Machine (M2M) Unlimited Plan
+1
+K12/Library Off-Campus M2M
+Government Subscribers Only
+This plan is NOT eligible for monthly access fee discounts.
+Monthly Access Fee3 $15.00
+5G Ultra Wideband Data Allowance2 Unlimited
+Plan ID 82904
+Notes: These are generally available M2M plan. Current coverage details and additional plan information can be found at
+www.verizonwireless.com. Coverage includes the Verizon Wireless 5G Ultra Wideband network, 5G Nationwide® network, and 4G LTE
+network. For avoidance of doubt, the Verizon Wireless 5G Nationwide network is a separate network from the Verizon Wireless 5G Ultra
+Wideband network. Subscribers on these plans cannot place or receive voice calls other than to 611 or 911 (these calls may be placed
+anywhere in the domestic Verizon Wireless coverage area).
+1These plans are for machine-to-machine service, and can only be activated on approved 5G compatible Customer-provided devices. 2Data
+Allowance: After 22GB of data usage on a line during any billing cycle, usage may be prioritized behind other in the event of 4G and 5G
+Nationwide network area congestion. And, Verizon Wireless will limit the data throughput speeds to up to 600 Kbps for additional usage
+while on the 4G and 5G Nationwide network, and up to 3 Mbps when on the 5G UWB network for the remainder of the then-current
+billing cycle for the line that exceeds the data usage.
+3The monthly access fee will be pro-rated when changing plans during a billing period.
+Video Shaping: To ensure users are able to maximize their high-speed data use for business applications, video applications will stream
+at up to 720p while on the 4G and 5G Nationwide networks, and, will apply video streaming up to 4K when on the 5G UWB network.
+Customer must provide equipment (CPE): is limited to devices purchased directly through an Original Equipment Manufacturer or from
+Verizon Wireless at the cost designated in the Authorized Customer Agreement.[VZW1] CPE must be a 4G LTE device approved for use on
+Verizon Wireless’ network.
+Roaming: Lines activated on this plan cannot be used outside the United States.
+^Device must remain active for a minimum of 3 months. Customer will be charged a monthly access of $15.00 per device, per month,
+for each device that does not remain in service for a minimum of three (3) months for up to a total of $45.
+Custom 4G Unlimited Mobile Broadband Plan for Routers
+7
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+K12/Library Off-Campus 4G Bus WiFi
+Government Subscribers Only
+This plan reflects the monthly access fee discount. No additional discounts apply.
+Monthly Access Fee $34.99
+Data Allowance1 Unlimited
+Plan ID 77557
+Notes: Current coverage details and additional plan information can be found at www.verizonwireless.com. Coverage includes the
+Verizon Wireless 5G Nationwide® network and 4G LTE network. For avoidance of doubt, the Verizon Wireless 5G Nationwide network is
+a separate network from the Verizon Wireless 5G Ultra Wideband network. Only 5G Nationwide and 4G LTE routers can be activated on
+this plan. Dedicated streaming internet connections, streaming video on non-smartphone devices (including but not limited to, body
+cameras and stationary video surveillance cameras), and IoT devices are expressly prohibited on this plan.
+1If 25 GB of domestic data usage is exceeded on any line in any given billing cycle, Verizon Wireless will limit the data throughput speeds
+to up to 600 Kbps for additional usage for the remainder of the then-current billing cycle for the line that exceeds the data usage.
+Device must remain active for a minimum of 3 months. Customer will be charged a monthly access of $34.99 per device, per month,
+for each device that does not remain in service for a minimum of three (3) months for up to a total of $104.97.
+Customer must provide equipment (CPE): is limited to devices purchased directly through an Original Equipment Manufacturer or from
+Verizon Wireless at the cost designated in the Authorized Customer Agreement.[VZW1] CPE must be a 4G LTE device approved for use on
+Verizon Wireless’ network.
+Roaming: Lines activated on this plan cannot be used outside the United States.
+Custom Business Unlimited Mobile Broadband Data + 5G UWB Plan
+K12/Library Off-Campus 5G Bus WiFi
+Government Subscribers Only
+This plan is NOT eligible for monthly access fee discounts.
+Monthly Access Fee $40.00
+Data Allowance2 Unlimited1
+Plan ID 76407
+Notes: Coverage includes the Verizon Wireless 5G Ultra Wideband (UWB) network, 5G Nationwide® network, and 4G LTE network. For
+avoidance of doubt, the Verizon Wireless 5G Nationwide network is a separate network from the Verizon Wireless 5G Ultra Wideband
+network.. Lines activating on this plan must be on 5G or 4G LTE mobile broadband data devices, including jetpacks, USBs/air cards,
+netbooks, and notebooks.
+1If 50 GB of domestic data usage is exceeded on any line in any given billing cycle, Verizon Wireless will limit the data throughput speeds
+to up to 600 Kbps in 4G LTE network service areas and up to 3 Mbps in 5G UWB network service areas for additional usage for the
+remainder of the then-current billing cycle for the line that exceeds the data usage.
+2Data can be used in 4G LTE, 5G Nationwide, or 5G UWB markets. A 5G device is required to receive 5G UWB service. Network default
+and capability of the device will determine video streaming in 4G LTE and 5G Nationwide markets.
+A brief service outage and device reboot may be required in order for this plan to take effect on existing 5G UWB lines.
+Device must remain active for a minimum of 3 months. Customer will be charged a monthly access of $40.00 per device, per month, for
+8
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+each device that does not remain in service for a minimum of three (3) months for up to a total of $120.
+Customer must provide equipment (CPE): is limited to devices purchased directly through an Original Equipment Manufacturer or from
+Verizon Wireless at the cost designated in the Authorized Customer Agreement.[VZW1] CPE must be a 4G LTE device approved for use on
+Verizon Wireless’ network.
+Roaming: Lines activated on this plan cannot be used outside the United States.
+EQUIPMENT OFFERING(S):
+• Orbic Speed Jetpack Device (SKU: ORB400LBVZRT) or comparable device is available for $57.00 per device.
+• Verizon Orbic Speed 5G MiFi or comparable device is available for $229.99 per device;
+• Chromebook NL7CT-L (SKU: CBUS1100006) or comparable device is available for $399.99 per device
+• Customer Provided Equipment (“CPE”) may be activated on the DISTANCE LEARNING DATA PLAN and is limited to devices
+purchased directly through an Original Equipment Manufacturer (“OEM”) or from Verizon Wireless.
+OPTIONAL OFFERING(S)
+The following solution exhibits are Optional Offering(s). These solutions are recommended by Verizon to provide filtering, security, and
+compliance functionalities. Please work directly with your Verizon Account Manager for ordering and implementation.
+Asavie Moda is a network-based “all-in-one” web portal security and data management solution that enables organizations to easily and
+effectively manage security and productivity, along with rich reporting insights on all their mobile devices.
+The Asavie Moda solution extends the security provided by the customer’s Mobile Device Management platform into the network by
+delivering real-time visibility, control and security of the data in transit for any mobile device.
+Asavie Moda
+Government Distance Learning Customers Only
+The price below reflects the monthly access discounts. No additional discounts apply.
+Description SKU Name Plan ID Quantity Annual Monthly
+677970 (Annual)
+1Asavie Moda for MPN Gov Customers ModaMPNG
+677971 (Monthly)
+1+ $42.00 $3.50
+9
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Notes. Asavie Moda is an all-in-one web portal that is an easy to deploy security and data management solution for an entire mobile
+estate.
+1Asavie Moda for MPN Gov Customers – Does require customers to use pricing and equipment in accordance with the Private Network
+terms and conditions as your contract allows.
+Products shown or referenced are provided by Asavie Technologies, Inc. (“Asavie”), a Verizon Partner Program Member, which is solely
+responsible for the representations and the functionality, pricing and service agreements. Asavie can connect to several different systems
+including cloud based and server based applications. Customer may purchase Asavie licenses and services (“Asavie Services”), to be billed
+by Verizon Wireless, at the prices listed above. Verizon Wireless is not the licensor of the Asavie Services and makes no representations
+or warranties whatsoever, either express or implied, with respect to them. Asavie Services are manufactured by Asavie Technologies,
+Inc. Any license for Asavie Services must be obtained directly from Asavie either upon purchase or installation of the Asavie
+Services. Asavie Services are subject to Asavie terms and conditions and can be viewed
+here: https://support.moda.us.asavie.com/About/eulagreement-government.htm. Verizon Wireless will direct Asavie to fulfill
+Customer’s Asavie Services order. Customer support for Asavie Services must be obtained directly from Asavie Technologies, Inc. If
+Verizon Wireless in its sole discretion determines that an inquiry from a subscriber is related to Asavie Services and is not one concerning
+Equipment or Wireless Service, it may transfer the service request to appropriate Asavie representatives.
+Verizon Wireless Private Network (Private Network) is a comprehensive solution that joins wireless devices to the organization’s internal
+IP network using a dedicated connection that isolates data from the public Internet. It extends a corporate IP network to wireless devices,
+while enabling your IT department to maintain the control and manageability that it needs. With Private Network, organizations can take
+charge of their evolving networks by:
+- Avoiding the exposure of wireless devices and internal networks to the inherent risks of solicited public Internet traffic.
+- Controlling which wireless devices can connect to the network.
+- Controlling which network resources the wireless devices and machines can access.
+- Leveraging the convenience of mobility and wireless technologies to introduce new opportunities.
+With Private Network, organizations can add devices to their own internal networks, with their own IP addressing, to be managed by their
+own support personnel. This empowers them to make wireless solutions part of their infrastructure and extend their core-computing
+networks farther, faster and easier. Private Network is also compatible with Verizon Mobile Device Manager. And organizations can be
+confident knowing that their Private Network is backed by the coverage, speed and reliability of Verizon. We can help organizations make
+the most of wireless communications to securely and cost-effectively power their networks.
+Private Network/Dynamic Mobile Network Routing (DMNR)/Service Based Access(SBA)
+Static IP – Isolated Pool w/Fixed End System (FES) [Internet Restricted]
+The Account Set-Up Fees below reflect any applicable discount. No additional discounts apply.
+Mobile Broadband and metered data plans or features only
+Configuration Cost
+Per Account FES Connect Set-Up (One time fee) $1,500.00
+Private Network Only Private Network with Private Network Static IP Only
+DMNR with SBA
+10
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Per Account Level Set-Up (One time fee) Waived $250.00 $250.00 Waived
+DMNR or SBA (Per build) $250.00 (Adding to existing Private Network Only)
+Note: Set-Up fees apply to new Private Network/DMNR/SBA builds (Verizon Home Agent Portal (VHAP)). This applies to New Private
+Networks built as Standard, Parent or Child. Subscribers that are placed into this pool will be limited to utilizing the Verizon Wireless
+Network for transport to and from their FES connections to the Verizon Wireless Network. Static IP addresses will be available on remote
+access, Mobile Broadband and Unlimited metered data plans or features only. Fees may not apply in certain VPN environments. Fees
+are per account level (regardless of the number of IPs ordered) selecting Static IP, and may apply in addition to $1500.00 Connect Fee in
+certain configurations. Does not include MPLS.
+Static IP: Fees are per account level (regardless of the number of IPs ordered). Static IP addresses will be available on remote access,
+Mobile Broadband and metered data plans or features only. Static IP addresses may be reserved and should be assigned to the mobile
+numbers within 90 days. De-activated Static IP addresses will go into an “ageing pool” for 24 hours. After 24 hours, these Static IP
+addresses will be returned to reserved status for the account. Reserved Static IP addresses will be shown at the account level and can be
+viewed from the billing system. Feature activations will be stored in the “data warehouse” database along with the Static IP Address for
+reporting. A Static IP address is associated with the device’s MDN (Mobile Dialing Number). Each time the subscriber initiates a data
+session the Static IP address that is associated with their MDN is assigned to their device for each session. Subscribers completing an
+ESN (Electronic Serial Number) change will retain their Static IP address.
+Eligible 4G data service: Mobile Broadband, Mobile Broadband Wireless Router, Telemetry (M2M), Wireless Email, or usage-based
+Megabyte pricing. DMNR and SBA are optional features that can co-exist on a Customer's Private Network profile.
+Verizon Wireless Private Network Terms and Conditions
+Verizon Wireless Private Network Service (“Private Network”): Private Network extends Customer’s IP network to its wireless
+equipment by segregating the data between such devices and Customer’s servers from the public Internet (the “Internet”). Customer’s
+use of Private Network is subject to the Private Network Roles and Responsibilities Customer Guidelines, which are available from your
+Sales representative.
+Customer Minimum Line Requirement: Customer must maintain a minimum of 100 Machine-to-Machine lines at all times during the
+term of its Agreement in order to remain eligible for Private Network. If Customer falls below the 100-line minimum, Verizon Wireless
+reserves the right to discontinue Private Network for non-use.
+Connection to Verizon Wireless Facility: Customer must establish a direct-connect circuit from its facilities to Verizon Wireless’s facilities
+by the use of Virtual Private Network, Verizon Private IP, or Fixed End System connections. Customer is solely responsible for making
+arrangements with a local access provider for installation and ongoing maintenance of such a connection, with sufficient data throughput
+to meet Customer’s anticipated data needs. Customer is also responsible for all charges incurred directly or through a third party
+associated with establishing the connection, as well as for accessing Private Network, including Internet access fees, hardware, software,
+license fees, and telecommunications charges.
+Customer Provided Equipment (“CPE”): Customer must procure routers and any other CPE that meet Verizon Wireless requirements for
+Private Network connectivity. Customer is responsible for ensuring any CPE meets its data capacity and throughput needs.
+IP Addresses: Customer is responsible for procuring private IP addresses, which must be communicated to Verizon Wireless during
+implementation. Private Network supports static and dynamic addressing for 1X service and/or EVDO service; 4G LTE service; and
+Internet addressing system Internet Protocol version 4. Direct Internet access requires static IP addressing.
+Dynamic Mobile Network Routing (“DMNR”): DMNR allows configuration of Private Network for dynamic routing to the subnets it serves
+(up to eight) to other devices on Customer’s network and as support for mobile or stationary routers. DMNR is based off Mobile IPv4-
+based Network Mobility protocol and requires the router to be configured to support this capability. Customer is responsible for any
+charges associated with the customization of its CPE to support DMNR.
+Verizon Wireless Mobile Device Management (MDM) is a Verizon-branded management portal that integrates Verizon differentiated
+11
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+services into a unified and intuitive customer experience. Verizon’s MDM solution features Enterprise Firmware Over the Air (FOTA)
+Management, Device Diagnostics for Verizon Wireless customers, Broadband Mobile Hotspot Management, and Unified Endpoint
+Management.
+The Verizon MDM solution suite consists of the following services:
+- Broadband Hotspot Management allows administrators to manage selected Jetpacks and USB devices completely over
+the air for corporate liable devices. Enterprises can apply security policies such as Set Service Identifier (SSID),
+passphrase, encryption, and administrator password. Administrators can also restrict devices and control settings to
+prevent end users from circumventing security policies.
+- Unified Endpoint Management (UEM) manages, configures, and protects iOS and Android devices. UEM can help
+enterprises: prevent users from changing settings, configure security settings remotely, and restrict device connections;
+install and block applications on the device; store and manage policies in the cloud and apply policies over the air; lock
+and wipe devices; dynamically create alerts or change policies based on device conditions; configure Wi-Fi policies; and
+enforce corporate policies such as passwords and encryption.
+Verizon Mobile Device Management (MDM): Distance Learning Subscribers
+These calling features reflect the monthly access charge discount. No additional discounts apply
+Verizon MDM Feature Access Fee
+Broadband Hotspot Management1 $0.00/device per month
+Unified Endpoint Management2 $1.00/device per month or $10/device per year
+UEM Advance Features $1.00/device per month
+$2.00/device per month
+UEM with Advance Features
+Note: See attached Calling Plan and Feature Details for important information about calling plans, features and options. Verizon MDM
+supports select devices and operating systems and may require installation of a software agent. Verizon MDM features are ordered and
+billed separately. The Verizon MDM portal is a CLOUD BASED SYSTEM and accessed via an Internet Browser.
+⮚ 1 Broadband Hotspot Management (BBHS) currently supports Broadband Hotspots also known as Jetpacks.
+⮚ 2 Unified Endpoint Management (UEM) requires smartphones and Tablets to be under supervision with their respective device
+enrollment programs, prior to managing device configurations within the Verizon MDM’s customers' instance.
+o Requires iOS 12 or Higher
+o Requires iPad OS 13 and higher
+⮚ UEM Advance Features
+o Requires Unified Endpoint Management (UEM)
+⮚ All services are billed at the account level
+**Due to a number of features that require HTML 5, the Verizon MDM portal requires the latest generation browsers (Google Chrome
+and Microsoft Edge) or two generations earlier.
+VERIZON MOBILE DEVICE MANAGEMENT SERVICE TERMS & CONDITIONS
+Verizon Mobile Device Management (MDM) (the "Service") provides device management services from a cloud-based portal to entities to
+manage their remote assets, smart devices and Jetpacks. Through the Service, entities will be able to (1) manage smart phone and tablet
+configurations for devices running Android® and Apple® iOS with the Unified Endpoint Management license, and (2) manage security profiles
+and settings on selected Jetpacks and MiFi with the Broadband Hotpot Management license. By using the Service, the entity purchasing the
+Service (“Customer”) acknowledges that Customer has read all of the terms and conditions of this agreement (“Agreement”), understands
+them, and agrees to be bound by them. This Agreement is by and between the Customer and Cellco Partnership d/b/a Verizon Wireless, on
+behalf of itself and its controlled and/or managed affiliates (collectively, “VZW”).
+12
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Customer may separately purchase the Verizon MDM Implementation Service for assistance with the setup, configuration, and onboarding
+of the Service, as further described in the separate VZMDM Implementation Service Terms referenced in Section 11 and provided as
+Attachment 1 below.
+Verizon Wireless Agreement. This Service is subject to all of the terms in Customer’s agreement for wireless service with VZW, which is
+incorporated herein by reference. To purchase or use the Service, Customer must have an active VZW account.
+Billing. Customer’s use of the Service will be billed according to the terms of Customer’s agreement for wireless service with VZW.
+• Restrictions on Use. Customer will use the Service solely for Customer’s internal use subject to any restrictions or exceptions as
+set forth in this Agreement. Customer will not: (i) modify, make derivative works of, disassemble, reverse compile, or reverse
+engineer any information contained in the Service; (ii) use the Service in order to build or support, or assist a third party in building
+or supporting, products or services competitive to VZW; or (iii) license, sell, rent, transfer, assign, or otherwise commercially exploit
+the Service or any content in the Service other than as expressly permitted in this Agreement.
+• Security Measures. Customer will implement and maintain security measures with respect to the Service that effectively restrict
+access to the Service to authorized personnel with a need to know, and that protects the Service from unauthorized use or access.
+Customer will ensure that the Service is not accessed, used, or made available to third parties or to Customer’s employees who are
+not authorized to access the Service.
+• License. Subject to the terms and conditions of Customer’s agreement with VZW for wireless service, VZW grants Customer a non-
+exclusive, non-transferable, non-assignable, royalty free license for use of the Service solely for internal business operations. The
+license granted herein is effective throughout the Term (defined in Section 10 below) of this Agreement.
+• Intellectual Property Rights. VZW and/or its applicable third party suppliers or vendors own all intellectual property rights in the
+Service and its devices, components, platform, software, tools, portal, documentation, and other materials relating thereto,
+including modifications, updates, revisions or enhancements. All rights not explicitly given are reserved by VZW and/or its
+applicable third party suppliers or vendors.
+• Privacy; Notice and Consent. "Mobile Device" means any mobile device, including smartphones, tablets, smartwatches and other
+wearables, laptops and netbook computers that Customer provides to its End Users and are enrolled in Verizon MDM. "End User"
+means any person (e.g., employee, contractor) with a Mobile Device whose Location Information can be viewed by Customer using
+the MDM. "Location Information" means data that can be used to describe, determine or identify the location of the Mobile Device.
+Location Information may be presented in many forms such as latitude/longitude data, cell site/sector data, WiFi SSID, device signal
+strength or other format regardless of accuracy, type or source. Customer will be able to access information about all Mobile
+Devices associated with Customer’s VZW account.
+• Consent and Revocation. Customer will be solely responsible for obtaining affirmative, opt-in consent from End Users as
+appropriate to access, use, copy, store, collect and disclose Location Information, and for retaining evidence of consent for the
+period required by law (typically, 5 years after cessation of use). Customer will not access, use, copy, store or disclose any Location
+Information until the consent outlined below has been obtained. Customer will ensure that each End User is provided with clear,
+conspicuous and comprehensive notice about how Location Information will be accessed, used, copied, stored, collected and
+disclosed by Customer and/or third parties acting on Customer’s behalf (representatives, agents, etc. . .) in Customer’s privacy
+policy and ensure that such notice is presented to End Users for acceptance prior to Customer’s use of the Service and readily
+available and easily accessible by End Users. Customer will ensure that each End User may deny, revoke or withdraw consent,
+through readily available means at any time. If consent is denied, revoked or withdrawn by an End User, Customer may no longer
+use the Service to access or collect the End User's Location Information.
+• Use and Storage of Location Information. Customer may only use Location Information for the purpose of using the Service and
+only as provided in the notice to the End User for as long as Customer has their consent. VZW does not provide Customer with
+access to any stored Location Information. Customer must implement appropriate security measures and safeguards that protect
+End User privacy and safety.
+• Representations and Warranties. Customer’s use of the Service must, at all times, comply with all applicable federal, state and
+local government laws, and industry guidelines, including the Federal Trade Commission Privacy Initiatives, and the CTIA Best
+Practices and Guidelines for Location-Based Services.
+• Disclaimer of Warranty. IN NO EVENT SHALL VZW BE LIABLE TO CUSTOMER FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS FOR ANY CLAIM OR DEMAND OF ANY NATURE OR KIND, ARISING OUT
+OF OR IN CONNECTION WITH THIS AGREEMENT OR THE PERFORMANCE OR BREACH HEREOF. THE SERVICE AND ANY INCLUDED
+SOFTWARE IS PROVIDED ON AN "AS IS" BASIS. OTHER THAN AS EXPLICITLY STATED IN THIS AGREEMENT, VZW DISCLAIMS ALL
+13
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+WARRANTIES, EXPRESS OR IMPLIED, OF ANY KIND BY EITHER VZW OR ITS LICENSORS, INCLUDING, WITHOUT LIMITATION, ANY
+WARRANTIES OF ACCURACY, COMPLETENESS, CURRENTNESS, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. VZW
+DOES NOT WARRANT THAT THE SERVICE WILL BE ERROR-FREE.
+• Term. The term of this Agreement (“Term”) is subject to the term of Customer’s agreement for wireless service with VZW, or
+while Customer still uses the Service.
+Zero Trust Dynamic Access is a cloud-based secure web gateway service that provides security for web traffic and protects users from
+internet-threats through enforcement of internet policy compliance. Built for the cloud and the modern, distributed organization, Zero
+Trust Dynamic Access helps meet the cybersecurity needs of today’s organizations who are challenged with enforcing internet policy and
+security across decentralized networks, branch offices, and remote and mobile users. The Zero Trust Dynamic Access service is powered
+by iboss, a leading web security company.
+Zero Trust Dynamic Access
+Powered by iboss
+These licenses are not eligible for monthly access discounts.
+Zero Trust Dynamic Access can help to prevent breaches by helping to make applications, data and services inaccessible to attackers
+while allowing trusted users to securely and directly connect to protected resources from almost anywhere. Zero Trust Dynamic Access
+provides a zero-trust cloud security solution for secure access to the open internet, cloud applications, private applications and data, and
+public cloud services helping to ensure security, conformance to NIST 800-207 guidelines, and provides reporting and analytics in a web-
+based portal.
+SKU Description PPID Billing Price
+CF-WIRELESS-NNI-SLED1 Zero Trust Dynamic Access Core Package from Verizon 697955 Monthly $2.72
+Wireless
+MDF-WIRELESS-NNI-SLED1 Zero Trust Dynamic Access Advanced Package from Verizon 699514 Monthly $4.17
+Wireless
+Note: Zero Trust Dynamic Access powered by iboss solution may require a Mobile Private Network Tiered Hierarchy design where iboss
+operates the parent private network and each mutual customer of iboss and Verizon Wireless must have a private network built as a
+child of the iboss parent.
+• A minimum quantity of 50 user licenses per order is required.
+• For monthly, subscription is paid monthly up front and is a month-to-month term, no proration
+*Devices that are certified for private network include:
+• Verizon Jetpacks
+• LTE and 5G Enabled routers – [Consult with sales and product manager for the number of licenses associated with multi user
+devices.]
+• LTE and 5G enabled tablets, phones and laptops
+1These SKUs are mutually exclusive and cannot be combined.
+14
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Verizon Zero Trust Dynamic Access Professional Services
+Powered by iboss
+These licenses are not eligible for monthly access discounts
+The below packages are the implementation services and professional services for Zero Trust Dynamic Access.
+SKU ID Description Maximum # of PPID Price
+Hours
+IBOSS-IMPLE- Implementation Package 1 - up to 1,000 users. 4 implementation 4 705454 $ 1,814.00
+PKG-1 service hours included
+IBOSS-IMPLE- Implementation Package 2 - up to 5,000 users. 20 20 705455 $ 9,070.00
+PKG-2 implementation service hours included
+IBOSS-IMPLE- Implementation Package 3 - up to 10,000 users. 40 40 705558 $ 18,140.00
+PKG-3 implementation service hours included
+IBOSS-IMPLE- Implementation Package 4 - up to 20,000 users. 60 60 705510 $27,211.00
+PKG-4 implementation service hours included
+IBOSS-IMPLE- Implementation Package 5 - up to 100,000 users. 120 120 705511 $54,422.00
+PKG-5 implementation service hours included
+IBOSS-IMPLE- Implementation Package 6 - up to 200,000 users. 200 200 705608 $90,704.00
+PKG-6 implementation service hours included
+IBOSS-PS* iboss Professional Services - provides additional implementation 736452 $380.00
+support. Requires 2 hours minimum.
+Notes: Implementation services are subject to the maximum service hours allotted for each implementation package SKU (the “Maximum Package
+Hours”). If implementation cannot be completed within the Maximum Package Hours, then additional Implementation Services packages may be
+purchased. If support is unable to complete the implementation within the maximum package hours purchased for onboarding, then additional
+implementation packages may be purchased. *IBOSS –PS SKU needs to have a scope of work definition to be sold. This Sku cannot be combined with
+any implementation packages.
+Implementation Services Include
+• Implementation Kickoff Call
+• Coordination of project and implementation plan with identified milestone and completion dates
+• Live technical assistance configuring the SCG platform for activities such as
+• Assistance creating users in the platform
+• Assistance enabling MFA for admin users
+• Time zone configuration
+• Platform maintenance scheduling
+• Email setting configuration
+• Backup configuration
+• Assistance creating a customized SSL decryption certificate
+• Assistance downloading and configuring iboss cloud connectors
+• Policy configuration guidance
+• Creation of IPSEC or GRE tunnel
+15
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+• Creation of custom branded block page
+• Creation of custom report schedule
+• Creation of custom IPS rule (requires malware defense package)
+• Customization of PAC script
+• Integration with External SIEM for logging
+The following services are out of scope and not included in the implementation package SKU Implementation Services:
+• Bulk deployment of cloud connectors to customer devices
+• Active Directory, Azure, eDirectory or other directory service configuration or support ∙
+• MDM configuration or support
+• Policy migration from legacy secure gateway or firewall
+• Configuration of customer Firewalls, Routers, Switches, Computers, or Third Party Software or
+Applications
+Wireless Network Performance is a self-service tool that provides certain network transparency, including, but not limited to, device,
+account experience and additional features as described herein (the “Service”). The purpose of this tool is to assist customers make faster
+decisions with more information about the Verizon network.
+Wireless Network Performance
+The licenses are not eligible for fu rther monthly access discounts.
+Basic License
+Description SKU Name Perpetual Plan Monthly Plan Tiers Monthly Cost Annual Cost
+ID ID
+WNP-BASIC-GOV WNP-BASIC-GOV 709053 709052 1-499 $ 7.70 $ 88.55
+500 – 999 $ 11.55 $ 123.20
+1,000 – 4,999 $ 19.25 $ 207.90
+5,000 -9,999 $ 38.50 $ 415.80
+10,000 –
+$ $57.75
+99,999 $ 616.00
+100K -5M $ 77.00 $ 770.00
+Premium License
+WNP-PREMIUM- WNP-PREMIUM- 709103 709102 1-499 $ 77.00 $ 770.00
+GOV GOV 500 – 999 $ 385.00 $ 4,158.00
+1,000 – 4,999 $ 770.00 $ 8,316.00
+5,000 -9,999 $ 1,925.00 $20,790.00
+10,000 –
+$ 3,850.00
+99,999 $41,580.00
+100K -5M $ 7,700.00 $80,850.00
+16
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Note: Verizon’s Wireless Network Performance (WNP) is a central portal that will provide two broadband capabilities that can be
+leveraged:
+• Analytics
+• Mapping
+Customers will be able to access WNP through My Business after purchase and must be subscribed to the MyBiz portal to use these
+licenses. Customer’s Tier is determined by the number of active lines in service at the time of purchase. See your account
+representative for additional information.
+Verizon Wireless Network Performance Service Addendum
+1. Service Description. Verizon Wireless will provide Customer with Wireless Network Performance, which is a self-service tool that
+provides certain network transparency, including, but not limited to, device, account experience and additional features as described
+herein (the “Service”). The purpose of this tool is to assist customers make faster decisions with more information about the Verizon
+network. Key functionalities include near-real time LTE, device and account experience, and site proximity information.
+2. Service Features. The Service includes basic and premium features. Premium can be added for an additional fee.
+1. Basic features. Basic features include the following:
+1. Ticket Tracking. Shows the number of network tickets in open status and the number of tickets opened in the last 30 days.
+2. Unplanned Events. Near real-time network events displayed on a map, hover over to get more details.
+3. Planned Maintenance. Details of planned maintenances in the next 2 weeks (data updates every 30 minutes). Table shows
+planned maintenance detail for the specific customer.
+4. Data Usage. Shows the enterprise level data usage for the time period of the 15th to the 14th of each month.
+5. Device Models. Bar chart for the top 10 devices used by the enterprise customer.
+6. Static Coverage Map. Verizon static coverage maps for 1X, EVDO, LTE, 5G (where available) AWS, CatM, 1X roaming and
+EVDO roaming.
+2. Premium features. Premium features include all of the basic features in addition to the following:
+1. Experience. Single device’s overall performance, score trend and anomaly devices. Users can access decision tree to see
+components making up the score.
+2. Site Proximity. Shows the azimuth and approximate distance for the nearest servicing nodes
+3. Near-Real Time LTE coverage. Provides map of LTE and 5G network coverage, updated about every 15 minutes.
+4. Device Location. Shows the general location (within 1000 meters) of connected 4G and 5G devices
+5. Connected Devices. Number of devices connected to the network in the last one hour.
+6. Weather Overlays. Provides weather overlays, including radar from last 2 hours.
+7. Custom map Analytics. Check network and device analytics in a selected custom service area (Network Event Analytics and
+Impacted devices).
+8. Service Notifications. Virtualized self-portal for setting up custom alert on different features.
+9. Service Diagnostics Tool. Device level troubleshooting reports.
+3. Service Limitations. The coverage maps depicted are not a guarantee of coverage and may contain areas with no service. These
+maps reflect a general depiction of predicted and approximate wireless coverage of the Verizon Wireless Network and the networks of
+other carriers. Even within a coverage area, there are many factors, including a customer's equipment, terrain, proximity to buildings,
+foliage, and weather that may impact service. An all-digital device will not operate or be able to make 911 calls when digital service is not
+available. Some of the coverage area includes networks run by other carriers whose coverage depiction is based on their information and
+public sources, and we cannot ensure its accuracy. Although some alerts displayed on this service may generally impact your coverage
+area, your wireless service may not be affected. Some alerts reflect scheduled maintenance and have no impact on services. Your
+authorized contact will receive notifications regarding potential outage impacts.
+17
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+4. Customer Obligations.
+1. Customer should use the user’s guide before contacting Verizon Wireless for support. The user’s guide contains many helpful
+tools and can be accessed by clicking on the question mark icon in the upper right corner of the tool.
+2. Customer must provide its users access to the Wireless Network Performance tool through My Business. Customer
+acknowledges and agrees that the provision of such access to individual users will allow such users to have access to the Device
+Location feature, if Customer selects the Premium option. Customer shall be solely responsible for any use by its users of that
+Device Location functionality, including, but not limited to, providing any training that may be required regarding the appropriate
+business use of such functionality and ensuring compliance with the terms of section 6 below.
+5. Fees. Customer can select between the basic and premium packages (the “Fees”). The Fees are set forth in above for the
+features described in Section 2. Customer can choose between monthly or annual billing and can choose the auto renewal
+option. Customer may change its subscription to the Service within the MyBusiness portal as described in this Section 5. If Customer
+chooses the monthly billing option, Customer can upgrade to the annual billing and such upgrade will be effective at the beginning of the
+next monthly billing cycle. Customer acknowledges that in the event of such an upgrade, Customer’s monthly charge for the current
+month will not be prorated. If Customer is on the monthly billing plan, the monthly fee will be determined on the billing cycle date based
+on the number of active Devices that are on the same profile/Company ID and billing cycle. Any Active devices that are added or removed
+from Customer’s account during a billing cycle will incur the monthly charge associated with such active devices, which will be reflected
+on the invoice for the following monthly billing cycle. If Customer selects annual billing, Customer will incur a one-time charge that will
+be included in Customer’s next monthly invoice. If Customer requests a change from annual to monthly billing, Customer may only make
+such a selection at the end of the annual term and prior to such term auto renewing, if Customer selected the auto-renew option. For
+such a change from annual to monthly billing to be effective, Customer must cancel annual billing at the end of the annual billing term
+and place a new order for monthly billing. For any Customer requested downgrade from the Premium to Basic package, Customer must
+cancel the Premium package and place a new order for the Basic package. For any Customer requested upgrade from Basic to the
+Premium package, the monthly fee will be prorated.
+6. Privacy; Notice and Consent. “Mobile Device” (means any mobile device, including, but not limited to, smartphones, tablets,
+smartwatches or other wearables, laptops and netbook computers) that Customer provides to its End Users with Verizon Wireless MTNs.
+“End User” means any person (e.g., employee, contractor) to whom Customer has provided a Mobile Device and whose Location
+Information can be viewed by Customer using the Wireless Network Performance Service. “Location Information” means data that can
+be used to describe, determine or identify the location of the Mobile Device. Location Information may be presented in many forms such
+as latitude/longitude data, cell site/sector data, WiFi SSID, device signal strength or other format regardless of accuracy, type or source.
+Customer will be able to access information about all Mobile Devices associated with Customer’s Verizon Wireless account.
+1. Customer will obtain affirmative, opt-in consent from End Users as appropriate to access, use, copy, store, collect or disclose
+Location Information. Customer will not access, use, copy, store or disclose any Location Information until the consent outlined
+below has been obtained. Customer shall ensure that each End User is provided with clear, conspicuous and comprehensive
+notice about how Location Information will be accessed, used, copied, stored, collected or disclosed by Customer and/or third
+parties (as applicable) in Customer’s privacy policy and ensure that such notice is presented to End Users for acceptance prior
+to use of the Service and readily available and easily accessible by End Users. Depending upon the type of service and the means
+by which the notices can be presented to the End User, the notices shall be displayed on a device, a website or a formal written
+paper contract or other mechanism as appropriate.
+2. Revocation of Consent. As appropriate, Customer will ensure that each End User may deny, revoke or withdraw consent,
+through readily available means and/or mechanisms at any time. If consent is denied, revoked or withdrawn, Customer may not
+access or collect End User's Location Information or perform any other actions for which the End User’s consent has been denied,
+revoked or withdrawn.
+3. Use and Storage of Location Information. Customer may only use Location Information for the sole purpose of using the Service
+and as provided in the notice to the End User and shall only access, use, disclose and maintain Location Information as long as
+notice, consent and all other legal and End User requirements have been satisfied and maintained. Location Information shall
+not be accessed, used, copied, stored or disclosed for any other purpose without the explicit prior consent of the End User.
+Verizon does not provide Customer with access to any stored Location Information.
+4. Privacy and Safeguard Considerations. Customer must implement security measures and safeguards that protect End User
+privacy and safety. It may be necessary to encrypt Location Information, provide periodic notices to End Users, send reminder
+18
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+messages to End Users, utilize audible, visual or other types of notifications and/or implement report abuse processes as
+appropriate in order to mitigate the risk of End Users being located without their knowledge and consent.
+5. Record Retention. Customer must maintain records of any notice, consent and revocation for as long as the Wireless Network
+Performance Services are in use, plus an additional five (5) years. VZW can request this information at any time and it shall be
+provided to VZW within seven (7) business days of request.
+7. Customer Representations and Warranties. Customer understands and agrees that Customer and any Customer agents and
+representatives may be subject to additional unanticipated obligations and legal requirements as a result of developing, distributing,
+operating or permitting distribution and/or use of the Service. In addition and supplemental to Customer’s compliance with laws and
+obligations under the Agreement, the Service must, at all times, comply with all applicable federal, state and local government laws,
+criminal, civil and statutory laws, rules and regulations, industry practices, third party guidelines, policies and requirements, including but
+not limited to (a) all applicable consumer protection, marketing, data security, export and privacy laws, (b) Federal Trade Commission
+P rivacy Initiatives, and (c) the CTIA Best Practices and Guidelines for Location-Based Services.
+19
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Exhibit B
+WIRELESS SERVICE ATTACHMENT
+This Wireless Service Attachment to the Agreement (the "Wireless Service Attachment") sets forth additional terms and conditions specific
+to Wireless Services to be provided by Verizon Wireless to Customer hereunder, and is made part of the Agreement. Any capitalized but
+undefined terms used in this Wireless Service Attachment shall have the meanings given such terms in the Agreement.
+Customer and Verizon Wireless agree that: (i) except to the extent expressly provided otherwise in this Wireless Service Attachment, all of
+the terms and definitions of the Agreement are applicable to Customer’s use of the Wireless Service and are incorporated by reference into
+this Wireless Service Attachment and into any related exhibit, attachment, or schedule, and (ii) the Parties do not intend to modify the
+terms and conditions of the Agreement except as applicable to the Wireless Services hereunder.
+1. Definitions: The definitions in the Authorized Customer Agreement are incorporated herein by reference.
+2. Line Term and Termination
+2.1. Failure to Pay: If Customer fails either to make a payment on time or to dispute charges as required under the Agreement,
+Verizon Wireless may upon notice suspend or terminate Wireless Service to some or all of Customer’s M2M Lines or deny any
+new line activations.
+2.2. Termination of Agreement: Verizon Wireless may at its sole discretion continue to provide Wireless Service to any M2M Lines
+still active after the Agreement has been terminated, but Verizon Wireless may remove any custom Products and Services, and
+other benefits of the Agreement. Any continuation of Wireless Service is subject to the terms and conditions of the Agreement
+and any Attachments on a month-to-month basis until such Wireless Service is terminated by providing the other Party with
+30 days’ prior Legal Notice
+3. Rates and Charges: The rates and charges, the, data (including M2M service) and messaging allowances, and the Wireless Service
+coverage area for each M2M Line are determined by the Products and Services that Customer selects for each line. Verizon Wireless
+may offer Customer custom Products and Services, the terms and conditions of which are described in the Agreement. Some Products
+and Services may have restrictions on the type of Equipment that can be used with them. Unless Customer directs Verizon Wireless to
+switch the plan or feature, Verizon Wireless will not change the monthly access fees, or the non-promotional voice, data, and messaging
+allowances during the Line Term. Verizon Wireless may, however with 30 days’ prior written notice, change rates, charges and fees,
+such as charges for options, features, and applications. If a line of Wireless Service is no longer under a Line Term, or if Customer
+changes or upgrades Equipment, or assumes liability for another line of Wireless Service, Customer will have to change to current
+Products and Services for that line. It may take us up to 90 days to implement this Agreement.
+4. Equipment
+4.1. Equipment Purchased from Verizon Wireless: Customer may purchase Equipment from Verizon Wireless at a discount,
+subject to the requirements for such discount. Equipment and accessories cannot be purchased at discounted prices for the
+purpose of resale. Customer must activate any discounted Equipment on Verizon Wireless’s network within 30 days of
+receipt Inappropriate reselling of discounted Equipment or accessories is considered a breach of the Agreement and this
+Attachment.. Violation of this section may, in the sole discretion of Verizon Wireless, result in the (a) limitation or
+discontinuance of the sale of Equipment at a discount; (b) termination of M2M Lines; (c) termination of the Agreement upon
+Legal Notice; (d) charging of the difference between the discounted price Customer paid and the full retail price of the
+Equipment; and (e) pursuit of such other legal or equitable remedies.
+4.2. Shipping; Risk of Loss; Acceptance: Title and risk of loss pass to Customer, and acceptance occurs, when Customer receives
+the Equipment at the address designated on an order. Verizon Wireless may charge Customer for shipping. Verizon Wireless
+will ship Equipment to Customer within five business days of receipt of an order, subject to availability. Customer may
+exchange any Equipment or return it for a refund within 30 days from acceptance.
+20
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+4.3. Equipment Purchased from Original Equipment Manufacturer (OEM): Authorized User may activate Equipment that
+Authorized User purchases from OEMs, but that Equipment must be on Verizon Wireless’ approved Equipment list when
+Authorized User activates them. OEMs establish their own legal terms for the sale of Equipment, and Verizon Wireless has no
+control over their charges, terms or return policies. Verizon Wireless is not responsible for any claims related to such OEM
+Equipment or Authorized User’s use of them. Equipment that Verizon Wireless has not approved may cause transmissions to
+fail, be blocked or misrouted, may use Wireless Service in a manner Authorized User does not intend, and may attempt to
+continue to register on Verizon Wireless’s network after termination. Such activities may result in additional charges for which
+Authorized User will be responsible.
+4.4. Only Equipment purchased from Verizon Wireless or directly from OEMs may be placed on the Data Plan.
+4.5. Lost or Stolen Equipment: If Customer loses Equipment or it is stolen, Customer may request that Verizon Wireless suspend
+service and billing to the affected M2M Line for up to 30 days. Until a suspension begins, Customer is still responsible for
+charges. After the suspension ends, service and billing for the line will resume. The time of any suspension will not count
+toward satisfying the Line Term.
+5. Wireless Service Availability: Wireless Service uses radio technologies and is subject to transmission and service area limitations,
+interruptions, and dropped calls caused by atmospheric, topographical or environmental conditions, cell site availability, the Equipment
+or its installation, governmental regulations, system limitations, maintenance or other conditions or activities affecting operation.
+Wireless Service is only available within each applicable plan coverage area, within the operating range of the wireless systems, and
+with Equipment that is approved to operate on Verizon Wireless’s network. In some areas, Wireless Service may be provided by a
+third-party roaming carrier. Customer must activate Equipment within the areas served by Verizon Wireless’s owned and operated
+network. Verizon Wireless reserves the right to terminate any M2M Lines that roam permanently on a third-party carrier’s network.
+Customer’s lines that are in a fixed location must always be within the areas served by our owned and operated network.
+6. Use of Wireless Service and Equipment; MTNs; SIMs: In order to protect Verizon Wireless’s network, operations, and other customers,
+Verizon Wireless may suspend or terminate service to affected lines, deny activation of new lines or, upon Legal Notice, may terminate
+the Agreement, if Customer uses the Wireless Service or Equipment (a) in an illegal manner (including “spamming” or other abusive
+messaging); (b) in a manner prohibited by the applicable Products or Services; or (c) in a manner that has an adverse impact on our
+network, operations or customers. Customer shall be solely responsible for the use of the Wireless Service to transmit, receive, store
+or process its data in compliance with applicable law and regulations. Verizon Wireless provides applications that involve the storage
+of information which are not designed or intended for use with protected health information (“PHI”), as defined by the Health Insurance
+Portability and Accountability Act of 1996, as amended; therefore, they must not be used to create, store, transmit or receive
+PHI. Verizon Wireless will assign one mobile telephone number (“MTN”) to each line. Customer can port a MTN to another carrier,
+but Customer does not have any property right in the MTN. Verizon Wireless may change, reassign or eliminate a MTN upon reasonable
+notice to Customer under certain circumstances, including fraud prevention, area code changes, and regulatory or statutory law
+enforcement requirements. If the Equipment requires a Subscriber Identity Module (“SIM”) card provided by Verizon Wireless, Verizon
+Wireless owns any intellectual property or software on the SIM card at the time of delivery.
+7. No Reselling or Purchases by Third Parties: Unless Verizon Wireless agrees in writing, Customer cannot resell the Products and
+Services, or Wireless Service or bundle the Wireless Service with or embed it into products or services that Customer provides to its
+own customers or to any third parties. No third party, including Customer’s agents, contractors, vendors, distributors, franchisees or
+contract employees, is permitted to purchase Equipment, Wireless Service, or Products and Services under this Agreement. Verizon
+Wireless may terminate Customer’s M2M Lines and, upon Legal Notice, may terminate this Agreement and pursue any other available
+remedies if Customer violates this section.
+8. DISCLAIMER OF WARRANTIES: VERIZON WIRELESS IS NOT THE MANUFACTURER OF THE EQUIPMENT AND MAKES NO
+REPRESENTATIONS OR WARRANTIES WHATSOEVER, DIRECTLY OR INDIRECTLY, EXPRESS OR IMPLIED, AS TO THE SUITABILITY,
+DURABILITY, FITNESS FOR USE, MERCHANTABILITY, CONDITION, QUALITY, PERFORMANCE OR NON-INFRINGEMENT OF THE
+EQUIPMENT. WITH RESPECT TO VERIZON WIRELESS, CUSTOMER PURCHASES THE EQUIPMENT "AS IS." EQUIPMENT SHALL BE SUBJECT
+TO ANY WARRANTIES PROVIDED TO CUSTOMER BY THE EQUIPMENT MANUFACTURER.
+21
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.
+
+Exhibit C
+AUTHORIZED CONTACTS LIST
+Customer FEIN Number:
+Customer Verizon Wireless Account Number:
+Customer Verizon Wireless Profile ID(s):
+Verizon Wireless Sales Representative Name/Phone/GID:
+Authorized Contact Name Authorized Contact Title Authorized Contact Phone Authorized Contact Email
+22
+Confidential & Proprietary Information
+Not for disclosure without prior written approval from both parties, except as required by law.

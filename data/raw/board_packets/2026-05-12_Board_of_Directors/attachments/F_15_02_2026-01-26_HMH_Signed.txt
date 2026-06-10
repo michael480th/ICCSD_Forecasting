@@ -1,0 +1,61 @@
+Iowa
+This Student Data Privacy Agreement (“DPA”) is entered into on the date of full execution (the
+“Effective Date”) and is entered into by and between: Indianola Community School District (the
+“Local Education Agency” or “LEA”) and Houghton Mifflin Harcourt Publishing Company
+(the “Provider”).
+WHEREAS, the Provider is providing educational or digital services to LEA.
+WHEREAS, the Provider and LEA recognize the need to protect personally identifiable student
+information and other regulated data exchanged between them as required by applicable laws
+and regulations, such as the Family Educational Rights and Privacy Act (“FERPA”) at 20
+U.S.C. § 1232g (34 CFR Part 99); the Children’s Online Privacy Protection Act (“COPPA”) at
+15 U.S.C. § 6501-6506 (16 CFR Part 312), applicable state privacy laws and regulations and
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s
+Services are also subject to several state laws in Iowa. Specifically, those laws include Iowa
+Code §§ 22; Iowa Code §§ 715C, 281 I.A.C. 12.3(4); 41; and
+WHEREAS, the Provider and LEA desire to enter into this DPA for the purpose of establishing
+their respective obligations and duties in order to comply with applicable laws and regulations.
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. Provider agrees to offer the LEA all the same terms and conditions found in the
+MA-ME-MO-NH-OH-RI-VT-DPA, Modified Version 1.0, Data Privacy Agreement
+between the Provider and Regional School Unit #20 (“Originating LEA”) which is dated
+July 26, 2024 (“Originating DPA”). The terms and conditions of the Originating DPA
+are thus incorporated herein.
+2. Provider additionally agrees to the following additional terms, which will control in the
+event of a conflict between the DPA and the Originating DPA:
+a. In Article IV, Section 2, replace with the following: “The Student Data processed
+pursuant to the Services shall be used by the Provider for no purpose other than
+b. performing the Services outlined in Exhibit “A”, or as instructed by the LEA."
+c. All employees of the Provider who will have direct contact with students shall pass
+criminal background checks.
+d. In Article V, Section 1 Data Storage: Iowa does not require all Student Data to be
+stored within the United States.
+e. In Exhibit “C” add to the definition of “Student Data” significant information on
+progress and growth, experiences, interests, aptitudes, attitudes, abilities, part-time
+employment, and future plans.
+3. Provider may, by signing the attached form of “General Offer of Privacy Terms” be bound
+by the terms of the General Offer of Privacy Terms to any other LEA who signs the
+acceptance on said Offer. The form is limited by the terms and conditions described therein.
+4. Notices. All notices or other communication required or permitted to be given pursuant to the
+Originating DPA may be given for the LEA via e-mail transmission, or first-class mail, sent
+to the designated representatives below.
+
+The designated representative for the Provider for this DPA is:
+Name: _S_e_l_va_ _V_in_o_t_h_e_ M_a_h_i_m_a_i_d_a_s________ Title: _S_V_P_ _C_h_ie_f_ In_f_o_r_m_a_t_io_n_ O__ff_ic_e_r_____
+Address: _1_2_5_ H__ig_h_ S_t_re_e_t_, _B_o_s_to_n_,_ M_A_ _0_2_11_0___________________________________
+Email: _l_e_ga_l_s_e_rv_i_ce_s_@__h_m_h_c_o_.c_o_m_______________ Phone: _6_1_7_-_35_1_-_5_0_0_0_________
+The designated representative for the LEA for this DPA is:
+Ray Coffey, Technology Director
+1301 East Second Avenue, Indianola, IA 50125
+(515) 961-9500 ext. 1512 ray.coffey@indianola.k12.ia.us
+Iowa City Community School District
+By: _________________________________________________
+Date: ____________________
+Printed Name: ______________________________________
+Title/Position: _________________________________________
+Houghton Mifflin Harcourt Publishing Company
+Ashley Poreda
+By: _________________________________________________
+Ashley Poreda (Jan 26, 2026 09:04:27 EST)
+Date: 0_1_/_2_6_/_2_0_2_6___________
+Printed Name: _A_s_h_le_y_ P_o_r_e_d_a_____________________________
+Title/Position: _L_e_a_d_ C_o_n_t_r_a_ct_s_ S_p_e_c_ia_l_is_t____________________

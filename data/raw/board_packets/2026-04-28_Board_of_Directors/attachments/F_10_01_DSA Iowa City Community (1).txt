@@ -1,0 +1,160 @@
+DATA SHARING AND USE AGREEMENT
+This Data Sharing and Use Agreement (Agreement) is entered into on the date last signed below by and between the
+Iowa City Community School District (Provider), having as its principal place of business 2255 N. Dubuque Road, Iowa
+City, Iowa 52245 and Kirkwood Community College (Recipient), having as its principal place of business 6301 Kirkwood
+Blvd SW, Cedar Rapids, IA 52404 for the purposes set forth hereinafter. This Agreement will be in force from the date
+last signed below through and including 6/30/2027.
+WHEREAS, Provider maintains certain data collected from various sources. WHEREAS,
+Recipient wishes to receive a copy of certain data (Restricted Data).
+NOW, THEREFORE, in consideration of the promises made herein and other good and valuable consideration, the receipt
+and sufficiency of which is hereby acknowledged, the parties agree as follows:
+I. SCOPE AND PURPOSE
+The Data requested by Recipient (defined in Section II below) is protected under the Family Educational Rights
+and Privacy Act of 1974 (FERPA). As such, Provider is sharing Data under the FERPA school official exception (CFR
+99.3 l(a)(l)(i)(B)). Under this exception, the signing party is considered both a school official and to have a
+legitimate educational interest in the data as stated in the District's annual FERPA notification to parents and
+eligible students.
+a. This Agreement sets forth the terms and conditions pursuant to which Provider will disclose
+Restricted Data to Recipient, as well as the purposes for which Restricted Data may be used and the
+restrictions pertaining to Recipients use of Restricted Data.
+b. Provider agrees to provide to Recipient the Restricted Data designated in Section II.
+c. Recipient agrees to use said Restricted Data solely for the purpose described below and consistent
+with Recipient's obligations as set forth in Section III.
+A. Recipient will make provisions upon enrollment for prospective students/families to
+have the Drivers Education fee waived provided the student/family is eligible for
+free/reduced price fees
+B. Recipient will notify Provider of students indicating free/reduced price fees eligibility to a
+single district-level contact as designated by the Provider
+C. Provider will verify the eligibility of each student/family and will inform the Recipient with
+the restricted data within 120 hours of notification
+D. Recipient will invoice Provider for the eligible fees
+II. RESTRICTED DATA
+a. For purposes of this Agreement, the following is designated as Restricted Data to be provided
+to Recipient:
+• Verification of free/reduced price fee eligibility
+b. Restricted Data provided to Recipient will still be under the direct control of Provider. As such Provider
+can make any request of aforementioned Restricted Data at any future date (i.e. wholesale revision,
+deletion, return, etc.).
+1
+
+III. RECIPIENT'S OBLIGATIONS
+a. Recipient agrees to the following with respect to its use and management of the Restricted Data:
+A. Recipient agrees to use Restricted Data only for the purposes set forth in Section I above.
+Specifically, use of this Data for marketing purposes is strictly prohibited under FERPA's
+school official exception.
+B. Recipient agrees to ensure that any agent (including subcontractors) to whom it provides
+Restricted Data for purposes of collaborating agrees to the same conditions and
+restrictions that apply through this Agreement to the Recipient with respect to Restricted
+Data. Recipient will not otherwise disclose in any fashion Restricted Data to any person or
+entity.
+C. Recipient agrees to use Restricted Data only to the extent necessary to facilitate
+completion of the scope and purpose outlined in Section I. Any use beyond this scope
+and purpose is limited to statistical summary information and Recipient agrees not to
+identify or attempt to identify any individuals or families whose information may be
+represented in Restricted Data. If such an identification occurs inadvertently, Recipient
+will immediately report this event to Provider. Recipient agrees to mitigate, to the extent
+feasible, any harmful effect known to Recipient as a result of such inadvertent
+identification, including, but not limited to, holding the Provider harn1less and
+indemnifying the Provider.
+D. Recipient will make no attempt to sell Restricted Data or to link it with any other
+dataset, unless such activity receives prior written approval from an authorized
+representative of Provider.
+E. Recipient agrees to designate an individual as its custodian of Restricted Data on its
+behalf, who will be personally responsible for the observance of all conditions for use and
+secure maintenance of Restricted Data. Recipient will identify its custodian to Provider
+and will notify Provider of any change of custodianship. The identified custodian's name
+or position is listed here:
+Zachary Johnson, Program Developer.
+IV. DATA SECURITY
+a. Recipient agrees to use appropriate safeguards to prevent use or disclosure of Restricted Data other than
+as provided for by this Agreement.
+V. DATA DESTRUCTION
+a. Recipient agrees to destroy Restricted Data within thirty (30) days of the completion of the Recipient's
+intended use of the Restricted Data and will attest in writing to such return or destruction within that
+time. Methods for destruction are listed in the points that follow.
+b. If Recipient has created files using Restricted Data, those files will be returned to the College Community
+School District within thirty (30) days of the completion of the Recipient's intended use of the
+Restricted Data. The District will archive the file in case it is needed for future replication or evaluation
+of findings.
+c. Recipient agrees to destroy all personally identifiable information as it pertains to the requested
+data - including any copies of the information that may reside in system backups, temporary files,
+or other storage media.
+2
+
+d. Physical Data
+A. Recipient agrees to use secure means to render all physical paper copies of Restricted
+Data safe for disposal or recycling (via shredding, pulverizing, incinerating, etc.).
+B. Recipient agrees to destroy all CDs, DVDs, and magneto-optical disks containing the
+Restricted Data by pulverizing, cross-cut shredding, or burning.
+e. Electronic Data
+A. Recipient agrees to use appropriate data deletion methods to ensure destroyed
+Restricted Data cannot be recovered.
+B. If possible, Recipient agrees to work with their IT Professional to ensure proper deletion of
+records consistent with technology best practice standards.
+VI. DATA BREACHES
+a. Data breaches will be defined as an unauthorized acquisition of computerized data, or other form that
+was transferred from computerized form that compromises the security, confidentiality, or integrity of
+personal
+information maintained by Recipient.
+b. Recipient agrees to provide written notice to Provider of any use or disclosure of Restricted Data not
+provided for by this Agreement of which Recipient becomes aware within five (5) business days of its
+discovery.
+c. Recipient agrees to provide notices to affected individuals in the most expeditious time possible and
+without unreasonable delay. For breaches that require notification to more than 500 individuals,
+written notice must also be given to the director of the consumer protection division of the office of
+the attorney general within 5 business days after giving notice of the breach to any consumer.
+VII. TERM AND TERMINATION
+a. This Agreement will become effective on the last date signed below through and including 6/30/2027 and
+shall automatically renew on July 151 of the calendar year for successive like periods of time from one year
+to the next.
+b. On or before May 15th of any year, one party may notify the other in writing of their intent to modify
+or terminate this Agreement.
+VIII. CONTRACT BREACHES
+a. Upon material breach or violation of this Agreement by Recipient, if Recipient does not cure such
+breach or violation within twenty (20) business days of notice thereof from Provider, Provider may
+terminate this Agreement and request that Recipient destroy or return all Restricted Data provided by
+Provider to Recipient and by Recipient to any of its agents or subcontractors. If so requested by
+Provider, Recipient will ensure that all originals and copies of Restricted Data, on all media and as held
+by either Recipient or its agents or subcontractors, will be either returned to Provider or destroyed as
+requested within twenty
+(20) business days of termination of this Agreement and will attest in writing to such return or
+destruction within that time. In addition, in the event of breach or violation, regardless of whether the
+breach or violation results in termination, Provider may, in its sole discretion, take one or more of the
+following actions:
+A. Prohibit Recipient from obtaining future access to Provider's data files and data elements,
+B. Use any and all remedies as may be available to it under law, including seeking injunctive
+relief, to prevent unauthorized use or disclosure of Restricted Data by Recipient, and/or
+3
+
+C. Require Recipient to submit a corrective plan with steps designed to prevent any
+future unauthorized disclosures or uses.
+IX. GENERAL
+a. The parties agree to amend this Agreement from time to time as necessary by mutual agreement to
+comply with all applicable federal and state requirements regarding privacy and confidentiality of
+Restricted Data.
+b. Any ambiguity in this Agreement shall be resolved to permit Provider to comply with all applicable
+federal and state requirements regarding privacy and confidentiality of Restricted Data.
+c. The waiver by either party of a breach or violation of any provision of this Agreement shall not operate
+as, or be construed to be, a waiver of any subsequent breach of the same or any other provision hereof
+and shall not affect the right of either patty to require perfo1mance at a later time.
+d. Neither party may assign this Agreement without prior written consent of the other party. This Agreement
+will be binding upon and will be for the benefit of the parties hereto and their respective successors and
+assigns.
+X. CONTACT PERSONS
+a. The Contact Persons shall serve until the expiration of the Agreement or the designation of a substitute
+Contact Person. During the term of this Agreement, each Contact Person shall be available to meet, as
+otherwise mutually agreed, to plan the services being provided under the Agreement. The Contact Persons
+are as follows:
+PROVIDER: RECIPIENTS:
+Ruthina Malone, School Board President Curt Wheeler, Program Developer
+Iowa City Community School District Care of Cheri Kampmann
+2255 N. Dubuque Road 6301 Kirkwood Blvd. SW
+Iowa City, Iowa 52245 Cedar Rapids, IA 52404
+PROVIDER: RECIPIENTS:
+Iowa City Community School District Kirkwood Community College
+By: ___________________________________ By: ____________________________________
+Print Name: ____________________________ Print Name: _____________________________
+Title: __________________________________ Title: Vice President, Continuing Education & Training
+Services
+Date: _________________________________ Date: ___________________________________
+4

@@ -1,0 +1,17 @@
+# Python dependencies for the ICCashForecast pipeline.
+# Pinned loosely for Phase 0; tighten as the pipeline is implemented.
+#
+# Data handling
+pandas>=2.0
+
+# PDF extraction (tables + text)
+pdfplumber>=0.10
+
+# Excel extraction
+openpyxl>=3.1
+
+# Static-site templating
+Jinja2>=3.1
+
+# Config / front-matter parsing
+PyYAML>=6.0

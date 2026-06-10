@@ -1,0 +1,10 @@
+assumption_id,scenario,fund_code,description,value,method,source,confidence,active,notes
+au_anchor_fy24,all,10,FY2024 assigned+unassigned GF fund balance (solvency numerator anchor),14881750,official filing,FY2024 Certified Annual Report (Iowa DOM cash-reserve-levy worksheet),high,Y,Shows rebuild from FY22-23 trough
+rev26,base,10,FY2026 GF revenue realization vs budget,1.00,budget,FY26 budget (Q3 report),medium,Y,cons 0.978 / opt 1.004
+exp26,base,10,FY2026 GF expenditure vs budget,1.00,budget,FY26 budget (Q3 report),medium,Y,cons 1.009 / opt 0.981
+g27_rev,base,10,FY2027 GF revenue growth (SSA + enrollment),0.030,assumption,analyst (band),low,Y,cons 0.020 / opt 0.040; firm up with FY27 certified budget
+g27_exp,base,10,FY2027 GF expenditure growth,0.030,assumption,analyst (band),low,Y,cons 0.035 / opt 0.025
+au_rollforward,all,10,Assigned+unassigned fund balance = prior year + net operating result,na,accounting identity (approx),analyst,medium,Y,Assumes net result accrues to assigned+unassigned
+aea_fy26,all,10,AEA flow-through FY2026 (solvency denominator),8225000,trend +2%,Iowa DOM AEA flow-through,medium,Y,"FY2027 8,400,000"
+uab_spend_rate,base,10,FY2026 expenditures as % of max authorized budget,0.975,observed spend rate,ICCSD FY2025 actual 97.7%,low,Y,cons 0.990 / opt 0.950; UAB highly sensitive
+uab_auth_growth,base,10,FY2026 max authorized budget growth over FY2025,0.030,district cost trend,Iowa DOM UAB workbook,low,Y,Pending final FY26 certified authority

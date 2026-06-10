@@ -1,0 +1,27 @@
+[project]
+name = "iccashforecast"
+version = "0.0.0"
+description = "Unofficial public cash-flow forecast for the Iowa City Community School District (ICCSD)."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+authors = [{ name = "ICCashForecast contributors" }]
+keywords = ["iccsd", "school-finance", "cash-flow", "forecast", "civic-tech"]
+
+dependencies = [
+    "pandas>=2.0",
+    "pdfplumber>=0.10",
+    "openpyxl>=3.1",
+    "Jinja2>=3.1",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

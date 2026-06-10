@@ -1,0 +1,8 @@
+fund_code,fund_name,fund_group,restricted_flag,notes
+10,General Fund,Operating,false,Primary operating fund
+21,Student Activity Fund,Activity,true,
+22,Management Fund,Management,true,
+33,SAVE,Capital,true,Secure an Advanced Vision for Education (statewide penny sales tax)
+36,PPEL,Capital,true,Physical Plant and Equipment Levy
+40,Debt Service Fund,Debt Service,true,
+61,School Nutrition Fund,Nutrition,true,

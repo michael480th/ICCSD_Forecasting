@@ -1,0 +1,15 @@
+period_end,fund_code,fund_name,beginning_balance,budgeted_receipts,receipts_to_date,budgeted_disbursements,disbursements_to_date,ending_balance,source_file,source_page,confidence
+2025-12-31,10,General Fund,17852375,221745164,94256177,215222547,86401778,25706774,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2025-12-31,21,Student Activity Fund,438424,3520061,1481836,3500000,1835250,85009,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2025-12-31,22,Management Fund,5618732,8450861,7392327,8525667,6843946,6167114,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2025-12-31,33,SAVE,9210196,20657855,17639968,24938482,17857794,8992370,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2025-12-31,36,PPEL,8353372,13785103,6193249,10815420,4489184,10057437,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2025-12-31,40,Debt Service Fund,215435,13448067,5960490,13445686,4966791,1209133,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2025-12-31,61,School Nutrition Fund,7095904,10406540,3942379,10280328,4441928,6596356,data/raw/board_packets/2026-02-10_Board_of_Directors/attachments/K_02_01_FY26 Quarter 2 Financial Report (1).pdf,2,medium
+2026-03-31,10,General Fund,17852375,218169788,143105996,212143412,143049867,17908504,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium
+2026-03-31,21,Student Activity Fund,438424,3520061,2042817,3800000,2672353,-191113,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium
+2026-03-31,22,Management Fund,5618732,8392761,4922219,8525667,7057273,3483679,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium
+2026-03-31,33,SAVE,9210196,20657855,16320933,14516162,21675809,3855321,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium
+2026-03-31,36,PPEL,8353372,13782740,8213812,10815420,6899086,9668098,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium
+2026-03-31,40,Debt Service Fund,215435,27953594,7957045,24814021,4972991,3199489,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium
+2026-03-31,61,School Nutrition Fund,7095904,10406540,6876260,10278348,7214651,6757513,data/raw/board_packets/2026-05-12_Board_of_Directors/attachments/K_02_01_Financials as of 3.31.26 Board Mtg 5.12.26.pdf,2,medium

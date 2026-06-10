@@ -1,0 +1,33 @@
+metric,fiscal_year,scope,value,target_low,target_high,target_floor,status,source
+solvency_ratio_pct,2020,ICCSD,4.21,10,15,5,below_floor,ICCSD ACFR (RSM US LLP) via ICCSDAdvocacy
+operating_margin_pct,2020,ICCSD,-1.98,,,,,ICCSD ACFR via ICCSDAdvocacy
+uab_pct_of_max,2020,ICCSD,1.17,5,10,,below_target,Iowa DOM Unspent Authorized Budget
+uab_pct_of_max,2020,peer_median,13.35,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2020,peer_min,1.08,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2020,peer_max,33.14,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+solvency_ratio_pct,2021,ICCSD,6.35,10,15,5,below_target,ICCSD ACFR (RSM US LLP) via ICCSDAdvocacy
+operating_margin_pct,2021,ICCSD,2.89,,,,,ICCSD ACFR via ICCSDAdvocacy
+uab_pct_of_max,2021,ICCSD,1.68,5,10,,below_target,Iowa DOM Unspent Authorized Budget
+uab_pct_of_max,2021,peer_median,16.2,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2021,peer_min,4.0,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2021,peer_max,33.52,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+solvency_ratio_pct,2022,ICCSD,2.82,10,15,5,below_floor,ICCSD ACFR (RSM US LLP) via ICCSDAdvocacy
+operating_margin_pct,2022,ICCSD,-2.76,,,,,ICCSD ACFR via ICCSDAdvocacy
+uab_pct_of_max,2022,ICCSD,0.12,5,10,,below_target,Iowa DOM Unspent Authorized Budget
+uab_pct_of_max,2022,peer_median,15.34,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2022,peer_min,7.73,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2022,peer_max,32.89,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+solvency_ratio_pct,2023,ICCSD,2.45,10,15,5,below_floor,ICCSD ACFR (RSM US LLP) via ICCSDAdvocacy
+operating_margin_pct,2023,ICCSD,0.77,,,,,ICCSD ACFR via ICCSDAdvocacy
+uab_pct_of_max,2023,ICCSD,-1.21,5,10,,below_target,Iowa DOM Unspent Authorized Budget
+uab_pct_of_max,2023,peer_median,16.98,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2023,peer_min,9.54,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2023,peer_max,31.54,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2024,ICCSD,1.64,5,10,,below_target,Iowa DOM Unspent Authorized Budget
+uab_pct_of_max,2024,peer_median,15.15,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2024,peer_min,9.44,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2024,peer_max,31.04,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2025,ICCSD,2.31,5,10,,below_target,Iowa DOM Unspent Authorized Budget
+uab_pct_of_max,2025,peer_median,16.14,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2025,peer_min,7.54,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+uab_pct_of_max,2025,peer_max,29.87,5,10,,,Iowa DOM UAB (14 large Iowa districts)

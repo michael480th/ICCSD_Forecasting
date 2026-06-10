@@ -1,0 +1,1132 @@
+Getting Started / Model Set-Up
+Key Indicators FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Version: 26.1.0 Release Unspent Authorized Budget $ 2,056,256 $ 6,918,760 $ 15,803,188 $ 25,688,006 $ 36,573,226 $ 48,439,979
+Property Tax Rate $ 16.0610 $ 17.2388 $ 15.7593 $ 15.6352 $ 15.1320 $ 14.2454
+UAB % of CY Authority 0.9% 3.0% 6.8% 10.9% 15.2% 19.8%
+Solvency Ratio 3.8% 7.2% 9.8% 12.6% 14.2% 13.3%
+1. Select District from Drop Down Box
+Select
+2. Enter Future Year's CAR Data (2025) via Excel Inputs (after September 15, 2025)
+Link to CAR-Misc
+CAR data mismatch - see 'CAR-Manual' tab
+3. Select SSA Rate for Base Scenario (update once final SSA Rate has been set for FY 2027)
+FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Overall Growth Rate 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+Regular Program State Percent of Growth 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+Teacher Salary Supplement State Percent of Growth 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+Professional Development Supplement State Percent of Growth 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+Early Intervention Supplement State Percent of Growth 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+Teacher Leadership Supplement State Percent of Growth 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+4. Enter Certified Enrollment (after October 15, 2025) Go Back to "Expenses" tab
+Method 1 - Enter from SRI - CE Home - Summary Comparison FY 2026 FY 2027
+Count Date 10/1/2024 10/1/2025
+Resident Public Students Attending you District (1) 14,177.5 13,976.8
+Resident Public Students Attending another Iowa Public SD (2, 3) 352.7 380.2
+Non Public Shared Time and CPI Student Dual Enrolled for District Classed (4, 5) 20.4 23.1
+Non Public Shared Time and CPI Students Dual Enrollment for PSEO Classes (4, 5) 0.0
+Residential Facility Students Enrolled for District Classed (5) 0.0 Included in Resident Students In-District
+Actual Enrollment 14,550.6 14,380.1
+Non-Resident Public Students Attending your District (8, 9) 381.6 394.8
+PK 4 Students Attending your Statewide Voluntary Preschool Program (10) 247.0 257.5
+Total School Age Students Provided Instruction Programs/Services by your District 14,579.5 14,394.7
+Limited English Proficient Weighting (13) 392.1 390.8
+Resident ESA Students 773.0 1,442.0
+Method 2 - Auto Linked to Method 1 unless overridden to match "official" Format FY 2026 FY 2027
+Count Date 10/1/2024 10/1/2025
+Resident Students In-District 14,177.5 13,976.8
+Open Enrollment Out 350.7 378.2
+Tuition Out 2.0 2.0
+Nonpublic Shared Time 12.8 23.1
+Public HS CPI 7.6 0.0
+Certified Enrollment 1 4,550.6 14,380.1
+Open Enrollment In 363.6 376.8
+Tuition In 18.0 18.0
+Statewide Voluntary Preschool 247.0 257.5
+Total Served Enrollment 1 4,579.5 14,394.7
+© 2025 [ISFIS Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+GetStarted | 3/22/2026 | 12:48 PM
+Page 1 of 2
+
+LEP Weighting 392.1 390.8
+Resident ESA 773.0 1,442.0
+5. Enter Additional TSS from 2nd Year of Increased Teacher Pay
+FY 2026 FY 2027 Enter only additional TSS from Department
+Additional Dollars for TSS $ 460,627 of Management calculations if approved
+6. Enter Valuation Information (once available -- approximately around January 1, 2026)
+Link to DOM {select Tax Value by Individual Levy Authority} FY 2026 FY 2027 Property Valuation information can be
+Net Property Value with G&E (GF) $ 7 ,442,897,206 $ 7,666,184,122 *do not leave blank even if zero updated once it becomes available - usually
+around January 1 of each year. This
+TIF Value $ 624,377,993 $ 630,621,773 *do not leave blank even if zero
+information will flow into the projection
+Total Value with TIF (DS, PPEL, ISL) $ 8 ,067,275,199 $ 8,296,805,895
+automatically and will override any property
+Net Taxable without G&E & TIF $ 7 ,356,499,808 $ 7,577,194,802 *do not leave blank even if zero
+valuation projection for the upcoming year.
+TIF w/o G&E $ 624,377,993 $ 630,621,773 *do not leave blank even if zero
+Net Taxable without G&E $ 7 ,980,877,801 $ 8,207,816,575 If the District has a "split valuation", please
+use the cells to the right in Column K & L to
+7. Certified Budget Inputs (only utilize when complete with Department of Management Budget File for FY 2027) input the data, then create a sum formula to
+pull the data back into column D.
+Link to FY 2027 Aid & Levy Manual Override --> Go to "Input_A&L" tab to enter data from Budget File
+© 2025 [ISFIS Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+GetStarted | 3/22/2026 | 12:48 PM
+Page 2 of 2
+
+Certified Enrollment - Iowa City
+Key Indicators FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Unspent Authorized Budget $ 2,056,256 $ 6,918,760 $ 15,803,188 $ 25,688,006 $ 36,573,226 $ 48,439,979
+Property Tax Rate $ 16.0610 $ 17.2388 $ 15.7593 $ 15.6352 $ 15.1320 $ 14.2454
+UAB % of CY Authority 0.9% 3.0% 6.8% 10.9% 15.2% 19.8%
+Solvency Ratio 3.8% 7.2% 9.8% 12.6% 14.2% 13.3%
+Number Values if Manual
+Select a forecasting
+Number (+/-) Percent (+/-)
+method or overwrite the
+1. Select Forecast Method: - -0.3% values in blue below.
+Certified Enrollment FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Count Date 10/1/2024 10/1/2025 10/1/2026 10/1/2027 10/1/2028 10/1/2029
+Instructions:
+Resident Students In-District 14,177.5 13,976.8 13,941.9 13,907.0 13,872.2 13,837.6
+Open Enrollment Out 350.7 378.2 377.3 376.3 375.4 374.4
+Enrollment is controlled by the drop down box.
+Tuition Out 2.0 2.0 2.0 2.0 2.0 2.0
+The Forecast Method provides different options
+Nonpublic Shared Time 12.8 23.1 23.1 23.0 22.9 22.9
+that will control your Certified Enrollment.
+Public HS CPI 7.6 0.0 0.0 0.0 0.0 0.0
+Certified Enrollment 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9
+Manual number or percent change via the
+Open Enrollment In 363.6 376.8 375.9 374.9 374.0 373.0
+boxes. This adds or subtracts from Certified
+Tuition In 18.0 18.0 18.0 17.9 17.9 17.8
+Enrollment and then proportional changes to
+Statewide Voluntary Preschool 247.0 257.5 256.9 256.2 255.6 254.9
+other categories.
+Total Served Enrollment 14,579.5 14,394.7 14,358.8 14,322.9 14,287.0 14,251.3
+LEP Weighting 392.1 390.8 389.9 388.9 387.9 386.9
+For Cohort Method instructions, see below.
+Resident ESA 773.0 1,442.0 1,500.0 1,550.0 1,600.0 1,650.0
+The average number change or percent will
+Target Number Option Select Above
+grow or reduce the enrollment based on the
+Target Percentage Option Select Above
+calculation produced.
+DE Projections Option Select Above -0.67% -0.30% 0.01% -1.06% -1.00%
+Certified Enrollment Change 1 71.9 (170.5) ( 36.0) ( 35.9) ( 35.8) ( 35.7)
+Certified Annual Percent Change 1.2% -1.2% -0.2% -0.3% -0.2% -0.3%
+Net Open Enrollment 12.9 (1.4) (1.4) (1.4) (1.4) (1.4)
+Hyperlink: View Certified Enrollment History
+2. Enter ESA Students *Manual Entry
+FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Enrollment Count 10/1/2024 10/1/2025 10/1/2026 10/1/2027 10/1/2028 10/1/2029
+Resident ESA Students 773 1,442 1,500 1,550 1,600 1,650
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Enrollment | 3/22/2026 | 12:49 PM
+Page 1 of 3
+
+3. Review Cohort Method *Additional Adjustments Available to the right
+Cohort Method FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Enrollment Count 10/1/2024 10/1/2025 10/1/2026 10/1/2027 10/1/2028 10/1/2029 Instructions:
+PK 598 0
+K 992 0 The Cohort Method takes the grade level
+1 1,038 0 0 0 0 0 BEDS (enrollment served) and projects it
+2 1,023 0 0 0 0 0 by aging the existing grade level cohorts.
+3 1,105 0 0 0 0 0 Enter the current year enrollment by grade
+4 1,099 0 0 0 0 0 and then enter the PK and K incoming
+5 1,063 0 0 0 0 0 classes for each year. These trends will
+6 1,096 0 0 0 0 0 then be converted to Certified Enrollment.
+7 1,108 0 0 0 0 0
+8 1,139 0 0 0 0 0 You can overwrite the by grade by year
+9 1,227 0 0 0 0 0 numbers or add students to the table at
+10 1,150 0 0 0 0 0
+right. Those students added will be added
+11 1,164 0 0 0 0 0
+at the grade level indicated.
+12 1,211 0 0 0 0 0
+Total PK-12 15,013 0 0 0 0 0
+Change over Prior 237 -15,013 0 0 0 0
+Total K-12 14,415 - - - - -
+Change over Prior (14,415) - - - -
+Hyperlink: View BEDS Enrollment History
+Back to Certified Enrollment Projection
+Certified Enrollment History
+Actual Actual Actual Actual Actual Actual Actual
+FY 2020 FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026
+Count Date: 10/1/2018 10/1/2019 10/1/2020 10/1/2021 10/1/2022 10/1/2023 10/1/2024
+Resident Students In-District 13,883.7 14,181.9 13,897.7 14,067.3 14,077.6 14,037.5 14,177.5
+Open Enrollment Out 382.2 363.0 370.8 313.8 334.1 323.0 350.7
+Tuition Out 12.0 18.0 11.0 8.0 11.0 8.0 2.0
+Nonpublic Shared Time 5.1 4.3 1.9 0.8 9.6 4.0 12.8
+Public HS CPI 2.0 4.4 2.4 5.1 7.5 6.2 7.6
+Certified Enrollment 14,285.0 14,571.6 14,283.8 14,395.0 14,439.8 14,378.7 14,550.6
+Open Enrollment In 154.6 170.2 173.0 273.9 289.6 338.1 363.6
+Tuition In 19.0 14.0 11.0 12.0 14.0 11.0 18.0
+Statewide Voluntary Preschool 251.0 279.5 206.5 251.5 232.0 210.5 247.0
+Total Served Enrollment 14,064.4 14,374.8 14,086.0 14,359.1 14,398.3 14,396.8 14,579.5
+LEP Weighting 285.1 303.2 295.5 312.3 330.2 347.0 392.1
+Resident ESA 0.0 0.0 0.0 0.0 0.0 471.0 773.0
+Certified Enrollment Change 2 86.6 (287.8) 1 11.2 44.8 ( 61.1) 1 71.9
+% Change in CE 2.01% -1.98% 0.78% 0.31% -0.42% 1.20%
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Enrollment | 3/22/2026 | 12:49 PM
+Page 2 of 3
+
+Net Open Enrollment ( 227.60) ( 192.80) ( 197.80) ( 39.90) ( 44.50) 1 5.10 1 2.90
+Back to Cohort Projection
+Fiscal Year 2020 2021 2022 2023 2024 2025 2026
+FY 2020 FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026
+Count Date: 10/1/2018 10/1/2019 10/1/2020 10/1/2021 10/1/2022 10/1/2023 10/1/2024
+PK 570 663 481 579 544 512 598
+K 1,157 1,101 1,027 1,096 1,035 998 992
+1 1,139 1,174 1,016 1,087 1,097 1,028 1,038
+2 1,081 1,131 1,085 1,074 1,092 1,089 1,023
+3 1,156 1,107 1,086 1,089 1,070 1,082 1,105
+4 1,036 1,154 1,058 1,109 1,091 1,052 1,099
+5 1,120 1,047 1,129 1,052 1,093 1,086 1,063
+6 1,063 1,116 1,016 1,121 1,059 1,092 1,096
+7 1,061 1,108 1,098 1,037 1,136 1,106 1,108
+8 978 1,055 1,096 1,099 1,063 1,143 1,139
+9 1,076 1,021 1,095 1,140 1,157 1,092 1,227
+10 1,060 1,115 1,030 1,125 1,148 1,164 1,150
+11 1,029 1,059 1,119 1,033 1,133 1,167 1,164
+12 1,034 1,088 1,092 1,179 1,088 1,165 1,211
+Total PK-12 14,560 14,939 14,428 14,820 14,806 14,776 15,013
+Change over Prior 379 ( 511) 392 (14) (30) 237
+Total K-12 1 3,990 1 4,276 1 3,947 1 4,241 1 4,262 1 4,264 1 4,415
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Enrollment | 3/22/2026 | 12:49 PM
+Page 3 of 3
+
+General Fund Expenditures - Iowa City
+Key Indicators FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Unspent Authorized Budget $ 4,616,039 $ 2,056,256 $ 6,918,760 $ 15,803,188 $ 25,688,006 $ 36,573,226 $ 48,439,979
+Property Tax Rate $ 16.8187 $ 16.0610 $ 17.2388 $ 15.7593 $ 15.6352 $ 15.1320 $ 14.2454
+UAB % of CY Authority 2.2% 0.9% 3.0% 6.8% 10.9% 15.2% 19.8%
+Solvency Ratio 6.0% 3.8% 7.2% 9.8% 12.6% 14.2% 13.3%
+Key Indicators for Expenses FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Estimated Expenses $ 2 12,847,380 $ 2 24,896,059 $ 2 22,766,956 $ 2 22,142,715 $ 2 25,779,569 $ 2 29,525,529 $ 2 33,383,867
+Breakeven Spending $ 2 14,159,204 $ 2 22,336,276 $ 2 27,629,460 $ 2 31,027,143 $ 2 35,664,387 $ 2 40,410,749 $ 2 45,250,620
+% of Spend to Current Authority 99.387% 101.151% 97.864% 96.154% 95.806% 95.472% 95.161%
+% Change from Prior Year 7.413% 5.661% -0.947% -0.280% 1.637% 1.659% 1.681%
+$ Change from Prior Year $ 14,689,150 $ 12,048,679 $ (2,129,102) $ (624,241) $ 3,636,854 $ 3,745,959 $ 3,858,338
+Change in UAB $ 1,311,824 $ ( 2,559,783) $ 4,862,504 $ 8,884,428 $ 9,884,818 $ 10,885,220 $ 11,866,753
+Change in Fund Balance $ (1,073,229) $ ( 3,826,370) $ 8,162,585 $ 5,685,886 $ 6,969,874 $ 3,692,906 $ (2,455,469)
+Important: All expenditures on this tab are additive. It is not recommended to use both Option 1 and Option 2 in the same fiscal year forecast
+Option 1 - Enter Percent Change in Annual Expenses
+FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Change Total Expenses -5.32% 7.41% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+Option 2 - Enter Percent Change by Category
+FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries -4.93% 5.94% 5.50% 2.72% 3.50% 3.00% 3.00% 3.00%
+Employee Benefits -4.77% 4.47% 5.50% 2.72% 3.50% 3.00% 3.00% 3.00%
+Purchased Services 1.16% 26.00% 0.00%
+Supplies -24.92% 33.77% 0.00%
+Property 99.86% 117.93% 0.00%
+Miscellaneous Objects -22.58% 515.68% 0.00%
+Other Items -5.79% -23.23% 0.00%
+Total -5.32% 7.41% 5.66% -0.95% -0.28% 1.64% 1.66% 1.68%
+Option 3 - Enter Dollar Change for Ongoing Expenses
+FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries $ (6,853,159) $ 7 ,851,683 $ (4,500,000) $ (6,000,000) $ (2,000,000) $ (2,000,000) $ (2,000,000)
+Employee Benefits $ (1,867,521) $ 1 ,667,071 $ (1,372,500) $ (1,830,000) $ ( 610,000) $ ( 610,000) $ ( 610,000)
+Purchased Services $ 142,834 $ 3 ,251,009 $ - $ (1,000,000)
+Supplies $ (2,405,355) $ 2 ,447,354 $ - $ ( 627,500)
+Property $ 381,712 $ 900,934 $ -
+Miscellaneous Objects $ (26,157) $ 462,432 $ -
+Other Items $ (500,671) $ (1,891,333)
+Change in Ongoing Expenses $ ( 11,128,316) $ 14,689,150 $ - $ (7,500,000) $ (7,830,000) $ (2,610,000) $ (2,610,000) $ (2,610,000)
+Change in Special Ed Deficit (auto add below to purchased services) $ 1 ,837,346 $ 606,324 $ 624,514 $ 643,249 $ 662,547 $ 682,423
+Option 4 - Enter Dollar Change for One-Time Expenses
+FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries
+Employee Benefits $ - $ -
+Purchased Services $ (1,445,731)
+Supplies $ 2 ,221,391
+Property $ (33,298)
+Miscellaneous Objects $ 11,043
+Other Items $ ( 383,341) $ - $ - $ - $ -
+Change in One-Time Expenses $ 370,064 $ - $ - $ - $ - $ -
+Option 5 - Staffing Changes
+FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Additions | Certified Staff
+Position Change (enter as positive)
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Expenses | 3/22/2026 | 12:49 PM
+Page 1 of 2
+
+Average Salary
+Average Benefits
+Additions | Classified Staff (Associates)
+Position Change (enter as positive)
+Average Salary
+Average Benefits
+Additions | Administration Staff
+Position Change (enter as positive)
+Average Salary
+Average Benefits
+Total Increases due to Staffing Changes $ - $ - $ - $ - $ - $ -
+Reductions
+Position Change (enter as positive)
+Average Salary
+Average Benefits
+Total Decrease due to Staffing Changes $ - $ - $ - $ - $ - $ -
+Net Expense Change due to Staffing Adj. $ - $ - $ - $ - $ - $ -
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+20.0%
+10.0%
+0.0%
+FY
+2020
+FY
+2021
+FY
+2022
+FY
+2023
+FY
+2024
+FY
+2025
+FY
+2026
+FY
+2027
+FY
+2028
+FY
+2029
+FY
+2030
+FY
+2031
+Expenditure by Category
+$250,000,000 86.0%
+85.5%
+$200,000,000 85.0%
+84.5%
+84.0% $150,000,000
+83.5%
+83.0%
+$100,000,000
+82.5%
+82.0%
+$50,000,000 81.5%
+81.0% Projected $0 80.5%
+Salaries Employee Benefits Purchased Services
+Supplies Property Miscellaneous Objects
+Other Items
+FY
+2020
+FY
+2021
+FY
+2022
+FY
+2023
+FY
+2024
+FY
+2025
+FY
+2026
+FY
+2027
+FY
+2028
+FY
+2029
+FY
+2030
+FY
+2031
+Total General Fund Expenditures
+Projected
+Total Salaries / Benefits Linear (Total)
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Expenses | 3/22/2026 | 12:49 PM
+Page 2 of 2
+
+Review General Fund Expenditures - Iowa City - NO DATA ENTRY
+Key Indicators FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Unspent Authorized Budget $ 4,616,039 $ 2,056,256 $ 6,918,760 $ 15,803,188 $ 25,688,006 $ 36,573,226 $ 48,439,979
+Property Tax Rate $ 16.8187 $ 16.0610 $ 17.2388 $ 15.7593 $ 15.6352 $ 15.1320 $ 14.2454
+UAB % of CY Authority 2.2% 0.9% 3.0% 6.8% 10.9% 15.2% 19.8%
+Solvency Ratio 6.0% 3.8% 7.2% 9.8% 12.6% 14.2% 13.3%
+Key Indicators for Expenses FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Estimated Expenses $ 2 12,847,380 $ 2 24,896,059 $ 2 22,766,956 $ 2 22,142,715 $ 2 25,779,569 $ 2 29,525,529 $ 2 33,383,867
+Breakeven Spending $ 2 14,159,204 $ 2 22,336,276 $ 2 27,629,460 $ 2 31,027,143 $ 2 35,664,387 $ 2 40,410,749 $ 2 45,250,620
+% of Spend to Current Authority 99.387% 101.151% 97.864% 96.154% 95.806% 95.472% 95.161%
+% Change from Prior Year 7.413% 5.661% -0.947% -0.280% 1.637% 1.659% 1.681%
+$ Change from Prior Year $ 14,689,150 $ 12,048,679 $ (2,129,102) $ (624,241) $ 3,636,854 $ 3,745,959 $ 3,858,338
+Change in UAB $ 1,311,824 $ (2,559,783) $ 4,862,504 $ 8,884,428 $ 9,884,818 $ 10,885,220 $ 11,866,753
+Change in Fund Balance $ (1,073,229) $ (3,826,370) $ 8,162,585 $ 5,685,886 $ 6,969,874 $ 3,692,906 $ (2,455,469)
+Do NOT Make Changes to the Values Below - Use the Expenses Tab to Adjust
+Actual Actual Estimated Projected Projected Projected Projected Projected
+Expenses by CAR Category FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries $1 32,146,060 $ 1 39,997,743 $ 1 47,697,619 $ 1 47,214,994 $ 1 46,367,519 $ 1 48,758,545 $ 1 51,221,301 $ 1 53,757,940
+Employee Benefits $ 37,267,355 $ 38,934,426 $ 41,075,820 $ 40,820,582 $ 40,419,302 $ 41,021,881 $ 41,642,538 $ 42,281,814
+Purchased Services $ 12,501,893 $ 15,752,902 $ 16,144,516 $ 17,196,571 $ 17,821,085 $ 18,464,334 $ 19,126,881 $ 19,809,304
+Supplies $ 7,247,503 $ 9,694,857 $ 11,916,248 $ 9,067,357 $ 9,067,357 $ 9,067,357 $ 9,067,357 $ 9,067,357
+Property $ 763,960 $ 1,664,894 $ 1,631,596 $ 1,664,894 $ 1,664,894 $ 1,664,894 $ 1,664,894 $ 1,664,894
+Miscellaneous Objects $ 89,674 $ 552,106 $ 563,149 $ 552,106 $ 552,106 $ 552,106 $ 552,106 $ 552,106
+Other Items $ 8,141,785 $ 6,250,452 $ 5,867,111 $ 6,250,452 $ 6,250,452 $ 6,250,452 $ 6,250,452 $ 6,250,452
+Total $1 98,158,230 $ 2 12,847,380 $ 2 24,896,059 $ 2 22,766,956 $ 2 22,142,715 $ 2 25,779,569 $ 2 29,525,529 $ 2 33,383,867
+Change in Expense ($) FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries $ ( 6,853,159) $ 7,851,683 $ 7,699,876 $ (482,625) $ (847,475) $ 2,391,026 $ 2,462,756 $ 2,536,639
+Employee Benefits $ ( 1,867,521) $ 1,667,071 $ 2,141,393 $ (255,238) $ (401,280) $ 602,579 $ 620,656 $ 639,276
+Purchased Services $ 142,834 $ 3,251,009 $ 391,615 $ 1,052,055 $ 624,514 $ 643,249 $ 662,547 $ 682,423
+Supplies $ ( 2,405,355) $ 2,447,354 $ 2,221,391 $ (2,848,891) $ - $ - $ - $ -
+Property $ 381,712 $ 900,934 $ (33,298) $ 3 3,298 $ - $ - $ - $ -
+Miscellaneous Objects $ (26,157) $ 462,432 $ 1 1,043 $ (11,043) $ - $ - $ - $ -
+Other Items $ (500,671) $ (1,891,333) $ (383,341) $ 383,341 $ - $ - $ - $ -
+Total $ (11,128,316) $ 14,689,150 $ 12,048,679 $ (2,129,102) $ (624,241) $ 3,636,854 $ 3,745,959 $ 3,858,338
+Change in Expense (%) FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries -4.93% 5.94% 5.50% -0.33% -0.58% 1.63% 1.66% 1.68%
+Employee Benefits -4.77% 4.47% 5.50% -0.62% -0.98% 1.49% 1.51% 1.54%
+Purchased Services 1.16% 26.00% 2.49% 6.52% 3.63% 3.61% 3.59% 3.57%
+Supplies -24.92% 33.77% 22.91% -23.91% 0.00% 0.00% 0.00% 0.00%
+Property 99.86% 117.93% -2.00% 2.04% 0.00% 0.00% 0.00% 0.00%
+Miscellaneous Objects -22.58% 515.68% 2.00% -1.96% 0.00% 0.00% 0.00% 0.00%
+Other Items -5.79% -23.23% -6.13% 6.53% 0.00% 0.00% 0.00% 0.00%
+Total -5.32% 7.41% 5.66% -0.95% -0.28% 1.64% 1.66% 1.68%
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+ReviewGF | 3/22/2026 | 12:51 PM
+Page 1 of 3
+
+Percentage of Total Expenses FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries 66.69% 65.77% 65.67% 66.08% 65.89% 65.89% 65.88% 65.88%
+Employee Benefits 18.81% 18.29% 18.26% 18.32% 18.20% 18.17% 18.14% 18.12%
+Purchased Services 6.31% 7.40% 7.18% 7.72% 8.02% 8.18% 8.33% 8.49%
+Supplies 3.66% 4.55% 5.30% 4.07% 4.08% 4.02% 3.95% 3.89%
+Property 0.39% 0.78% 0.73% 0.75% 0.75% 0.74% 0.73% 0.71%
+Miscellaneous Objects 0.05% 0.26% 0.25% 0.25% 0.25% 0.24% 0.24% 0.24%
+Other Items 4.11% 2.94% 2.61% 2.81% 2.81% 2.77% 2.72% 2.68%
+Total 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00% 100.00%
+Percentage of Total Expenses FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries / Benefits 85.49% 84.07% 83.94% 84.41% 84.08% 84.06% 84.03% 84.00%
+Expenses
+$180,000,000
+$160,000,000
+$140,000,000
+$120,000,000
+$100,000,000
+$80,000,000
+$60,000,000
+$40,000,000
+$20,000,000
+$-
+FY 2020 FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries Employee Benefits Purchased Services Supplies Property Miscellaneous Objects Other Items
+Percent of Expenses
+80.00%
+70.00%
+60.00%
+50.00%
+40.00%
+30.00%
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+ReviewGF | 3/22/2026 | 12:51 PM
+Page 2 of 3
+
+30.00%
+20.00%
+10.00%
+0.00%
+FY 2020 FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031
+Salaries Employee Benefits Purchased Services Supplies Property Miscellaneous Objects Other Items
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+ReviewGF | 3/22/2026 | 12:51 PM
+Page 3 of 3
+
+CFPM Financial Summary Iowa City School District
+Actual Actual Actual Actual Actual Estimated Projected Projected Projected Projected Projected
+Line Source (Tab) Description 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031
+1 Getting Started SSA Rate 2.30% 2.40% 2.50% 3.00% 2.50% 2.00% 2.00% 2.00% 2.00% 2.00% 2.00%
+2 Enrollment % Change in Certified Enrollment 2.01% -1.98% 0.78% 0.31% -0.42% 1.20% -1.17% -0.25% -0.25% -0.25% -0.25%
+3 Vals Annual % Change in Taxable Value 6.08% 3.33% 0.55% 0.43% 3.76% 2.79% 2.85% 2.22% 2.22% 2.22% 2.22%
+4 TaxRates Total Tax Rate $ 14.85 $ 14.93 $ 16.27 $ 16.82 $ 16.06 $ 17.24 $ 15.76 $ 15.64 $ 15.13 $ 14.25
+5 Expenses General Fund Expenditure Change 7.15% 8.95% 3.38% -5.32% 7.41% 5.66% -0.95% -0.28% 1.64% 1.66% 1.68%
+6 UAB Amount Under / (Over) Breakeven 1,119,052 -2,927,691 -2,744,992 5,809,272 1,311,824 -2,559,783 4,862,504 8,884,428 9,884,818 10,885,220 11,866,753
+7 UAB UAB % of Expenditures 1.70% 0.12% -1.20% 1.67% 2.17% 0.91% 3.11% 7.11% 11.38% 15.93% 20.76%
+8 Solvency Change in Fund Balance 4,490,232 -5,770,450 1,038,828 8,371,986 -1,073,229 -3,826,370 8,162,585 5,685,886 6,969,874 3,692,906 -2,455,469
+9 Solvency Solvency Ratio 6.35% 2.77% 3.15% 7.47% 5.96% 3.83% 7.22% 9.82% 12.61% 14.18% 13.25%
+10 Management Balance Ratio (% of Expenditures) 61.48% 60.49% 109.74% 114.83% 120.94% 126.60% 133.06%
+11 Enrollment Enrollment Assumptions (CE) 14,571.6 14,283.8 14,395.0 14,439.8 14,378.7 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9
+12 Enrollment Enrollment Assumptions (Total) 14,374.8 14,086.0 14,359.1 14,398.3 14,396.8 14,579.5 14,374.8 14,086.0 14,359.1 14,398.3 14,396.8
+13 Enrollment ESA Enrollment 773.0 1,442.0 1,500.0 1,550.0 1,600.0 1,650.0
+14 SpecialEd Special Education - Headcount Level 1 733 738 785 798 855 939 939 939 939 939 939
+15 SpecialEd Special Education - Headcount Level 2 376 400 415 450 476 453 453 453 453 453 453
+16 SpecialEd Special Education - Headcount Level 3 196 173 182 197 168 157 157 157 157 157 157
+17 SpecialEd Special Education - Deficit 9,830,075 9,968,520 10,623,841 10,984,784 18,373,455 20,210,801 20,817,125 21,441,638 22,084,888 22,747,434 23,429,857
+18 SpecialEd Special Education - Surplus 0 0 0 0 0 0 0 0 0 0 0
+19 Operational Sharing Operational Sharing 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+20 Supp. Wt. Total Supplementary Weighting 391.21 373.13 404.39 429.41 447.17 493.98 498.05 497.02 495.77 494.53 493.30
+21 Dropout Dropout Presentation Generated 4,920,051 4,950,347 5,166,956 5,352,112 5,416,581 5,688,650 5,742,413 5,843,807 5,945,830 6,049,412 6,155,332
+22 ISL District Income Tax 167,304,810 156,490,393 159,525,699 174,660,765 176,760,916 163,355,816 163,355,816 149,797,283 141,558,433 144,389,601 147,277,393
+23 ISL ISL Percentage 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%
+24 ISL ISL Income Surtax Rate 5% 5% 4% 4% 4% 4% 5% 5% 5% 5%
+25 ISL ISL Property Tax Rate $ 0 .06 $ 0 .06 $ 0 .22 $ 0 .22 $ 0 .31 $ 0 .31 $ 0 .21 $ 0 .27 $ 0 .27 $ 0 .27
+26 Vals Net Property Value with G&E (GF) 6,704,295,885 6,879,842,218 6,925,691,016 6,959,003,323 7,214,569,669 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081
+27 Vals TIF Value 544,371,481 609,888,470 605,521,436 604,710,187 633,481,767 624,377,993 630,621,773 644,642,721 658,975,403 673,626,752 688,603,853
+28 Vals Total Value with TIF (DS, PPEL, ISL) 7,248,667,366 7,489,730,688 7,531,212,452 7,563,713,510 7,848,051,436 8,067,275,199 8,296,805,895 8,481,273,172 8,669,841,808 8,862,602,990 9,059,649,933
+29 TaxRates Uniform Levy $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40 $ 5 .40
+30 TaxRates Additional Levy $ 2 .91 $ 2 .81 $ 2 .82 $ 2 .69 $ 2 .68 $ 2 .63 $ 2 .54 $ 2 .49 $ 2 .45 $ 2 .40
+31 TaxRates Total Cash Reserve Levy $ 2 .15 $ 2 .53 $ 2 .51 $ 3 .33 $ 3 .23 $ 3 .95 $ 3 .22 $ 3 .12 $ 2 .70 $ 1 .90
+32 TaxRates Educational Improvement Program $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+33 TaxRates Instructional Support Program $ 0 .06 $ 0 .06 $ 0 .22 $ 0 .22 $ 0 .31 $ 0 .31 $ 0 .21 $ 0 .27 $ 0 .27 $ 0 .27
+34 TaxRates Use of Fund Balance to Reduce Levy $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+35 TaxRates Management Levy $ 0 .94 $ 0 .75 $ 1 .94 $ 1 .80 $ 1 .11 $ 1 .62 $ 1 .12 $ 1 .12 $ 1 .13 $ 1 .13
+36 TaxRates Library Levy $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+37 TaxRates Voted PPEL - Total Authority $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34
+38 TaxRates Voted PPEL - Property Tax $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .36 $ 1 .34 $ 1 .34 $ 1 .34 $ 1 .34
+39 TaxRates Voted PPEL - Income Surtax 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%
+40 TaxRates Regular PPEL $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33 $ 0 .33
+41 TaxRates Total PPEL $ 1 .67 $ 1 .67 $ 1 .67 $ 1 .67 $ 1 .67 $ 1 .69 $ 1 .67 $ 1 .67 $ 1 .67 $ 1 .67
+42 TaxRates Reorganization Levy $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+43 TaxRates Publ Ed. & Recreation Levy $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+44 TaxRates Debt Service $ 1 .73 $ 1 .72 $ 1 .71 $ 1 .72 $ 1 .67 $ 1 .64 $ 1 .60 $ 1 .56 $ 1 .51 $ 1 .48
+45 TaxRates Total Tax Rate $ 14.85 $ 14.93 $ 16.27 $ 16.82 $ 16.06 $ 17.24 $ 15.76 $ 15.64 $ 15.13 $ 14.25
+46 TaxRates Total Income Surtax 5% 5% 4% 4% 4% 4% 5% 5% 5% 5%
+47 UAB Other Miscellaneous Income 19,699,856 29,517,459 31,601,951 20,591,198 19,256,772 19,524,266 20,014,474 20,514,836 21,027,707 21,553,399 22,092,234
+48 UAB Maximum Authorized Budget 188,965,728 202,675,479 206,781,489 201,462,445 217,463,419 226,952,315 229,685,716 237,945,903 251,467,575 266,098,754 281,823,846
+49 UAB Breakeven Spending (New Authority) 186,917,154 199,507,853 206,541,554 203,967,502 214,159,204 222,336,276 227,629,460 231,027,143 235,664,387 240,410,749 245,250,620
+50 UAB Expenditures 185,798,102 202,435,544 209,286,546 198,158,230 212,847,380 224,896,059 222,766,956 222,142,715 225,779,569 229,525,529 233,383,867
+51 UAB Unspent Authorized Budget (UAB) 3,167,626 239,935 -2,505,057 3,304,215 4,616,039 2,056,256 6,918,760 15,803,188 25,688,006 36,573,226 48,439,979
+52 Solvency Beginning Fund Balance 11,236,307 15,726,539 9,956,089 10,994,917 19,366,904 18,293,675 14,467,305 22,629,891 28,315,777 35,285,651 38,978,557
+53 Solvency Ending Fund Balance 15,726,539 9,956,089 10,994,917 19,366,904 18,293,675 14,467,305 22,629,891 28,315,777 35,285,651 38,978,557 36,523,088
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Summary | 3/22/2026 | 12:51 PM
+Page 1 of 2
+
+CFPM Financial Summary Iowa City School District
+25.00% 10.00%
+8.00%
+20.00%
+6.00%
+15.00% 4.00%
+2.00%
+10.00%
+0.00%
+5.00% -2.00%
+-4.00%
+0.00%
+2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031
+-6.00%
+-5.00% -8.00%
+)%(
+egatnecreP
+serutidnepxE
+fo
+%
+sa
+BAU
+&
+ycnevloS
+)%(
+egatnecreP
+EC
+ni
+egnahC
+%
+/ egnahC
+esnepxE
+FG
+/
+etaR
+ASS
+Trends in Solvency and Unspent Authorized Budget
+Solvency Ratio
+UAB % of Expenditures
+SSA Rate
+General Fund Expenditure Change
+% Change in Certified Enrollment
+20
+18 $17.24
+$16.82
+$16.27 $16.06 $15.76 $15.64
+16 $14.85 $14.93 $15.13
+$14.25
+14
+12
+10
+8
+6
+4
+2
+0
+2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031
+noitaulaV
+elbaxaT
+fo
+0001$
+/
+sralloD
+Trends in Tax Rates
+Debt Service
+Publ Ed. & Recreation Levy
+Total PPEL
+Library Levy
+Management Levy
+Total Cash Reserve Levy
+Instructional Support Program
+Educational Improvement Program
+Additional Levy
+Uniform Levy
+Reorganization Levy
+Total Tax Rate
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Summary | 3/22/2026 | 12:51 PM
+Page 2 of 2
+
+5 Year Aid & Levy Summary - Iowa City
+EXISTING Actual Projected Projected Projected Projected Projected Link from Final Calculated Current From
+2025 Prior 2026 BeyondBUDGET ENROLLMENT FY 2026 FY 2027 FY 2028 FY 2029 FY 2030 FY 2031 FY 2027 Difference FY 2026
+1.1 1.1 Budget Enrollment (Current Budget Enrollment) 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9 -170.5
+1.2 1.2 Audited Change in Prior Year's Certified Enrollment -6.787 -12.500 0.000 0.000 0.000 0.000 -5.713
+1.3 1.3 Prior FY Regular Program District Cost Per Pupil (Line 2.3 - Prior FY Aid & Levy) X 7,826 7,988 8,148 8,311 8,477 8,647 162
+1.4 1.4 Enrollment Audit Adjustment = (53,115) (106,871) 0 0 0 0 (53,756)
+1.5 1.5 Prior FY Regular Program Foundation Cost Per Pupil 6,918 7,061 7,203 7,347 7,494 7,644 143
+1.6 1.6 Audited Change in Prior Year's Certified Enrollment (Line 1.2) X (6.787) (12.500) .000 .000 .000 .000 (5.713)
+1.7 1.7 Enrollment Audit Adjustment - State Aid Portion = (46,952) (97,470) 0 0 0 0 (50,518)
+DISTRICT CATEGORICAL ENROLLMENT 0
+1.8 1.8 Budget Enrollment (Line 1.1) 14,551 14,380 14,344 14,308 14,273 14,237 (171)
+1.9 1.9 Resident Students Receiving an Education Savings Account (ESA) + 773 1,442 1,500 1,550 1,600 1,650 669
+1.10 1.10 District Categorical Enrollment = 15,324 15,822 15,844 15,858 15,873 15,887 499
+COST PER PUPIL AMOUNTS 0
+2.1 2.1 Prior FY Regular Program District Cost Per Pupil (Line 1.3) 7,826 7,988 8,148 8,311 8,477 8,647 162
+2.2 2.2 Current FY Regular Program Supplemental State Aid Amount Per Pupil + 157 160 163 166 170 173 3
+2.3 2.3 Current FY Regular Program District Cost Per Pupil = 7,988 8,148 8,311 8,477 8,647 8,820 160
+2.4 2.4 Prior FY Teacher Salary Supplement Cost Per Pupil (Line 2.6 - Prior FY Aid & Levy) 699.19 729.25 742.94 756.90 771.14 785.67 30.06
+2.5 2.5 Current FY Teacher Salary Supplement Supplemental State Aid Amount Per Pupil + 13.42 13.69 13.96 14.24 14.53 14.82 0.27
+2.6 2.6 Current FY Teacher Salary Supplement Cost Per Pupil = 729.25 742.94 756.90 771.14 785.67 800.49 13.69
+2.7 2.7 Prior FY Professional Dev Suppl Cost Per Pupil (Line 2.9 - Prior FY Aid & Levy) 79.25 80.77 82.32 83.90 85.51 87.16 1.52
+2.8 2.8 Current FY Professional Development Supplement Supplemental State Aid Amt Per Pupil + 1.52 1.55 1.58 1.61 1.65 1.68 0.03
+2.9 2.9 Current FY Professional Development Supplement Cost Per Pupil = 80.77 82.32 83.90 85.51 87.16 88.84 1.55
+2.10 2.10 Prior FY Early Intervention Suppl Cost Per Pupil (Line 2.12 - Prior FY Aid & Levy) 81.92 83.58 85.27 86.99 88.75 90.54 1.66
+2.11 2.11 Current FY Early Intervention Supplement Supplemental State Aid Amount Per Pupil + 1.66 1.69 1.72 1.76 1.79 1.83 0.03
+2.12 2.12 Current FY Early Intervention Supplement Cost Per Pupil = 83.58 85.27 86.99 88.75 90.54 92.37 1.69
+2.13 2.13 Prior FY Teacher Leadership Suppl Cost Per Pupil (Line 2.15 - Prior FY Aid & Levy) 377.74 385.29 393.00 400.86 408.88 417.06 7.55
+2.14 2.14 Current FY Teacher Leadership Supplement Supplemental State Aid Amount Per Pupil + 7.55 7.71 7.86 8.02 8.18 8.34 0.16
+2.15 2.15 Current FY Teacher Leadership Supplement Cost Per Pupil = 385.29 393.00 400.86 408.88 417.06 425.40 7.71
+WEIGHTED ENROLLMENT 0
+3.1 3.1 0.72 Special Ed Weighting in Addition to 1.0 676.08 653.76 676.08 676.08 676.08 676.08 (22.32)
+3.2 3.2 1.21 Special Ed Weighting in Addition to 1.0 + 547.94 572.79 547.94 547.94 547.94 547.94 24.85
+3.3 3.3 2.74 Special Ed Weighting in Addition to 1.0 + 428.81 424.70 428.81 428.81 428.81 428.81 (4.11)
+3.4 3.4 Total Special Ed Weighting in Addition to 1.0 = 1,652.83 1,651.25 1,652.83 1,652.83 1,652.83 1,652.83 (1.58)
+3.5 3.5 Budget Enrollment (Line 1.1) + 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9 -170.5
+3.6 3.6 AEA Weighted Enrollment = 16,203.43 16,031.35 15,997.03 15,961.13 15,925.43 15,889.73 (172.08)
+3.7 3.7 AEA Supplementary Weight for Sharing + 18.01 18.01 18.01 18.01 18.01 18.01 0.00
+3.8 3.8 AEA Weighted Enrollment with AEA Supplementary Weight for Sharing = 16,221.44 16,049.36 16,015.04 15,979.14 15,943.44 15,907.74 (172.08)
+3.9 3.9 Supplementary Weighting - Sharing + 31.28 37.91 37.82 37.72 37.63 37.53 6.63
+3.10 3.10 Supplementary Weighting - At-Risk Formula + 70.56 69.52 69.56 69.38 69.21 69.04 (1.04)
+3.11 3.11 Supplementary Weighting - ELL + 392.14 390.62 389.64 388.67 387.70 386.73 (1.52)
+3.12 3.12 Supplementary Weighting - Reorganization Incentives + 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+3.13 3.13 Total Supplementary Weighting = 493.979 498.047 497.017 495.774 494.535 493.298 4.068
+3.14 3.14 AEA Weighted Enrollment (Line 3.6) + 16,203.43 16,031.35 15,997.03 15,961.13 15,925.43 15,889.73 (172.08)
+3.15 3.15 District Weighted Enrollment = 16,697.409 16,529.397 16,494.047 16,456.904 16,419.965 16,383.028 (168.012)
+3.16 3.16 Total Special Ed Weighting in Addition to 1.0 (Line 3.4) - 1,652.83 1,651.25 1,652.83 1,652.83 1,652.83 1,652.83 (1.58)
+3.17 3.17 District Weighted Enrollment without Special Ed Weightings = 15,044.579 14,878.147 14,841.217 14,804.074 14,767.135 14,730.198 (166.432)
+REGULAR PROGRAM DISTRICT COST CALCULATIONS 0
+4.1 4.1 Current FY Regular Program District Cost Per Pupil (Line 2.3) 7,988 8,148 8,311 8,477 8,647 8,820 160
+4.2 4.2 Budget Enrollment (Line 1.1) X 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9 -170.5
+4.3 4.3 Current FY Regular Program District Cost without Adjustment = 116,230,193 117,169,055 119,214,646 121,291,459 123,415,172 125,569,458 938,862
+4.4 4.4 Prior FY Regular Program District Cost (Line 4.3 - Prior FY Aid & Levy) 112,527,706 116,230,193 117,169,055 119,214,646 121,291,459 123,415,172 3,702,487
+4.5 4.5 101% Budget Adjustment X 1.01 1.01 1.01 1.01 1.01 1.01 0.00
+4.6 4.6 101% of Prior FY Regular Program District Cost = 113,652,983 117,392,495 118,340,746 120,406,792 122,504,374 124,649,324 3,739,512
+4.7 4.7 Current FY Regular Program District Cost without Adjustment (Line 4.3) - 116,230,193 117,169,055 119,214,646 121,291,459 123,415,172 125,569,458 938,862
+4.8 4.8 Current FY Regular Program Budget Adjustment (if negative, enter zero) = 0 223,440 0 0 0 0 223440
+OTHER DISTRICT COST CALCULATIONS 0
+4.9 4.9 Current FY Regular Program District Cost Per Pupil (Line 2.3) 7,988 8,148 8,311 8,477 8,647 8,820 160
+4.10 4.10 Total Supplementary Weighting (Line 3.13) X 493.979 498.047 497.017 495.774 494.535 493.298 4.068
+4.11 4.11 District Cost for Supplementary Weighting = 3,945,904 4,058,087 4,130,706 4,202,678 4,276,242 4,350,892 112,183
+4.12 4.12 Current FY Regular Program District Cost Per Pupil (Line 2.3) 7,988 8,148 8,311 8,477 8,647 8,820 160
+4.13 4.13 Total Special Ed Weighting in Addition to 1.0 (Line 3.4) X 1,652.83 1,651.25 1,652.83 1,652.83 1,652.83 1,652.83 (1.58)
+4.14 4.14 Special Education Instruction District Cost = 13,202,806 13,454,385 13,736,670 14,011,040 14,292,021 14,577,961 251,579
+4.15 4.15 Current FY Teacher Salary Supplement District Cost Per Pupil (Line 2.6) 729.25 742.94 756.90 771.14 785.67 800.49 13.69
+4.16 4.16 District Categorical Enrollment (Line 1.10) X 15,323.6 15,822.1 15,844.2 15,858.3 15,872.6 15,886.9 498.5
+4.17 4.17 Unadjusted Teacher Salary Supplement District Cost = 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 12,717,305 580,136
+4.18 4.18 Prior FY Unadj Teacher Salary Suppl District Cost (Line 4.17 - Prior FY Aid & Levy) 10,382,762 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 791,973
+4.19 4.19 Unadjusted Teacher Salary Supplement District Cost (Line 4.17) - 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 12,717,305 580,136
+4.20 4.20 Teacher Salary Supplement Budget Adjustment (if negative, enter zero) = 0 0 0 0 0 0 0
+4.21 4.21 Unadjusted Teacher Salary Supplement District Cost (Line 4.17) + 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 12,717,305 580,136
+4.22 4.22 Teacher Salary Supplement District Cost = 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 12,717,305 580,136
+4.23 4.23 Current FY Professional Development Supplement District Cost Per Pupil (Line 2.9) 81 82 84 86 87 89 2
+4.24 4.24 District Categorical Enrollment (Line 1.10) X 15,324 15,822 15,844 15,858 15,873 15,887 499
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 1 of 7
+
+4.25 4.25 Unadjusted Professional Development Supplement District Cost = 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 1,411,392 64,788
+4.26 4.26 Prior FY Unadjusted Prof Dev Suppl District Cost (Line 4.25 - Prior FY Aid & Levy) 1,176,839 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 60,848
+4.27 4.27 Unadjusted Professional Development Supplement District Cost (Line 4.25) - 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 1,411,392 64,788
+4.28 4.28 Professional Development Supplement Budget Adjustment (if negative, enter zero) = 0 0 0 0 0 0 0
+4.29 4.29 Unadjusted Professional Development Supplement District Cost (Line 4.25) + 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 1,411,392 64,788
+4.30 4.30 Professional Development Supplement District Cost = 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 1,411,392 64,788
+4.31 4.31 Current FY Early Intervention Supplement District Cost Per Pupil (Line 2.12) 83.58 85.27 86.99 88.75 90.54 92.37 1.69
+4.32 4.32 District Categorical Enrollment (Line 1.10) X 15,323.6 15,822.1 15,844.2 15,858.3 15,872.6 15,886.9 498.5
+4.33 4.33 Unadjusted Early Intervention Supplement District Cost = 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 1,467,473 68,404
+4.34 4.34 Prior FY Unadj Early Intervention Suppl District Cost (Line 4.33 - Prior FY Aid & Levy) 1,216,487 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 64,259
+4.35 4.35 Unadjusted Early Intervention Supplement District Cost (Line 4.33) - 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 1,467,473 68,404
+4.36 4.36 Early Intervention Supplement Budget Adjustment (if negative, enter zero) = 0 0 0 0 0 0 0
+4.37 4.37 Unadjusted Early Intervention Supplement District Cost (Line 4.33) + 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 1,467,473 68,404
+4.38 4.38 Early Intervention Supplement District Cost = 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 1,467,473 68,404
+4.39 4.39 Current FY Teacher Leadership Supplement District Cost Per Pupil (Line 2.15) 385.29 393.00 400.86 408.88 417.06 425.40 7.71
+4.40 4.40 District Categorical Enrollment (Line 1.10) X 15,323.6 15,822.1 15,844.2 15,858.3 15,872.6 15,886.9 498.5
+4.41 4.41 Unadjusted Teacher Leadership Supplement District Cost = 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 6,758,287 314,055
+4.42 4.42 Prior FY Unadj Teacher Leadership Suppl District Cost (Line 4.41 - Prior FY Aid & Levy) 5,609,326 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 294,704
+4.43 4.43 Unadjusted Teacher Leadership Supplement District Cost (Line 4.41) - 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 6,758,287 314,055
+4.44 4.44 Teacher Leadership Supplement Budget Adjustment (if negative, enter zero) = 0 0 0 0 0 0 0
+4.45 4.45 Unadjusted Teacher Leadership Supplement District Cost (Line 4.41) + 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 6,758,287 314,055
+4.46 4.46 Teacher Leadership Supplement District Cost = 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 6,758,287 314,055
+AEA DISTRICT COST CALCULATIONS 0
+4.47 4.47 AEA Special Ed Support Cost Per Pupil 348.16 355.14 362.26 369.52 376.92 384.47 6.98
+4.48 4.48 AEA Weighted Enrollment (Line 3.6) X 16,203.43 16,031.35 15,997.03 15,961.13 15,925.43 15,889.73 (172.08)
+4.49 4.49 AEA Special Ed Support District Cost without Adjustment = 5,641,386 5,693,374 5,795,084 5,897,957 6,002,613 6,109,124 51,988
+4.50 4.50 Prior FY AEA Special Ed Support Dist Cost (Line 4.49 - Prior FY Aid & Levy) 5,447,167 5,641,386 5,693,374 5,795,084 5,897,957 6,002,613 194,219
+4.51 4.51 Prior FY AEA Special Ed Support Adjustment (Line 4.54 - Prior FY Aid & Levy) + 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+4.52 4.52 Prior FY Total AEA Special Ed Support District Cost = 5,447,167 5,641,386 5,693,374 5,795,084 5,897,957 6,002,613 194,219
+4.53 4.53 AEA Special Ed Support District Cost without Adjustment (Line 4.49) - 5,641,386 5,693,374 5,795,084 5,897,957 6,002,613 6,109,124 51,988
+4.54 4.54 AEA Special Ed Support Adjustment (If negative, enter zero) = 0 0 0 0 0 0 0
+4.55 4.55 Budget Enrollment (Line 1.1) 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9 (170.5)
+4.56 4.56 Resident Accredited Nonpublic Students + 1,378 1,487 1,378 1,378 1,378 1,378 109
+4.57 4.57 Shared-Time Nonpublic Pupils Counted in Line 1.1 - 12.8 14.4 12.8 12.8 12.8 12.8 1.6
+4.58 4.58 Total Enrollment Served - AEA Media and Ed Services = 15,916 15,853 15,709 15,674 15,638 15,602 (63)
+4.59 4.59 Current FY AEA Media Cost Per Pupil X 64.98 66.28 67.61 68.96 70.34 71.75 1.30
+4.60 4.60 AEA Media Services District Cost = 1,034,222 1,050,737 1,062,085 1,080,879 1,099,977 1,119,444 16,515
+4.61 4.61 Total Enrollment Served - AEA Media and Ed Services (Line 4.58) 15,916 15,853 15,709 15,674 15,638 15,602 (63)
+4.62 4.62 Current FY AEA Ed Services Cost Per Pupil X 71.46 72.90 74.36 75.85 77.37 78.92 1.44
+4.63 4.63 AEA Ed Services District Cost = 1,137,357 1,155,684 1,168,121 1,188,873 1,209,912 1,231,310 18,327
+4.64 4.64 AEA Supplementary Weight for Sharing (Line 3.7) 18.01 18.01 18.01 18.01 18.01 18.01 .00
+4.65 4.65 AEA Special Ed Support Cost Per Pupil (Line 4.47) X 348.16 355.14 362.26 369.52 376.92 384.47 6.98
+4.66 4.66 AEA Sharing District Cost = 6,270 6,396 6,524 6,655 6,788 6,924 126
+4.67 4.67 Current FY AEA Teacher Salary Supplement District Cost Per Pupil 33.08 33.80 34.53 35.28 36.04 36.82 0.72
+4.68 4.68 AEA Weighted Enrollment (Line 3.6) X 16,203.43 16,031.35 15,997.03 15,961.13 15,925.43 15,889.73 (172.08)
+4.69 4.69 Unadjusted AEA Teacher Salary Supplement District Cost = 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+4.70 4.70 Prior FY Unadj AEA Teacher Salary Suppl District Cost (Line 4.69-Prior FY Aid & Levy) 516,756 536,009 541,860 552,377 563,109 573,952 19,253
+4.71 4.71 Unadjusted AEA Teacher Salary Supplement District Cost (Line 4.69) - 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+4.72 4.72 AEA Teacher Salary Supplement Budget Adjustment (if negative, enter zero) = 0 0 0 0 0 0 0
+4.73 4.73 Unadjusted AEA Teacher Salary Supplement District Cost (Line 4.69) + 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+4.74 4.74 AEA Teacher Salary Supplement District Cost = 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+4.75 Current FY AEA Professional Development Supplement District Cost Per Pupil 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+4.76 AEA Weighted Enrollment (Line 3.6) X 16,203.43 .00 .00 .00 .00 .00 (16,203.43)
+4.77 Unadjusted AEA Professional Development Supplement District Cost = 0 0 0 0 0 0 0
+4.78 Prior FY Unadj AEA Prof Dev Suppl District Cost (Line 4.77 - Prior FY Aid & Levy) 0 0 0 0 0 0 0
+4.79 Unadjusted AEA Professional Development Supplement District Cost (Line 4.77) - 0 0 0 0 0 0 0
+4.80 AEA Professional Development Suppl Budget Adjustment (if negative, enter zero) = 0 0 0 0 0 0 0
+4.81 Unadjusted AEA Professional Development Supplement District Cost (Line 4.77) + 0 0 0 0 0 0 0
+4.82 AEA Professional Development Supplement District Cost = 0 0 0 0 0 0 0
+COMBINED DISTRICT COST SUMMARY 0
+5.1 5.1 Regular Program District Cost without Adjustment (Line 4.3) 116,230,193 117,169,055 119,214,646 121,291,459 123,415,172 125,569,458 938,862
+5.2 5.2 Regular Program Budget Adjustment Adopted (Line 4.8) + 0 223,440 0 0 0 0 223,440
+5.3 5.3 District Cost for Supplementary Weighting (Line 4.11) + 3,945,904 4,058,087 4,130,706 4,202,678 4,276,242 4,350,892 112,183
+5.4 5.4 Special Education Instruction District Cost (Line 4.14) + 13,202,806 13,454,385 13,736,670 14,011,040 14,292,021 14,577,961 251,579
+5.5 5.5 Teacher Salary Supplement District Cost (Line 4.22) + 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 12,717,305 580,136
+5.6 5.6 Professional Development Supplement District Cost (Line 4.30) + 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 1,411,392 64,788
+5.7 5.7 Early Intervention Supplement District Cost (Line 4.38) + 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 1,467,473 68,404
+5.8 5.8 Teacher Leadership Supplement District Cost (Line 4.46) + 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 6,758,287 314,055
+5.9 5.9 AEA Special Ed Support District Cost without Adjustment (Line 4.49) + 5,641,386 5,693,374 5,795,084 5,897,957 6,002,613 6,109,124 51,988
+5.10 5.10 AEA Special Ed Support Adjustment (Line 4.54) + 0 0 0 0 0 0 0
+5.11 5.11 AEA Media Services District Cost (Line 4.60) + 1,034,222 1,050,737 1,062,085 1,080,879 1,099,977 1,119,444 16,515
+5.12 5.12 AEA Ed Services District Cost (Line 4.63) + 1,137,357 1,155,684 1,168,121 1,188,873 1,209,912 1,231,310 18,327
+5.13 5.13 AEA Sharing District Cost (Line 4.66) + 6,270 6,396 6,524 6,655 6,788 6,924 126
+5.14 5.14 AEA Teacher Salary Supplement District Cost (Line 4.74) + 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 2 of 7
+
+5.15 5.15 AEA Professional Development Supplement District Cost (Line 4.82) + 0 0 0 0 0 0 0
+5.16 5.16 AEA Statewide State Aid Reduction - 957,862 221,380 957,862 957,862 957,862 957,862 (736,482)
+5.17 5.17 Current FY SBRC Modified Supplemental Amount - Dropout + 5,688,650 5,742,413 5,843,807 5,945,830 6,049,412 6,155,332 53,763
+5.18 5.18 Enrollment Audit Adjustment (Line 1.4) + (53,115) (106,871) 0 0 0 0 (53,756)
+5.19 5.19 Combined District Cost = 166,009,018 169,391,761 171,603,554 174,707,196 177,879,241 181,102,100 3,382,743
+UNIFORM LEVY DOLLARS 0
+6.1 6.1 Current Valuation Taxable Valuation with Gas & Electric Utilities (Enter on TaxCert tab) 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081 223,286,916 -89.77%
+6.2 6.2 Uniform Levy Rate X 5.4000 5.4000 5.4000 5.4000 5.4000 5.4000 0.0000
+6.3 6.3 Uniform Levy Dollars = 4 0,191,645 4 1,397,394 4 2,317,804 4 3,258,679 4 4,220,472 4 5,203,649 1,205,749
+UNIFORM LEVY - UTILITY REPLACEMENT ADJUSTMENT 0
+6.4 6.4 Uniform Levy Utility Replacement Paid Prior FY 463,679 463,335 463,679 463,679 463,679 463,679 (344)
+6.5 6.5 Uniform Levy Utility Replacement Budgeted Prior FY - 464,402 466,546 464,402 464,402 464,402 464,402 2,144
+6.6 6.6 Uniform Levy Utility Replacement Adjustment = (723) (3,211) (723) (723) (723) (723) (2,488)
+6.7 6.7 Uniform Levy Dollars Before Utility Repl and C&I Adjustments (Line 6.3) + 40,191,645 41,397,394 42,317,804 43,258,679 44,220,472 45,203,649 1,205,749
+6.8 6.8 Uniform Levy Dollars Adjusted for Utility Replacement = 40,190,922 41,394,183 42,317,081 43,257,956 44,219,749 45,202,926 1,203,261
+UNIFORM LEVY - TWO TIERED ASSESSMENT LIMITATION REPLACEMENT 0
+6.9 6.9 Current Valuation Commercial & Industrial & Railroad Calculated 90% Valuation 2,008,268,989 2,052,919,897 2,098,563,551 2,145,222,026 2,192,917,882 2,241,674,186 44,650,908
+6.10 6.10 Current Valuation Commercial & Industrial & Railroad Taxable Valuation - 1,912,322,498 1,954,840,176 1,998,303,173 2,042,732,505 2,088,149,658 2,134,576,594 42,517,678
+6.11 6.11 Current Valuation Commercial & Industrial & Railroad Valuation Reduction = 95,946,491 98,079,720 100,260,379 102,489,521 104,768,224 107,097,592 2,133,229
+6.12 6.12 Uniform Levy Rate (Line 6.2) X 5.40000 5.40000 5.40000 5.40000 5.40000 5.40000 0.00000
+6.13 6.13 Uniform Levy Commercial, Industrial & Railroad Two Tiered Assessment Replacement Estimate = 518,111 550,229 541,406 553,443 565,748 578,327 32,118
+6.14 6.14 Previous Year Uniform Levy C&I&R Two Tiered Assessment Limitation Replacement Paid 432,285 427,398 432,285 432,285 432,285 432,285 (4,887)
+6.15 6.15 Previous Year Uniform Levy C&I&R Two Tiered Assessment Replacement Budgeted - 529,623 518,111 518,111 518,111 518,111 518,111 (11,512)
+6.16 6.16 Previous Year Uniform Levy C&I&R Two Tiered Assessment Replacement Paid Minus Budgeted = (97,338) (90,713) (85,826) (85,826) (85,826) (85,826) 6,625
+6.17 6.17 Total Uniform Levy Commercial & Industrial & Railroad Two Tiered Assessment Replacement Est (Line 6.13) + 518,111 550,229 541,406 553,443 565,748 578,327 32,118
+6.18 6.18 Total Uniform Levy C/I/R Two Tiered Assessment Limitation Replacement Adjustment = 420,773 459,516 455,580 467,617 479,922 492,501 38,743
+6.19 6.19 Uniform Levy Dollars Adjusted for Utility Replacement (Line 6.8) + 40,190,922 41,394,183 42,317,081 43,257,956 44,219,749 45,202,926 1,203,261
+6.20 6.20 Uniform Levy Dollars Adjusted for Utility Replacement & C/I/R Two Tiered Assessment Limitation Replacemen=t 40,611,695 41,853,699 42,772,661 43,725,573 44,699,671 45,695,427 1,242,004
+STATE FOUNDATION AID 0
+7.1 7.1 State Regular Program Foundation Cost Per Pupil 7,061 7,203 7,347 7,494 7,644 7,797 142
+7.2 7.2 District Weighted Enrollment without Special Ed Weightings (Line 3.17) X 15,044.579 14,878.147 14,841.217 14,804.074 14,767.135 14,730.198 (166.432)
+7.3 7.3 District Foundation Dollars without Special Ed = 106,229,772 107,167,293 109,038,419 110,941,732 112,879,978 114,851,357 937,521
+7.4 7.4 State Special Ed Program Foundation Cost Per Pupil 7,061 7,203 7,347 7,494 7,644 7,797 142
+7.5 7.5 Total Special Ed Weighting in Addition to 1.0 (Line 3.4) X 1,652.83 1,651.25 1,652.83 1,652.83 1,652.83 1,652.83 (1.58)
+7.6 7.6 District Special Ed Foundation Dollars = 11,670,633 11,893,954 12,143,342 12,386,308 12,634,233 12,887,116 223,321
+7.7 7.7 State AEA Special Ed Support Foundation Cost Per Pupil 276 281 287 292 298 304 5
+7.8 7.8 AEA Weighted Enrollment with AEA Supplementary Weight for Sharing (Line 3.8) X 16,221.44 16,049.36 16,015.04 15,979.14 15,943.44 15,907.74 (172.08)
+7.9 7.9 AEA Foundation Dollars for Special Ed and Sharing = 4,477,117 4,509,870 4,596,316 4,665,909 4,751,145 4,835,953 32,753
+7.10 7.10 AEA Teacher Salary Supplement District Cost (Line 4.74) + 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+7.11 7.11 AEA Professional Development Supplement District Cost (Line 4.82) + 0 0 0 0 0 0 0
+7.12 7.12 Total AEA Foundation Dollars = 5,013,126 5,051,730 5,148,693 5,229,018 5,325,097 5,421,013 38,604
+7.13 7.13 District Foundation Dollars without Special Ed (Line 7.3) + 106,229,772 107,167,293 109,038,419 110,941,732 112,879,978 114,851,357 937,521
+7.14 7.14 District Special Ed Foundation Dollars (Line 7.6) + 11,670,633 11,893,954 12,143,342 12,386,308 12,634,233 12,887,116 223,321
+7.15 7.15 Enrollment Audit Adjustment - State Aid Portion (Line 1.7) + (46,952) (97,470) 0 0 0 0 (50,518)
+7.16 7.16 Teacher Salary Supplement District Cost (Line 4.22) + 11,174,735 11,754,871 11,992,475 12,228,969 12,470,626 12,717,305 580,136
+7.17 7.17 Professional Development Supplement District Cost (Line 4.30) + 1,237,687 1,302,475 1,329,328 1,356,043 1,383,456 1,411,392 64,788
+7.18 7.18 Early Intervention Supplement District Cost (Line 4.38) + 1,280,746 1,349,150 1,378,287 1,407,424 1,437,105 1,467,473 68,404
+7.19 7.19 Teacher Leadership Supplement District Cost (Line 4.46) + 5,904,030 6,218,085 6,351,306 6,484,142 6,619,827 6,758,287 314,055
+7.20 7.20 Total Foundation Dollars = 142,463,777 144,640,088 147,381,850 150,033,636 152,750,322 155,513,943 2,176,311
+7.21 7.21 Uniform Levy Dollars Adj for Utility Replacement & C&I&R Adjustment (Line 6.20) - 40,611,695 41,853,699 42,772,661 43,725,573 44,699,671 45,695,427 1,242,004
+7.22 7.22 Unadjusted State Foundation Aid = 101,852,082 102,786,389 104,609,189 106,308,063 108,050,651 109,818,516 934,307
+7.23 7.23 District Weighted Enrollment (Line 3.15) 16,697.409 16,529.397 16,494.047 16,456.904 16,419.965 16,383.028 (168.012)
+7.24 7.24 $300 Minimum Aid Per Pupil X 300 300 300 300 300 300 0
+7.25 7.25 Minimum Aid = 5,009,223 4,958,819 4,948,214 4,937,071 4,925,989 4,914,909 (50,404)
+7.26 7.26 Unadjusted State Foundation Aid (Line 7.22) - 101,852,082 102,786,389 104,609,189 106,308,063 108,050,651 109,818,516 934,307
+7.27 7.27 Minimum Aid Adjustment (If Negative, Enter Zero) = 0 0 0 0 0 0 0
+PRESCHOOL FOUNDATION AID 0
+7.28 7.28 Preschool Budget Enrollment (Actual Enrollment X 50%) 247.00 257.50 256.86 256.21 255.57 254.93 10.50
+7.29 7.29 Current FY Regular Program State Cost Per Pupil X 7,988 8,148 8,311 8,477 8,647 8,820 160
+7.30 7.30 Preschool Foundation Aid = 1,973,036 2,098,110 2,134,732 2,171,927 2,209,945 2,248,524 125,074
+7.31 7.31 Audited Change in October of Two Year's Prior Preschool Budget Enrollment 0.5 (1.5) 0.0 0.0 0.0 0.0 (2)
+7.32 7.32 Prior FY Regular Program State Cost Per Pupil X 7,826 7,988 8,148 8,311 8,477 8,647 162
+7.33 7.33 Preschool Enrollment Audit Adjustment = 3,913 (11,982) 0 0 0 0 (15,895)
+7.34 7.34 Preschool Foundation Aid (Line 7.30) + 1,973,036 2,098,110 2,134,732 2,171,927 2,209,945 2,248,524 125,074
+7.35 7.35 Total Preschool Foundation Aid = 1,976,949 2,086,128 2,134,732 2,171,927 2,209,945 2,248,524 109,179
+ADDITIONAL DOLLAR LEVY 0
+8.1 8.1 Combined District Cost (Line 5.19) 166,009,018 169,391,761 171,603,554 174,707,196 177,879,241 181,102,100 3,382,743
+8.2 8.2 Total Foundation Dollars (Line 7.20) - 142,463,777 144,640,088 147,381,850 150,033,636 152,750,322 155,513,943 2,176,311
+8.3 8.3 Minimum Aid Adjustment (Line 7.27) - 0 0 0 0 0 0 0
+8.4 8.4 Additional Dollar Levy = 23,545,241 24,751,673 24,221,704 24,673,560 25,128,919 25,588,157 1,206,432
+PROPERTY TAX ADJUSTMENT AID 0
+8.5 8.5 Current Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1) 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081 223,286,916
+8.6 8.6 Prior Year Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1 - Prior FY Aid & Levy) - 7,214,569,669 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 228,327,537
+8.7 8.7 Dollar Increase in Taxable Valuation (If negative, enter zero) = 228,327,537 223,286,916 170,446,329 174,235,953 178,109,833 182,069,843 (5,040,621)
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 3 of 7
+
+8.8 8.8 Prior Year Valuation Taxable Valuation with Gas & Electric Utilities (Line 8.6) / 7,214,569,669 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 228,327,537
+8.9 8.9 Increase in Taxable Valuation (to 4 Decimals) = .0316 .0300 .0222 .0222 .0222 .0222 (.0016)
+8.10 8.10 Prior FY Property Tax Adjustment Aid (Line 8.14 - Prior FY Aid & Levy) X 0 0 0 0 0 0 0
+8.11 8.11 Reduction in Property Tax Adjustment Aid = 0 0 0 0 0 0 0
+8.12 8.12 Prior FY Property Tax Adjustment Aid (Line 8.10) 0 0 0 0 0 0 0
+8.13 8.13 Reduction in Property Tax Adjustment Aid (Line 8.11) - 0 0 0 0 0 0 0
+8.14 8.14 Current FY Property Tax Adjustment Aid = 0 0 0 0 0 0 0
+PROPERTY TAX REPLACEMENT PAYMENT (PTRP) 0
+8.15 8.15 Current FY Property Tax Portion of State Cost Per Pupil 927 945 964 983 1,003 1,023 18
+8.16 8.16 Base Property Tax Portion of State Cost Per Pupil - 685 685 685 685 685 685 0
+8.17 8.17 Property Tax Replacement Amount Per Pupil = 242 260 279 298 318 338 18
+8.18 8.18 District Weighted Enrollment (Line 3.15) X 16,697.409 16,529.397 16,494.047 16,456.904 16,419.965 16,383.028 (168.012)
+8.19 8.19 Property Tax Replacement Payment (PTRP) = 4,040,773 4,297,643 4,601,839 4,904,157 5,221,549 5,537,464 256,870
+FOUNDATION BASE SUPPLEMENT (FBS) 0
+8.20 8.20 District Weighted Enrollment (Line 3.15) 16,697 16,529 16,494 16,457 16,420 16,383 (168)
+8.21 8.21 Foundation Base Supplement Amount Per Pupil x 18 18 25 32 37 42 0
+8.22 8.22 Foundation Base Supplement Aid = 300,553 297,529 412,351 526,621 607,539 688,087 (3,024)
+ADJUSTED ADDITIONAL PROPERTY TAX LEVY AID 0
+8.23 8.23 District Weighted Enrollment (Line 3.15) 16,697.409 16,529.397 16,494.047 16,456.904 16,419.965 16,383.028 (168.012)
+8.24 8.24 Current FY Regular Program State Cost Per Pupil X 7,988 8,148 8,311 8,477 8,647 8,820 160
+8.25 8.25 Property Tax Portion of State Cost Per Pupil X 0.116 0.116 0.116 0.116 0.116 0.116 0.000
+8.26 8.26 Adjusted Additional Property Tax Dollar Levy = 15,478,498 15,620,280 15,900,261 16,177,137 16,469,225 16,759,838 141,782
+8.27 8.27 Property Tax Replacement Payment (PTRP) (Line 8.19) - 4,040,773 4,297,643 4,601,839 4,904,157 5,221,549 5,537,464 256,870
+8.28 8.28 Foundation Base Supplement (FBS) Aid (Line 8.22) - 300,553 297,529 412,351 526,621 607,539 688,087 (3,024)
+8.29 8.29 Adjusted Additional Property Tax Dollar Levy less PTRP and FBS = 11,137,172 11,025,108 10,886,071 10,746,359 10,640,137 10,534,287 (112,064)
+8.30 8.30 Current Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1) / 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081 223,286,916
+8.31 8.31 Adjusted Additional Property Tax Levy Rate = 1.49635 1.43815 1.38913 1.34147 1.29932 1.25842 -0.05820
+8.32 8.32 Statewide Maximum Adjusted Additional Property Tax Levy Rate - 1.70600 1.60000 1.45000 1.40000 1.35000 1.30000 (0.10600)
+8.33 8.33 Adjusted Additional Property Tax Levy Rate Reduction (if negative, enter zero) = 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000
+8.34 8.34 Current Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1) X 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081 223,286,916
+8.35 8.35 Current FY Adjusted Additional Property Tax Levy Aid = 0 0 0 0 0 0 0
+PROPERTY TAX EQUITY AND RELIEF (PTER) FUNDING 0
+8.36 8.36 Current FY Regular Program State Cost Per Pupil 7,988 8,148 8,311 8,477 8,647 8,820 160
+8.37 8.37 Increase in State Foundation Cost Per Pupil Percentage X 0.01% 0.01% 0.01% 0.01% 0.01% 0.01% 0.00%
+8.38 8.38 Increase in Foundation Cost Per Pupil = 1 1 1 1 1 1 0
+8.39 8.39 District Weighted Enrollment (Line 3.15) X 16,697.409 16,529.397 16,494.047 16,456.904 16,419.965 16,383.028 (168.012)
+8.40 8.40 Additional District Foundation Dollars from Property Tax Equity and Relief Fund = 16,697 16,529 16,494 16,457 16,420 16,383 (168)
+ADDITIONAL LEVY BEFORE UTILITY REPLACEMENT ADJUSTMENT 0
+8.41 8.41 Additional Dollar Levy (Line 8.4) 23,545,241 24,751,673 24,221,704 24,673,560 25,128,919 25,588,157 1,206,432
+8.42 8.42 Property Tax Adjustment Aid (Line 8.14) - 0 0 0 0 0 0 0
+8.43 8.43 Two Prior FY District Special Ed Positive Balance, Property & Utility Repl Tax Portion - 0 0 0 0 0 0 0
+8.44 8.44 Two Prior FY AEA Special Ed Reduction, Property & Utility Replacement Tax Portion - 0 0 0 0 0 0 0
+8.45 8.45 AEA Statewide State Aid Reduction (Line 5.16) + 957,862 221,380 957,862 957,862 957,862 957,862 (736,482)
+8.46 8.46 Property Tax Replacement Payment (PTRP) (Line 8.19) - 4,040,773 4,297,643 4,601,839 4,904,157 5,221,549 5,537,464 256,870
+8.47 8.47 Foundation Base Supplement (FBS) Aid (Line 8.22) 300,553 297,529 412,351 526,621 607,539 688,087 (3,024)
+8.48 8.48 Adjusted Additional Property Tax Levy Aid (Line 8.31) - 0 0 0 0 0 0 0
+8.49 8.49 Additional District Foundation Dollars from PTER Fund (Line 8.40) - 16,697 16,529 16,494 16,457 16,420 16,383 (168)
+8.5 8.5 Additional Levy before Utility Replacement Adjustment = 20,145,080 20,361,352 20,148,882 20,184,187 20,241,273 20,304,085 216,272
+FINAL STATE FOUNDATION AID 0
+9.1 9.1 Unadjusted State Foundation Aid (Line 7.22) 101,852,082 102,786,389 104,609,189 106,308,063 108,050,651 109,818,516 934,307
+9.2 9.2 Minimum Aid Adjustment (Line 7.27) + 0 0 0 0 0 0 0
+9.3 9.3 Property Tax Adjustment Aid (Line 8.14) + 0 0 0 0 0 0 0
+9.4 9.4 Two Prior FY District Special Ed Positive Balance, Property & Util Repl Portion (Line 8.39) + 0 0 0 0 0 0 0
+9.5 9.5 Two Prior FY AEA Special Ed Reduction, Property & Utility Repl Tax Portion (Line 8.40) + 0 0 0 0 0 0 0
+9.6 9.6 AEA Statewide State Aid Reduction (Line 5.16) - 957,862 221,380 957,862 957,862 957,862 957,862 (736,482)
+9.7 9.7 Property Tax Replacement Payment (PTRP) (Line 8.19) + 4,040,773 4,297,643 4,601,839 4,904,157 5,221,549 5,537,464 256,870
+9.8 9.8 Foundation Base Supplement (FBS) Aid (Line 8.22) 300,553 297,529 412,351 526,621 607,539 688,087 (3,024)
+9.9 9.9 Adjusted Additional Property Tax Levy Aid (Line 8.35) + 0 0 0 0 0 0 0
+9.10 9.10 Additional District Foundation Dollars from PTER Fund (Line 8.40) + 16,697 16,529 16,494 16,457 16,420 16,383 (168)
+9.11 9.11 Adjustment for Property Tax Repayment due to Property Assessment Appeal + 0 0 0 0 0 0 0
+9.12 9.12 Total Preschool Foundation Aid (Line 7.35) + 1,976,949 2,086,128 2,134,732 2,171,927 2,209,945 2,248,524 109,179
+9.13 9.13 State Foundation Aid = 107,229,192 109,262,838 110,816,743 112,969,363 115,148,242 117,351,112 2,033,646
+INSTRUCTIONAL SUPPORT PROGRAM 0
+10.1 10.1 Current FY Regular Program District Cost without Adjustment (Line 4.3) 116,230,193 117,169,055 119,214,646 121,291,459 123,415,172 125,569,458 938,862
+10.2 10.2 Regular Program Budget Adjustment Adopted (Line 4.8) + 0 223,440 0 0 0 0 223,440
+10.3 10.3 Total Regular Program District Cost = 116,230,193 117,392,495 119,214,646 121,291,459 123,415,172 125,569,458 1,162,302
+10.4 10.4 Maximum Portion (Can't exceed .1000) X 0.10 0.10 0.10 0.10 0.10 0.10 0.00
+10.5 10.5 Unadjusted Instructional Support Program Dollars = 11,623,019 11,739,250 11,921,465 12,129,146 12,341,517 12,556,946 116,231
+10.6 10.6 Current Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1) 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081 223,286,916
+10.7 10.7 Budget Enrollment (Line 1.1) / 14,550.6 14,380.1 14,344.2 14,308.3 14,272.6 14,236.9 (170.5)
+10.8 10.8 District Taxable Valuation Per Pupil = 511,518 533,111 546,327 559,875 573,755 587,982 21,593
+10.9 10.9 State Taxable Valuation Per Pupil 461,641 473,182 484,953 497,016 509,380 522,051 11,541
+10.10 10.10 District Taxable Valuation Per Pupil (Line 10.8) / 511,518 533,111 546,327 559,875 573,755 587,982 21,593
+10.11 10.11 .25 X 0.25 0.25 0.25 0.25 0.25 0.25 0.00
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 4 of 7
+
+10.12 10.12 State Aid Portion of Program Dollars (Round to 4 Decimals) = .2256 .2219 .2219 .2219 .2220 .2220 (.0037)
+10.13 10.13 Unadjusted Instructional Support Program Dollars (Line 10.5) X 11,623,019 11,739,250 11,921,465 12,129,146 12,341,517 12,556,946 116,231
+10.14 10.14 Unadjusted Instructional Support State Aid = 2,622,153 2,604,940 2,645,373 2,691,457 2,739,817 2,787,642 (17,213)
+10.15 10.15 Instructional Support Income Surtax Rate 0.04 0.04 0.05 0.05 0.05 0.05 0.00
+10.16 10.16 District Income Tax Paid in Prior Year Tax Year X 163,355,816 163,355,816 149,797,283 141,558,433 144,389,601 147,277,393 0
+10.17 10.17 Instructional Support Income Surtax Dollars = 6,534,233 6,534,233 7,489,864 7,077,922 7,219,480 7,363,870 0
+10.18 10.18 Unadjusted Instructional Support Program Dollars (Line 10.5) 11,623,019 11,739,250 11,921,465 12,129,146 12,341,517 12,556,946 116,231
+10.19 10.19 Unadjusted Instructional Support State Aid (Line 10.14) - 2,622,153 2,604,940 2,645,373 2,691,457 2,739,817 2,787,642 (17,213)
+10.20 10.20 Instructional Support Income Surtax Dollars (Line 10.17) - 6,534,233 6,534,233 7,489,864 7,077,922 7,219,480 7,363,870 0
+10.21 10.21 Instructional Support Property & Utility Replacement Tax Dollars = 2,466,633 2,600,077 1,786,228 2,359,767 2,382,220 2,405,434 133,444
+10.22 10.22 Unadjusted Instructional Support State Aid (Line 10.14) 2,622,153 2,604,940 2,645,373 2,691,457 2,739,817 2,787,642 (17,213)
+10.23 10.23 Prorata Reduction to State Appropriation Amount X 0 0 0 0 0 0 0
+10.24 10.24 Adjusted Instructional Support State Aid = 0 302,855 0 0 0 0 302,855
+10.25 10.25 Instructional Support Income Surtax Dollars (Line 10.17) + 6,534,233 6,534,233 7,489,864 7,077,922 7,219,480 7,363,870 0
+10.26 10.26 Instructional Support Property & Utility Replacement Tax Dollars (Line 10.21) + 2,466,633 2,600,077 1,786,228 2,359,767 2,382,220 2,405,434 133,444
+10.27 10.27 Adjusted Instructional Support Program Dollars = 9,000,866 9,437,165 9,276,092 9,437,689 9,601,700 9,769,304 436,299
+EDUCATIONAL IMPROVEMENT PROGRAM 0
+11.1 11.1 Current FY Total Regular Program District Cost (Line 10.3) 116,230,193 117,392,495 119,214,646 121,291,459 123,415,172 125,569,458 1,162,302
+11.2 11.2 Voted Maximum Portion X 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+11.3 11.3 Educational Improvement Program Total Dollars = 0 0 0 0 0 0 0
+11.4 11.4 Ed Improvement Income Surtax Rate 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+11.5 11.5 District Income Tax Paid in Prior Year Tax Year (Line 10.16) X 163,355,816 163,355,816 149,797,283 141,558,433 144,389,601 147,277,393 0
+11.6 11.6 Ed Improvement Income Surtax Dollars = 0 0 0 0 0 0 0
+11.7 11.7 Educational Improvement Program Total Dollars (Line 11.3) 0 0 0 0 0 0 0
+11.8 11.8 Ed Improvement Income Surtax Dollars (Line 11.6) - 0 0 0 0 0 0 0
+11.9 11.9 Ed Improvement Property & Utility Replacement Tax Dollars = 0 0 0 0 0 0 0
+0
+ADDITIONAL LEVY - UTILITY REPLACEMENT ADJUSTMENT 0
+13.1 13.1 Additional Levy Utility Replacement Paid Prior FY 230,767 229,759 230,767 230,767 230,767 230,767 (1,008)
+13.2 13.2 Additional Levy Utility Replacement Budgeted Prior FY - 231,127 231,351 231,127 231,127 231,127 231,127 224
+13.3 13.3 Additional Levy Utility Replacement Adjustment = (360) (1,592) (360) (360) (360) (360) (1,232)
+13.4 13.4 Additional Levy before Utility Replacement Adjustment (Line 8.50) 20,145,080 20,361,352 20,148,882 20,184,187 20,241,273 20,304,085 216,272
+13.5 13.5 Additional Levy Utility Replacement Adjustment (Line 13.3) - (360) (1,592) (360) (360) (360) (360) (1,232)
+13.6 13.6 Additional Levy Adjusted for Utility Replacement = 20,145,440 20,362,944 20,149,242 20,184,547 20,241,633 20,304,445 217,504
+13.7 13.7 Uniform Levy Utility Replacement Adjustment (Line 6.6) (723) (3,211) (723) (723) (723) (723) (2,488)
+13.8 13.8 Additional Levy Utility Replacement Adjustment (Line 13.3) + (360) (1,592) (360) (360) (360) (360) (1,232)
+13.9 13.9 Total Utility Replacement Adjustment = (1,083) (4,803) (1,083) (1,083) (1,083) (1,083) (3,720)
+ADDITIONAL LEVY - TWO TIERED ASSESSMENT LIMITATION REPLACEMENT (FY25 & After) 0
+13.10 13.10 Additional Levy Adjusted for Utility Replacement (Line 13.6) 20,145,440 20,362,944 20,362,944 20,362,944 20,362,944 20,362,944 217,504
+13.11 13.11 Prior Year Additional Levy Two Tiered Assessment Limitation Replacement Paid - 211,939 211,939 211,939 211,939 211,939 211,939 0
+13.12 13.12 Additional Levy Adjusted for Utility Replacement Two Tiered Assessment Limitation Replacement = 19,933,501 20,151,005 20,151,005 20,151,005 20,151,005 20,151,005 217,504
+13.13 13.13 Total Uniform Levy C/I/R Two Tiered Assessment Limitation Replacement Adjustment (Line 6.18) 420,773 459,516 459,516 459,516 459,516 459,516 38,743
+13.14 13.14 Additional Levy Two Tiered Assessment Limitation Replacement Paid FY24 (Line 13.11) + 211,939 211,939 211,939 211,939 211,939 211,939 0
+13.15 13.15 Total Two Tiered Assessment Limitation Adjustment = 632,712 671,455 671,455 671,455 671,455 671,455 38,743
+ADDITIONAL LEVY - C&I STATE REPLACEMENT ADJUSTMENT 0
+N/A N/A Additional Levy Adjusted for Utility Replacement (Line 13.6) 0
+N/A N/A Current Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1) / 0
+N/A N/A Additional Tax Rate Adjusted for Utility Replacement (adjusted for C&I) = .00000
+N/A N/A Current Valuation Commercial & Industrial Valuation Reduction (Line 6.11) X 0
+N/A N/A Additional Levy Commercial & Industrial State Replacement Estimate = 0
+N/A N/A Previous Year Additional Levy C&I State Replacement Paid 0
+N/A N/A Previous Year Additional Levy C&I State Replacement Budgeted - 0
+N/A N/A Previous Year Additional Levy C&I State Replacement Paid Minus Budgeted = 0
+N/A N/A Additional Levy Commercial & Industrial State Replacement Est (Line 13.14) + 0
+N/A N/A Total Additional Levy C&I State Replacement Adjustment = 0
+N/A N/A Additional Levy Adjusted for Utility Replacement (Line 13.6) 0
+N/A N/A Total Additional Levy C&I State Replacement Adjustment (Line 13.19) - 0
+N/A N/A Additional Levy Adjusted for Utility Replacement & C&I State Replacement = 0
+N/A N/A Total Uniform Levy C&I State Replacement Adjustment (Line 6.18) 0
+N/A N/A Total Additional Levy C&I State Replacement Adjustment (Line 13.19) + 0
+N/A N/A Total C&I State Replacement Adjustment = 0
+0
+SUMMARY OF GENERAL FUND LEVIES 0
+15.1 15.1 Uniform Levy Dollars before Utility Repl and C&I State Repl Adj (Line 6.3) 40,191,645 41,397,394 42,317,804 43,258,679 44,220,472 45,203,649 1,205,749
+15.2 15.2 Additional Levy Adjusted for Utility Replacement and Two Tiered Assessment (Line 13.12) + 19,933,501 20,151,005 19,937,303 19,972,608 20,029,694 20,092,506 217,504
+15.3 15.3 Total Levy to Fund Combined District Cost = 60,125,146 61,548,399 62,255,107 63,231,287 64,250,166 65,296,155 1,423,253
+15.4 15.4 Instructional Support Levy (Line 10.21) + 2,466,633 2,600,077 1,786,228 2,359,767 2,382,220 2,405,434 133,444
+15.5 15.5 Ed Improvement Levy (Line 11.9) + 0 0 0 0 0 0 0
+15.6 15.6 This Line is Intentionally Blank
+15.7 15.7 This Line is Intentionally Blank
+15.8 15.8 Levy to Fund Budget Authority = 62,591,779 64,148,476 64,041,335 65,591,054 66,632,386 67,701,589 1,556,697
+15.9 15.9 Cash Reserve Levy - SBRC + 14,821,303 18,373,455 20,000,000 20,000,000 20,000,000 20,000,000 3,552,152
+15.10 15.10 Cash Reserve Levy - Other + 9,200,000 11,924,611 5,250,000 5,000,000 2,135,031 (4,107,472) 2,724,611
+15.11 15.11 Use of Fund Balance to Reduce Levy - 0 0 0 0 0 0 0
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 5 of 7
+
+15.12 15.12 Total General Fund Levy = 86,613,082 94,446,542 89,291,335 90,591,054 88,767,417 83,594,117 7,833,460
+15.13 15.13 Instructional Support Levy (Line 10.21) - 2,466,633 2,600,077 1,786,228 2,359,767 2,382,220 2,405,434 133,444
+15.14 15.14 Subtotal General Fund Levy without Instructional Support = 84,146,449 91,846,465 87,505,107 88,231,287 86,385,197 81,188,683 7,700,016
+15.15 15.15 Current Valuation Taxable Valuation with Gas & Electric Utilities (Line 6.1) / 7,442,897,206 7,666,184,122 7,836,630,452 8,010,866,404 8,188,976,237 8,371,046,081 223,286,916
+15.16 15.16 Subtotal General Fund Levy Rate = 11.30560 11.98073 11.16616 11.01395 10.54896 9.69875 .67513
+15.17 15.17 Instructional Support Levy (Line 10.21) 2,466,633 2,600,077 1,786,228 2,359,767 2,382,220 2,405,434 133,444
+15.18 15.18 Current Valuation Taxable and TIF Valuations with Gas & Electric (enter TIF on TaxCert tab) / 8,067,275,199 8,296,805,895 8,481,273,172 8,669,841,808 8,862,602,990 9,059,649,933 229,530,696
+15.19 15.19 Instructional Support Levy Rate = .30576 .31338 .21061 .27218 .26879 .26551 .00762
+15.20 15.20 Subtotal General Fund Levy Rate (Line 15.16) + 11.30560 11.98073 11.16616 11.01395 10.54896 9.69875 .67513
+15.21 15.21 Total General Fund Levy Rate = 11.61136 12.29411 11.37677 11.28613 10.81775 9.96426 .68275
+STATE PAYMENTS TO AEA AND DISTRICT 0 0 0 0 0 0 0
+16.1 AEA Special Ed Support District Cost without Adjustment (Line 4.49) 0 0 0 0 0 0 0
+16.2 AEA Special Ed Support Adjustment (Line 4.54) + 0 0 0 0 0 0 0
+16.3 AEA Media Services District Cost (Line 4.60) x 40% + 0 0 0 0 0 0 0
+16.4 AEA Ed Services District Cost (Line 4.63) x 40% + 0 0 0 0 0 0 0
+16.5 AEA Sharing District Cost (Line 4.66) + 0 0 0 0 0 0 0
+16.6 AEA Teacher Salary Supplement District Cost (Line 4.74) + 0 0 0 0 0 0 0
+16.7 AEA Professional Development Supplement District Cost (Line 4.82) + 0 0 0 0 0 0 0
+16.8 AEA Statewide State Aid Reduction (Line 5.16) - 0 0 0 0 0 0 0
+16.1 Resident Accredited Nonpublic Students (Line 4.56) 1,378 1,487 1,378 1,378 1,378 1,378 109
+16.2 FY26 AEA Media Cost Per Pupil (Line 4.59) X 65 66 68 69 70 72 1
+16.3 AEA Media Services Payment = 89,542 98,558 93,167 95,027 96,929 98,872 9,016
+16.4 Resident Accredited Nonpublic Students (Line 4.56) 1,378 1,487 1,378 1,378 1,378 1,378 109
+16.5 FY26 AEA Ed Services Cost Per Pupil (Line 4.62) X 71 73 74 76 77 79 1
+16.6 AEA Ed Services Payment = 98,472 108,402 102,468 104,521 106,616 108,752 9,930
+16.7 AEA Sharing District Cost (Line 4.66) 6,270 6,396 6,524 6,655 6,788 6,924 126
+16.8 AEA Teacher Salary Supplement District Cost (Line 4.74) + 536,009 541,860 552,377 563,109 573,952 585,060 5,851
+16.9 AEA Media Services Payment (Line 16.3) + 89,542 98,558 93,167 95,027 96,929 98,872 9,016
+16.10 AEA Ed Services District Payment (Line 16.6) + 98,472 108,402 102,468 104,521 106,616 108,752 9,930
+16.9 16.11 State Payments to AEA = 730,293 755,216 754,536 769,312 784,285 799,608 24,923
+16.10 16.12 State Foundation Aid (Line 9.13) 107,229,192 109,262,838 110,816,743 112,969,363 115,148,242 117,351,112 2,033,646
+16.11 16.13 State Payments to AEA (Line 16.9) - 730,293 755,216 754,536 769,312 784,285 799,608 24,923
+16.12 16.14 State Payments to District = 106,498,899 108,507,622 110,062,207 112,200,051 114,363,957 116,551,504 2,008,723
+SUMMARY OF GENERAL FUND BUDGET AUTHORITY 0
+17.1 17.1 Combined District Cost (Line 5.19) + 166,009,018 169,391,761 171,603,554 174,707,196 177,879,241 181,102,100 3,382,743
+17.2 17.2 Estimated Prior FY Unspent Budget Authority + 0 0 0 0 0 0 0
+17.3 17.3 Allowance for Construction Project by SBRC + 0 0 0 0 0 0 0
+17.4 17.4 Adjusted Instructional Support Program Dollars (Line 10.27) + 9,000,866 9,437,165 9,276,092 9,437,689 9,601,700 9,769,304 436,299
+17.5 17.5 Ed Improvement Program (Line 11.3) + 0 0 0 0 0 0 0
+17.6 17.6 Total Preschool Foundation Aid (Line 7.35) + 1,976,949 2,086,128 2,134,732 2,171,927 2,209,945 2,248,524 109,179
+17.7 17.7 This Line is Intentionally Blank
+17.8 17.8 Estimated Current FY Other Miscellaneous Income + 0 0 0 0 0 0 0
+17.9 17.9 Estimated Total Maximum General Fund Budget Authority = 176,986,833 180,915,054 183,014,378 186,316,812 189,690,886 193,119,928 3,928,221
+SUMMARY OF FINANCING FOR GENERAL FUND MAXIMUM BUDGET 0
+18.1 18.1 Estimated Prior FY Unspent Budget Authority (Line 17.2) 0 0 0 0 0 0 0
+18.2 18.2 Allowance for Construction Project by SBRC (Line 17.3) + 0 0 0 0 0 0 0
+18.3 18.3 Levy to Fund Budget Authority (Line 15.8) + 62,591,779 64,148,476 64,041,335 65,591,054 66,632,386 67,701,589 1,556,697
+18.4 18.4 State Foundation Aid (Line 9.12) + 107,229,192 109,262,838 110,816,743 112,969,363 115,148,242 117,351,112 2,033,646
+18.5 18.5 Adjusted Instructional Support State Aid (Line 10.24) + 0 302,855 0 0 0 0 302,855
+18.6 18.6 Instructional Support Income Surtax Dollars (Line 10.25) + 6,534,233 6,534,233 7,489,864 7,077,922 7,219,480 7,363,870 0
+18.7 18.7 Ed Improvement Income Surtax Dollars (Line 11.6) + 0 0 0 0 0 0 0
+18.8 18.8 Total C&I State Replacement Adjustment (Line 13.25) + 0 0 0 0 0 0 0
+18.9 18.9 Total Utility Replacement Adjustment (Line 13.9) + (1,083) (4,803) (1,083) (1,083) (1,083) (1,083) (3,720)
+18.10 18.10 Estimated Current FY Other Miscellaneous Income (Line 17.8) + 0 0 0 0 0 0 0
+18.11 18.11 Estimated Financing for Total General Fund Maximum Budget = 176,354,121 180,243,599 182,346,859 185,637,256 188,999,025 192,415,488 3,889,478
+VOTED PHYSICAL PLANT & EQUIPMENT (VPPEL) 0
+19.1 19.1 Current Valuation Taxable and TIF Valuations with Gas & Electric (Line 15.18) 8,067,275,199 8,296,805,895 8,481,273,172 8,669,841,808 8,862,602,990 9,059,649,933 229,530,696
+19.2 19.2 Voted PPEL Rate Limit X 1.34 1.34 1.34 1.34 1.34 1.34 0.00
+19.3 19.3 Maximum Voted PPEL Dollars (Enter loan agreements on Line 1, Form 703) = 10,810,149 11,117,720 11,364,906 11,617,588 11,875,888 12,139,931 307,571
+19.4 19.4 Voted PPEL Income Surtax Rate 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+19.5 19.5 District Income Tax Paid in Prior Year Tax Year (Line 10.16) X 163,355,816 163,355,816 149,797,283 141,558,433 144,389,601 147,277,393 0
+19.6 19.6 Voted PPEL Income Surtax Dollars = 0 0 0 0 0 0 0
+19.7 19.7 Maximum Voted PPEL Dollars (Line 19.3) 10,810,149 11,117,720 11,364,906 11,617,588 11,875,888 12,139,931 307,571
+19.8 19.8 Voted PPEL Income Surtax Dollars (Line 19.6) - 0 0 0 0 0 0 0
+19.9 19.9 Voted PPEL Levy = 10,810,149 11,117,720 11,364,906 11,617,588 11,875,888 12,139,931 307,571
+ALL INCOME SURTAX RATES & GENERAL FUND SURTAX DOLLARS 0
+20.1 20.1 Instructional Support Income Surtax Rate (Line 10.15) .04 .04 .05 .05 .05 .05 .00
+20.2 20.2 Ed Improvement Income Surtax Rate (Line 11.4) + .00 .00 .00 .00 .00 .00 .00
+20.3 20.3 This Line is Intentionally Blank
+20.4 20.4 This Line is Intentionally Blank
+20.5 20.5 Voted PPEL Income Surtax Rate (Line 19.4) + .00 .00 .00 .00 .00 .00 .00
+20.6 20.6 Total Income Surtax Rate (cannot exceed .20) = .04 .04 .05 .05 .05 .05 .00
+20.7 20.7 Instructional Support Income Surtax Dollars (Line 10.25) 6,534,233 6,534,233 7,489,864 7,077,922 7,219,480 7,363,870 0
+20.8 20.8 Ed Improvement Income Surtax Dollars (Line 11.6) + 0 0 0 0 0 0 0
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 6 of 7
+
+20.9 20.9 This Line is Intentionally Blank
+20.10 20.10 This Line is Intentionally Blank
+20.11 20.11 Total General Fund Income Surtax Dollars = 6,534,233 6,534,233 7,489,864 7,077,922 7,219,480 7,363,870 0
+OTHER PROPERTY & UTILITY REPLACEMENT TAXES 0
+21.1 21.1 Management 8,284,274 12,425,000 8,750,000 9,000,000 9,250,000 9,500,000 4,140,726
+21.2 21.2 Amana Library 0 0 0 0 0 0 0
+21.3 21.3 Regular Physical Plant & Equipment 2,662,201 2,770,987 2,798,820 2,861,048 2,924,659 2,989,684 108,786
+21.4 21.4 Reorganization Equalization Levy 0 0 0 0 0 0 0
+21.5 21.5 Emergency Levy (for Disaster Recovery) 0 0 0 0 0 0 0
+21.6 21.6 Public Education and Recreation 0 0 0 0 0 0 0
+21.7 21.7 Debt Service (Complete Form 703) 13,448,086 13,587,836 13,535,986 13,486,486 13,423,836 13,374,211 139,750
+© 2025 [ISFIS Inc. | Piper Sandler Co.] | Curt's Working Financial Model 2026.03 (version 1)
+Aid&Levy | 3/22/2026 | 12:52 PM
+Page 7 of 7
+
+Unspent Authorized Budget Report
+Iowa City Iowa Department of Management 1/4/2026
+3141 (Line 32 = Legal Limit on General Fund Spending)
+Actual Actual Actual Actual Actual Actual Estimated Estimated
+FY 2019 FY 2020 FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026
+1 Regular Program District Cost 95,804,730 98,380,795 102,700,637 103,229,023 106,710,135 110,247,873 112,527,706 116,230,193
+2 Regular Program Budget Adjustment + 0 0 0 498,620 0 0 0 0
+3 Supplementary Weighting District Cost + 2,567,277 2,706,928 2,757,255 2,696,574 2,997,328 3,278,507 3,499,584 3,945,904
+4 Special Ed District Cost + 9,195,027 9,606,539 10,268,725 10,418,877 11,214,016 12,094,909 12,368,367 13,202,806
+5 Teacher Salary Supplement District Cost + 7,919,507 8,139,022 8,500,780 8,540,427 8,830,037 9,132,885 10,382,762 11,174,735
+6 Prof Dev Supplement District Cost + 978,776 1,004,093 1,046,678 1,049,574 1,083,080 1,117,641 1,176,839 1,237,687
+7 Early Intervention Suppl District Cost + 1,003,763 1,030,948 1,076,113 1,080,427 1,116,332 1,153,740 1,216,487 1,280,746
+8 Teacher Leadership Suppl District Cost + 4,635,484 4,760,191 4,967,313 4,986,046 5,150,531 5,321,499 5,609,326 5,904,030
+9 AEA Special Ed Support + 4,588,994 4,719,801 4,935,998 4,959,181 5,142,339 5,335,652 5,447,167 5,641,386
+10 AEA Special Ed Support Adjustment + 0 0 0 0 0 0 0 0
+11 AEA Media Services + 836,073 858,046 886,305 906,045 938,503 967,769 997,380 1,034,222
+12 AEA Educational Services + 918,511 942,614 973,857 995,604 1,031,498 1,063,830 1,096,633 1,137,357
+13 AEA Sharing District Cost + 0 0 0 0 6,142 6,173 6,171 6,270
+14 AEA Teacher Salary Suppl District Cost + 429,615 442,800 464,027 467,203 485,505 505,075 516,756 536,009
+15 AEA Prof Dev Suppl District Cost + 50,104 51,587 54,016 54,410 56,473 58,808 0 0
+16 SBRC Modified Suppl Amt Dropout Prev + 4,742,675 4,461,313 4,920,051 4,950,347 5,166,956 5,352,112 5,416,581 5,688,650
+17 SBRC Modified Suppl Amt Other #1 + 2,366,093 2,799,172 3,306,247 4,760,214 3,639,385 6,030,671 4,871,100 4,546,154
+18 SBRC Modified Suppl Amt Other #2 + 971,981 2,346,538 877,681 1,252,800 951,426 996,043 1,925,039 1,306,458
+19 Special Ed Deficit Modified Suppl Amt + 8,714,434 8,662,181 9,830,075 9,968,520 10,623,841 10,984,784 18,373,455 19,417,013
+20 Special Ed Positive Balance Reduction - 0 0 0 0 0 0 0 0
+21 AEA Special Ed Positive Balance - 0 0 0 0 0 0 0 0
+22 Allowance for Construction Projects + 0 0 0 0 0 0 0 0
+23 SBRC Unspent Modified Suppl Amt - 0 0 0 0 0 0 0 0
+24 Enrollment Audit Adjustment + -48,097 -24,698 -12,355 -88,119 -1,590 -35,872 -2,450 -53,115
+25 AEA Prorata Reduction - 485,100 485,100 485,100 485,100 541,573 637,927 939,311 957,862
+26 Maximum District Cost = 145,189,847 150,402,770 157,068,303 160,240,673 164,600,364 172,974,172 184,489,592 191,278,643
+27 Preschool Foundation Aid + 1,673,896 1,726,880 1,969,916 1,488,852 1,929,413 1,756,494 1,643,555 1,976,949
+28 Instructional Support Authority + 7,658,630 7,832,095 8,179,079 8,260,869 8,409,826 8,645,638 8,769,284 9,000,866
+29 Ed Improvement Authority + 0 0 0 0 0 0 0 0
+30 Other Miscellaneous Income + 12,509,053 11,657,875 19,699,856 29,517,459 31,601,951 20,591,198 18,413,136 20,923,455
+31 Unspent Auth Budget - Previous Year + 9,442,659 3,828,094 2,048,574 3,167,626 239,935 -2,505,057 3,304,215 3,772,402
+32 Maximum Authorized Budget = 176,474,085 175,447,714 188,965,728 202,675,479 206,781,489 201,462,445 216,619,782 226,952,315
+33 Expenditures - 172,645,991 173,399,140 185,798,102 202,435,544 209,286,546 198,158,230 212,847,380 224,896,059
+34 Unspent Authorized Budget = 3,828,094 2,048,574 3,167,626 239,935 -2,505,057 3,304,215 3,772,402 2,056,256
+
+Unspent Authorized Budget Worksheet - Categorical Detail
+Actual Actual Actual Actual Actual Actual Estimated Estimated
+Iowa City FY 2019 FY 2020 FY 2021 FY 2022 FY 2023 FY 2024 FY 2025 FY 2026
+Maximum Authorized Budget 176,474,085 175,447,714 188,965,728 202,675,479 206,781,489 201,462,445 216,619,782 226,952,315
+Expenditures 172,645,991 173,399,140 185,798,102 202,435,544 209,286,546 198,158,230 212,847,380 224,896,059
+Unspent Authorized Budget 3,828,094 2,048,574 3,167,626 239,935 -2,505,057 3,304,215 3,772,402 2,056,256
+FY26 Projected FY26
+FY25 Account FY26 Budget Expenditures to FY26 Projected Account
+Less Categorical Restricted Balances Balance Revenue Date Expenditures Balance
+Four-year-old Preschool (3117) 5,012 21,902 338,964 458,472 388,653 1,192,177 1,542,804 859,710 1,542,804 1,968,756 2,209,875 2,651,850 859,710
+Iowa Early Intervention Block Grant (3216) 45,000 45,000 45,000 41,518 40,000 0 1,229,734 2,510,480 1,229,734 1,280,746 0 0 2,510,480
+Flexibility Fund from HSAP (3173) 0 0 0 0 0 0 1,064,743 1,064,743 1,064,743 0 0 0 1,064,743
+Home School Assistanct Program (1113) 395,530 524,974 644,776 853,107 1,096,941 1,330,631 597,828 393,759 597,828 0 170,057 204,069 393,759
+Gifted and Talented Programs (1118) 24,263 26,110 118,326 69 45,707 104,269 290,058 14,693 290,058 641,836 764,334 917,201 14,693
+At-Risk Public School- Child Development (3233) 0 0 0 0 0 0 11,819 4,276 11,819 186,840 161,986 194,383 4,276
+Successful Progression for Early Readers (3342) 70,252 15,976 0 0 0 0 7,819 6,549 7,819 130,474 131,744 131,744 6,549
+Textbook Aid for Nonpublic Students (3222) 13,944 13,339 22,473 20,718 740 740 740 740 740 0 0 0 740
+0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+Miscellaneous Categoricals 1,603,357 2,164,025 1,594,809 1,593,638 1,310,391 69,743 0 0 0 0 0 0 0
+Total Categorical Restricted Balances 2,157,358 2,811,326 2,764,348 2,967,522 2,882,432 2,697,560 4,745,545 4,854,950
+Categorical as a Percent of Unspent Authorized Budget 56% 137% 87% 1237% -115% 82% 126% 236%
+Regular Program Amount of Unspent Authorized Budget 1,670,736 -762,752 403,278 -2,727,587 -5,387,489 606,655 -973,143 (2,798,694)
+Regular Program Percent of Unspent Authorized Budget 44% -37% 13% -1137% 215% 18% -26% -136%

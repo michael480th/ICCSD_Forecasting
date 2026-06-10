@@ -1,0 +1,31 @@
+Summary Update Chart as of 3.5.2026
+Bank Reconciliations 2023 2024 2025 2026
+General Complete Complete In Process Pending
+schoolhouse Complete Complete Pending Pending
+Activity Complete Complete Pending Pending
+Insurance Complete Complete Complete pending
+Food Service Complete Complete Pending Pending
+Payroll Complete Complete Pending Pending
+*Custody of funds / allocations needs confirmation
+Investment
+General Complete Complete Pending Pending
+PPEL Complete Complete Pending Pending
+Save Complete Complete Pending Pending
+Activity Complete Complete Pending Pending
+Insurance Complete Complete Pending Pending
+Food Service Complete Complete Pending Pending
+Audit
+Interim Fieldwork Complete In process (1) Pending Pending
+Final Fieldwork Complete Schedule early April (2) Pending Pending
+Prove out Financials (3)
+Single Audit Complete Part of final Fieldwork Pending Pending
+Tax Filings Complete Current n/a n/a
+*Complete indicates through June 30th, the year then ended.
+Certified Budget Complete In Process (Curt Pratt) n/a n/a
+NOTES
+(1)Staff that are not part of process preparing financial statements and reconciliations have been tasked with preparing interim audit request items.
+(2)The preparation of FY24 financials is underway.
+(3) The balance sheet was out of balance. This was a result of an account misclasified in SoftwareUnlimited (SU) and has been corrected
+The net asset roll-forward was out of balance. These have been corrected.
+Interfund is also out of balance. We have identified the transactions requiring correction. These are the result of imbalanced interfund transactions, many through the 2024 CAR process that did not include the proper activity to the corresponding funds.
+The interfund balances at FYE appear to have been forced to balance through an additional entry to validate the CAR.

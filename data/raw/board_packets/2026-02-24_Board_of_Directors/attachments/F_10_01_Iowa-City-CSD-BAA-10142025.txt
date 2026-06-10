@@ -1,0 +1,534 @@
+BUSINESS ASSOCIATE AGREEMENT
+THIS BUSINESS ASSOCIATE AGREEMENT (“Agreement”) is entered into on this
+1st day of March 2026, by and between Iowa City Community School District (thereinafter
+referred to as “Covered Entity”) and ClaimAid Consulting Corporation, Inc. (hereinafter
+referred to as “Business Associate”).
+RECITALS
+Covered Entity will make available and/or transfer to Business Associate certain Protected
+Health Information (“PHI”) that is confidential and must be afforded special treatment and
+protection pursuant to the Health Insurance Portability and Accountability Act (“HIPAA”) of
+1996, and its implementing regulations, the Standards for Privacy of Individually Identifiable
+Health Information (the “Privacy Rule”) and the Security Standards for Protection of Electronic
+Health Information (the “Security Rule”), set forth in 45 CFR Parts 160 and 164.
+Business Associate will have access to and/or receive from Covered Entity certain PHI or
+ePHI that can be used or disclosed only in accordance with this Agreement, the Privacy Rule, and
+the Security Rule.
+Covered Entity and Business Associate intend to protect the privacy and provide for the
+security of PHI and ePHI disclosed to Business Associate pursuant to this Agreement in
+compliance with HIPAA, the Privacy Rule, the Security Rule, and other applicable laws.
+As part of the Privacy Rule and the Security Rule, Covered Entity must enter into a contract
+with Business Associate containing specific requirements as set forth in, but not limited to, Title
+45, Sections 164.314(a), 164.502(e) and 164.504(e) of the Code of Federal Regulations (“CFR”)
+and contained in this Agreement, prior to the disclosure of PHI.
+NOW, THEREFORE, Covered Entity and Business Associate agree as follows:
+ARTICLE I.
+Definitions
+1.1. Meaning of Terms. The following terms shall have the meaning ascribed to them
+in this Section:
+(1) BUSINESS ASSOCIATE shall generally have the meaning under 45 CFR
+160.103, and in reference to the Party to this Agreement, shall mean ClaimAid
+Consulting Corporation, Inc.
+(2) COVERED ENTITY shall generally have the meaning under 45 CFR 160.103,
+and in reference to the Party to this Agreement, shall mean Iowa City
+Community School District.
+
+(3) DESIGNATED RECORD SET shall mean a group of records maintained by or
+for Covered Entity that is: (a) the medical records and billing records about
+Individuals; or (b) used in whole or in part, by or for Covered Entity to make
+decisions about individuals. For these purposes, the term record means any item,
+collection, or grouping of information that includes PHI and is held, maintained,
+collected, used, or disseminated by or for Covered Entity.
+(4) ELECTRONIC HEALTH RECORD means an electronic record of health-
+related information on an individual that is created, gathered, managed, and
+consulted by authorized health care clinicians and staff.
+(5) ELECTRONIC PROTECTED HEALTH INFORMATION (“ePHI”) shall
+have the same meaning as the term “electronic protected health information” in 45
+CFR Part 160.103, limited to the information created or received by Business
+Associate from or on behalf of Covered Entity.
+(6) HEALTH CARE OPERATIONS shall have the same meaning given to such term
+in the Privacy Rule, including, but not limited to, 45 CFR Part 164.501.
+(7) HHS shall mean the United States Department of Health and Human Services.
+(8) INDIVIDUAL shall mean the person who is the subject of the PHI, and shall have
+the same meaning as the term “individual” as defined in 45 CFR Part 160.103 and
+shall include a person who qualifies as a personal representative in accordance with
+45 CFR Part 164.502(g).
+(9) PARTIES shall mean Business Associate and Covered Entity.
+(10) PRIVACY RULE shall mean the Privacy, Security, Breach Notification, and
+Enforcement Rules at 45 CFR Part 160 and Part 164.
+(11) PROTECTED HEALTH INFORMATION (“PHI”) shall have the same
+meaning as the term “protected health information” in 45 CFR Part 160.103
+(including ePHI), limited to the information created or received by Business
+Associate from or on behalf of Covered Entity.
+(12) REQUIRED BY LAW shall have the same meaning as the term “required by law”
+in 45 CFR Part 164.103.
+(13) SECRETARY shall mean the Secretary of the Department of Health and Human
+Services (“HHS”) or his or her designee.
+(14) SECURITY RULE shall mean the Security Standards for Protection of Electronic
+Health Information at 45 CFR Parts 160 and 164, Subparts A and C.
+1.2. Other Terms. Other capitalized terms shall have the meaning ascribed to them in
+the context in which they first appear. Terms used, but not otherwise defined, in this Agreement
+shall have the same meaning as those terms in 45 CFR Parts 160.103, 164.103, and 164.501. Any
+-2-
+
+reference to a regulation or section in the Code of Federal Regulations (“CFR”) shall include any
+corresponding regulation subsequently issued regardless of the date of issue.
+ARTICLE II.
+General Terms
+2.1. Interpretation of Provisions. In the event of an inconsistency between the provisions
+of this Agreement and the mandatory terms of the Privacy Rule or the Security Rule (as may be
+expressly amended from time to time by the HHS or as a result of final interpretations by HHS, an
+applicable court, or another applicable regulatory agency with authority over the Parties), the
+Privacy Rule or Security Rule shall prevail.
+2.2. Provisions Permitted by Privacy Rule or Security Rule. Where provisions of this
+Agreement are different from those mandated by the Privacy Rule or Security Rule, but are
+nonetheless permitted by the Privacy Rule or Security Rule, the provisions of the Agreement shall
+control.
+ARTICLE III.
+Obligations and Activities of Business Associate
+3.1. Limits on Use and Disclosure. Business Associate agrees not to use or further
+disclose PHI other than as permitted or required by this Agreement or as Required By Law.
+Further, Business Associate shall use and disclose PHI in accordance with Covered Entity’s Notice
+of Privacy Practices as provided by Covered Entity to Business Associate pursuant to Section 6.1.
+Business Associate agrees to only use and disclose PHI obtained pursuant to this Agreement only
+if such use or disclosure is in compliance with each applicable requirement of 45 CFR
+Part 164.504(e).
+3.2. Safeguards. Business Associate agrees to use reasonable and appropriate
+administrative, physical and technological safeguards, and comply with Subpart C of 45 CFR
+Part 164 with respect to ePHI, to prevent use or disclosure of the PHI other than as provided for
+by this Agreement. Business Associate represents and warrants that it has implemented, and
+during the term of this Agreement shall maintain, comprehensive written privacy and security
+policies and procedures and the necessary administrative, technical and physical safeguards
+appropriate to the size and complexity of the Business Associate’s operations and the nature and
+scope of its activities.
+3.3. Mitigation of Harm. Business Associate agrees to mitigate, to the extent reasonably
+practicable, any harmful effect that is known to Business Associate of a use or disclosure of PHI
+by Business Associate or its agents or subcontractors in violation of the requirements of this
+Agreement, the Privacy Rule, or the Security Rule.
+3.4. Report of Improper Use or Disclosure. Business Associate agrees promptly to
+report to Covered Entity any use or disclosure of the PHI in violation of the applicable Privacy
+Rule or Security Rule not provided for by this Agreement or of which Business Associate becomes
+aware (including breaches of unsecured PHI as required at 45 CFR 164.410, and any security
+incident of which it becomes aware). Such report shall be in writing and shall be reported to
+-3-
+
+Covered Entity as soon as practicable after the date Business Associate becomes aware of such
+use or disclosure.
+3.5. Agents and Subcontractors. In accordance with 45 CFR 164.502(e)(1)(ii) and
+164.308(b)(2), if applicable, Business Associate agrees to ensure that any agent, including a
+subcontractor, that creates, receives, maintains, or transmits PHI on behalf of the Business
+Associate agrees to the same restrictions, conditions, and requirements that apply through this
+Agreement to Business Associate with respect to PHI. For purposes of the obligations under this
+BAA, the term "Subcontractor" means, collectively, all of the Business Associate’s
+subcontractors as well as each of their downstream entities. Business Associate and its
+Subcontractors are directly subject to and must independently comply with the Business
+Associate provisions of HIPAA irrespective of the provisions contained in this BAA. Business
+Associate shall implement and maintain appropriate sanctions against agents and subcontractors
+that violate such restrictions.
+3.6. Availability of Internal Practices, Books and Records. Business Associate shall
+make internal practices, books, and records relating to the use and disclosure of PHI received from,
+or received by Business Associate on behalf of, Covered Entity available to the Covered Entity, or
+at the request of Covered Entity to the Secretary, in a time and manner designated by Covered
+Entity or the Secretary, for purposes of determining Covered Entity’s compliance with the Privacy
+Rule or Security Rule. Business Associate shall notify Covered Entity, in writing, of any request
+by the Secretary under this Section, and shall provide Covered Entity with a copy of any PHI that
+Business Associate provides to the Secretary concurrently with providing such PHI to the
+Secretary.
+3.7. Access to Records. Business Associate shall provide access, at the request of
+Covered Entity, and in the time and manner designated by Covered Entity, to PHI in a Designated
+Record Set to Covered Entity, in order to meet the requirements under 45 CFR Part 164.524 with
+regard to providing an Individual with a right to access the Individual’s PHI.
+3.8. Amendments to PHI. Business Associate agrees in the time and manner designated
+by Covered Entity to make PHI contained in a Designated Record Set available for any
+amendments that Covered Entity agrees to make pursuant to 45 CFR Part 164.526 or to otherwise
+allow Covered Entity to comply with its obligations under 45 CFR Part 164.526. If any Individual
+requests an amendment of PHI, or a record about the Individual, contained in a Designated Record
+Set directly from Business Associate or its agents or subcontractors, Business Associate shall
+notify Covered Entity in writing as soon as administratively practical of receipt of the request.
+Covered Entity shall have sole authority and responsibility to approve or deny such a request, and
+shall notify Business Associate, in writing, of its decision to approve or deny any such request.
+3.9. Documentation of Disclosures of PHI. Business Associate shall document such
+disclosures of PHI and information related to such disclosures as would be required for Covered
+Entity to respond to a request by an Individual for an accounting of disclosures of PHI in
+accordance with 45 CFR Part 164.528. Such documentation shall be kept with regard to all
+disclosures of PHI except the following:
+(1) To carry out treatment, payment, and health care operations as provided in 45 CFR
+Part 164.506;
+-4-
+
+(2) To Individuals of PHI about them as provided in 45 CFR Part 164.502;
+(3) Incident to a use or disclosure otherwise permitted or required by the Privacy Rule,
+as provided by 45 CFR Part 164.502;
+(4) Pursuant to an authorization by an Individual as provided in 45 CFR Part 164.508;
+(5) For Covered Entity’s facility directory or to persons involved in an Individual’s
+care or other notification purposes as provided in 45 CFR Part 164.510;
+(6) For national security or intelligence purposes as provided in 45 CFR
+Part 164.512(k)(2);
+(7) To correctional institutions or law enforcement officials as provided in 45 CFR
+Part 164.512(k)(5);
+(8) As part of a limited data set in accordance with 45 CFR Part 164.514(e); or
+(9) That occurred prior to April 14, 2003.
+For each such disclosure, Business Associate shall document the following information: (i) the
+date of the disclosure; (ii) the name of the entity or person who received the PHI and, if known,
+the address of such entity or person; (iii) a brief description of the PHI disclosed; and (iv) a brief
+statement of the purpose of the disclosure that reasonably states the basis for the disclosure.
+3.10. Documentation of Disclosures of PHI in an Electronic Health Record. To the extent
+the Business Associate uses or maintains an electronic health record with respect to protected
+health information, an individual has the right to receive an accounting of disclosures of such
+electronic health records made by the Business Associate in the three (3) years prior to the date on
+which the accounting is requested, including:
+(1) to carry out treatment, payment and health care operations as provided in 45 CFR
+Part 164.506;
+(2) any disclosures not permitted by the Privacy Regulations or these Policies;
+(3) any disclosures the Business Associate makes pursuant to a “public policy” purpose
+as set forth in these Policies;
+(4) any disclosures required by law; and
+(5) any disclosures made pursuant to an administrative or judicial order, subpoena,
+discovery request, QMCSO, or workers’ compensation program.
+The Covered Entity shall comply with the regulations detailing the information to be collected
+about each disclosure of PHI in an EHR scheduled to be issued by the Secretary of the Department
+of Health and Human Services no later than six (6) months after the Secretary adopts standards on
+accounting for disclosures.
+-5-
+
+3.11. Availability of Information to Respond to Request. Business Associate shall
+provide to Covered Entity or an Individual, in the time and manner designated by Covered Entity,
+information collected in accordance with Section 3.7 of this Agreement, to permit Covered Entity
+to respond to a request by an Individual for an accounting of disclosures of PHI in accordance with
+45 CFR Part 164.528. In the event that a request for an accounting is delivered directly to Business
+Associate or its agent or subcontractor by an Individual or a party other than Covered Entity,
+Business Associate shall, as soon as administratively practical after receiving such request,
+forward it to Covered Entity in writing. Business Associate shall, unless otherwise directed by
+Covered Entity or as Required by Law, supply an accounting of disclosures of PHI only to Covered
+Entity.
+3.12. Security Policies and Procedures of Covered Entity. Business Associate agrees to
+comply with all security policies and procedures of Covered Entity regarding the use and
+disclosure of PHI. Covered Entity shall provide copies of all such security policies and procedures
+regarding the use and disclosure of PHI to Business Associate.
+3.13. Disclosure of Minimum PHI. Business Associate agrees that it shall request, use
+and/or disclose only the amount and content of PHI necessary to meet the requirements of the
+Business Associate’s obligations to the Covered Entity.
+(a) Business Associate agrees to limit the use, disclosure, or request of
+protected health information, to the extent practicable, to the limited data set (as
+defined in 45 CFR Part 164.514(e)(2)) or, if needed by the Covered Entity, to the
+minimum necessary to accomplish the intended purpose of such use, disclosure, or
+request.
+(b) Consistent with the Covered Entity’s minimum necessary policies and
+procedures, Business Associate agrees to limit the use, disclosure, or request of
+protected health information to the minimum necessary, as defined by the
+regulations, to accomplish the intended purpose of the use, disclosure, or request.
+3.14. Training. Business Associate shall provide appropriate training to its workforce in
+security, privacy, and confidentiality issues and regulations relating to PHI.
+3.15. Response to Subpoena. Business Associate shall promptly notify Covered Entity if
+it receives a subpoena or other legal process seeking the disclosure of PHI. Business Associate
+agrees to allow Covered Entity to control the response to any such subpoena or legal process.
+3.16. Notification of Claims. Business Associate shall promptly notify Covered Entity
+upon notification or receipt of any civil or criminal claims, demands, causes of action, lawsuits, or
+governmental enforcement actions arising out of or related to this Agreement or the PHI, regardless
+of whether Covered Entity and/or Business Associate are named as parties in such claims,
+demands, causes of action, lawsuits, or enforcement actions.
+3.17. Protection of ePHI & Compliance with Security Standards. Business Associate
+shall appropriately safeguard ePHI of the Covered Entity as follows:
+-6-
+
+(1) Business Associate shall implement administrative, physical, and technical
+safeguards that reasonably and appropriately protect the confidentiality, integrity,
+and availability of the ePHI it creates, receives, maintains, or transmits on behalf of
+Covered Entity;
+(2) Business Associate shall ensure that any agent, including a subcontractor, to whom
+it provides ePHI of the Covered Entity agrees to implement reasonable and
+appropriate safeguards to protect such information;
+(3) Business Associate shall report to Covered Entity any security incident of which it
+becomes aware; and
+(4) Business Associate hereby authorizes termination of its underlying contract by
+Covered Entity if Covered Entity determines that Business Associate has violated
+a material term of this Agreement.
+3.18. Administrative, Physical, and Technical Safeguards. Business Associate shall
+implement the administrative, physical, and technical safeguards under 45 CFR Parts 164.308,
+164.310, and 164.312, respectively, in accordance with 45 CFR Part 164. 306.
+3.19. Policies and Procedures and Documentation Requirements. Business Associate
+shall comply with the policies and procedures and documentation standards and implementation
+specifications under 45 CFR Part 164.316, in accordance with 45 CFR Part 164.306.
+3.20. Notification of Breach of Unsecured PHI. Upon any breach, Business Associate
+shall evaluate whether such breach is a “Breach” requiring notice under HIPAA’s Privacy Rule or
+Security Standards. Following Business Associate’s discovery of a Breach of Unsecured protected
+health information (Unsecured PHI) in Business Associate’s control, as both terms are defined in
+45 CFR Part 164.402, Business Associate shall notify Covered Entity of such Breach as soon as
+practicable in accordance with 45 CFR Part 164.410. The report shall include, to the extent
+possible, the identification of the individual whose Unsecured PHI has been, or is reasonably
+believed by Business Associate to have been, accessed, acquired, used, or disclosed during the
+breach. In addition, Business Associate shall provide Covered Entity with any other available
+information that Covered Entity is required to include in a notification to the individual under 45
+C.F.R. section164.404(c) at the time of the notification required above or promptly thereafter as
+information becomes available.
+Breaches shall be treated as discovered by Business Associate in accordance with 45 CFR
+Part 164.410(a)(2).
+3.21. State Law Breach Notification Requirements. Upon any breach, Business Associate
+shall evaluate whether such breach is a breach requiring notice under any state laws. If Business
+Associate determines that such breach requires notices to be provided under any state laws,
+Business Associate shall be responsible for providing such notices in accordance with the
+applicable state laws.
+3.22. Material Breach or Violation of Business Associate’s Obligations. If the Business
+-7-
+
+Associate knows of a pattern of activity or practice of the Covered Entity that constitutes a material
+breach or violation of an obligation of the Covered Entity under this Agreement, the Business
+Associate must advise the Covered Entity of the breach and take reasonable steps to cure the
+breach or end the violation. If such steps are unsuccessful, the Business Associate shall terminate
+this Agreement or, if termination is not feasible, report the problem to the Secretary of the
+Department of Health and Human Services.
+3.23. Prohibition on Sale of Protected Health Information. - Business Associate shall
+not engage in any sale of PHI.
+ARTICLE IV.
+Permitted Uses and Disclosures by Business Associate
+4.1. Use or Disclosure to Perform Functions, Activities, or Services. Except as
+otherwise limited in this Agreement, Business Associate may use or disclose PHI to perform those
+functions, activities, or services that Business Associate performs for, or on behalf of, Covered
+Entity, provided that such use or disclosure would not violate the Privacy Rule or the Security Rule
+applicable to the Covered Entity if done by Covered Entity. The Business Associate shall use or
+disclose PHI: consistent with the applicable administrative service agreement, contract, and/or
+LOA and any amendments, riders, and/or renewals thereto, and perform any other function
+requested by Covered Entity and consistent with applicable laws including, but not limited to, the
+Privacy Rule and the Security Rule. Any such use or disclosure shall be limited to those reasons
+and those individuals as necessary to meet the Business Associate’s obligations. In all
+circumstances, Business Associate shall limit such uses and disclosures to the minimum amount
+of PHI that is necessary to fulfill those obligations.
+4.2. Disclosures to Workforce. Business Associate shall not disclose PHI to any
+member of its workforce unless necessary to fulfill a purpose described in Section 4.1 and unless
+Business Associate has advised such person of Business Associate’s obligations under this
+Agreement and of the consequences for such person and for the Business Associate of violating
+this Agreement. Business Associate shall take appropriate disciplinary action against any member
+of its workforce who uses or discloses PHI in contravention of this Agreement or the Privacy Rule
+or the Security Rule.
+4.3. Appropriate Uses of PHI. Except as otherwise limited in this Agreement, Business
+Associate may use PHI for the proper management and administration of the Business Associate
+or to carry out the legal responsibilities of the Business Associate.
+4.4. Appropriate Disclosures of PHI; Confidentiality Assurances and Notification.
+Except as otherwise limited in this Agreement, Business Associate may disclose PHI for the proper
+management and administration of the Business Associate or to carry out the legal responsibilities
+of the Business Associate, provided that disclosures are required by law, or Business Associate
+obtains reasonable assurances from the person to whom the information is disclosed that it will
+remain confidential and used or further disclosed only as required by law or for the purpose for
+which it was disclosed to the person, and the person notifies Business Associate of any instances
+of which it is aware in which the confidentiality of the information has been breached.
+ARTICLE V.
+Indemnification, Insurance, and Additional Damages
+-8-
+
+5.1. Indemnification. The Parties shall indemnify and hold harmless the other Party
+against, and reimburse the other Party for, any expense, loss, damages, legal fees, or costs arising
+out of or related to any civil or criminal claims, demands, causes of action, lawsuits, or
+governmental enforcement actions, whether brought by a third party or asserted by either Party,
+arising out of or related to acts and omissions associated with the obligations under this Agreement
+or its use or disclosure of PHI. Such indemnification shall include, but not be limited to, the
+payment of all reasonable attorney’s fees associated with any claim, demand, action, cause of
+action, or lawsuit arising out of or relating to such acts or omissions.
+5.2. Insurance. Business Associate shall obtain and maintain at its sole expense, and in
+amounts consistent with industry standards, insurance to support its indemnification obligation
+under Section 5.1. A certificate of insurance coverage shall be provided to Covered Entity upon
+request.
+ARTICLE VI.
+Obligations of Covered Entity
+6.1. Notice of Privacy Practices. Covered Entity shall provide Business Associate with
+the notice of privacy practices that Covered Entity produces in accordance with 45 CFR
+Part 164.520, as well as any changes to such notice.
+6.2. Change or Revocation of Permission. Covered Entity shall provide Business
+Associate with any changes in, or revocation of, permission by an Individual to use or disclose
+PHI, if such changes affect Business Associate’s permitted or required uses and disclosures of
+PHI.
+6.3. Restrictions on Use or Disclosure. Covered Entity shall notify Business Associate
+of any restriction to the use or disclosure of PHI that Covered Entity has agreed to in accordance
+with 45 CFR Part 164.522, to the extent that such restriction may affect Business Associates’ use
+or disclosure of PHI.
+6.4. No Request to Use or Disclose in Impermissible Manner. Except as necessary for
+the management and administrative activities of the Business Associate as allowed in Sections 4.3
+and 4.4, Covered Entity shall not request Business Associate to use or disclose PHI in any manner
+that would not be permissible under the Privacy Rule or the Security Rule if done by Covered
+Entity.
+6.5. Breach Notification. When notified of a breach, use or disclosure of Unsecured PHI
+not provided for by this Agreement by Business Associate, Covered Entity agrees to notify the
+affected Individual, the Secretary and/or the media if it is required to do so by 45 CFR §§ 164.404,
+164.406, and 164.408.
+6.6. Privacy Official. Covered Entity shall notify Business Associate if the designation
+of a Privacy Official and any changes of such designation.
+ARTICLE VII.
+Term and Termination
+7.1. Term. The term of this Agreement shall be effective as of the date established by
+-9-
+
+the Secretary for Covered Entity to comply with the Privacy Rule and Security Rule, and shall
+terminate when all PHI provided by Covered Entity to Business Associate, or received by Business
+Associate on behalf of Covered Entity, is destroyed or returned to Covered Entity, or if it is
+infeasible to return or destroy PHI, protections are extended to such information, in accordance
+with the termination provisions in this Section or the date Covered Entity terminates for cause as
+authorized in Section 7.2, whichever is sooner.
+7.2. Termination with Cause. Upon Covered Entity’s knowledge of a material breach
+by Business Associate, Covered Entity shall provide an opportunity for Business Associate to cure
+the breach or end the violation and terminate this Agreement if Business Associate does not cure
+the breach or end the violation within a time period to be determined by Covered Entity after
+considering the nature and scope of the breach, or immediately terminate this Agreement if
+Business Associate has breached a material term of this Agreement and cure is not possible. If
+termination of this Agreement is not feasible, Covered Entity shall report the breach to the
+Secretary.
+7.3. Termination without Cause. Either the Covered Entity or the Business Associate may terminate this
+Agreement without cause upon sixty (60) days’ written notice to the other party.
+7.4. Judicial or Administrative Proceedings. Either Party may terminate this Agreement
+by written notice to the other Party, effective immediately, if (i) the other Party is named as a
+defendant in a criminal proceeding for a violation of HIPAA, the Privacy Rule, the Security Rule,
+or other security or privacy laws, or (ii) a finding or stipulation that the other Party has violated
+any standard or requirement of HIPAA, the Privacy Rule, the Security Rule, or any other security
+or privacy laws is made in any administrative or civil proceeding in which the Party has been
+joined.
+7.5. Changes in Law. In the event of passage of a law or promulgation of a regulation
+or an action or investigation by any regulatory body which would prohibit the relationship between
+the Parties, or the operations of either Party with regard to the subject of this Agreement, the Parties
+shall attempt in good faith to renegotiate the Agreement to delete the unlawful provision(s) so that
+the Agreement can continue. If the Parties are unable to renegotiate the Agreement within thirty
+(30) days, the Agreement shall terminate immediately, upon written notice of either Party.
+7.6. Effect of Termination.
+Upon termination of this Agreement for any reason, Business Associate, with
+respect to PHI received from Covered Entity, or created, maintained, or received
+by Business Associate on behalf of Covered Entity, shall:
+1. Retain only that PHI which is necessary for Business Associate to continue
+its proper management and administration or to carry out its legal
+responsibilities;
+2. After a period of seven (7) years, destroy the remaining PHI that the
+Business Associate still maintains in any form;
+-10-
+
+3. Continue to use appropriate safeguards and comply with Subpart C of 45
+CFR Part 164 with respect to ePHI to prevent use or disclosure of the PHI,
+other than as provided for in this Section, for as long as Business Associate
+retains the PHI;
+4. Not use or disclose the PHI retained by Business Associate other than for
+the purposes for which such PHI was retained and subject to the same
+conditions set out in Article IV which applied prior to termination; and
+5. After a period of seven (7) years, destroy the PHI retained by Business
+Associate when it is no longer needed by Business Associate for its proper
+management and administration or to carry out its legal responsibilities.
+6. If requested by the Covered Entity, transmit the protected health
+information to another Business Associate of the Covered Entity at
+termination.
+ARTICLE VIII.
+Confidentiality of Business Information
+8.1. Business Information. Neither Party will publish or otherwise disclose to any other
+person or entity information related to this Agreement or related to the other Party, without the
+prior written consent of the other Party, except as may be necessary by reason of legal, accounting
+or regulatory requirements; provided that the Party so required to disclose any such confidential
+information shall inform the other Party in order that the other Party may seek a protective order
+to cover such information. Each Party hereby agrees that all information communicated to it by
+the other Party, whether oral or written and whether before or after execution of this Agreement,
+was and will be received in strict confidence, and will be used only for purposes of this Agreement
+or as necessary to use such information in performing responsibilities in the normal course of
+business under the Parties primary agreement. Upon termination of this Agreement, all such
+information will be promptly returned to the providing Party or certified as destroyed upon
+request. This obligation of confidentiality shall not apply to information:
+(a) which was known by the recipient without the obligation of confidentiality
+prior to its receipt of such information;
+(b) is or becomes publicly available without breach of this Agreement; or
+(c) is received from a third party without an obligation of confidentiality and
+without breach of this Agreement.
+8.2. Survival. This Article VIII shall survive termination of the Agreement.
+8.3. Not Applicable to PHI. This Article shall not be applicable to PHI. Uses,
+disclosures, and disposition of PHI shall be governed by the remaining Articles of this Agreement.
+Miscellaneous
+8.4. Assignment. This Agreement shall be binding upon and inure to the benefit of the
+respective legal successors of the Parties. Neither this Agreement nor any rights or obligations
+hereunder may be assigned, in whole or in part, without the prior written consent of the other Party.
+-11-
+
+8.5. Assistance in Litigation or Administrative Proceedings. Business Associate shall
+make itself and any subcontractors, employees or agents assisting Business Associate in the
+performance of its obligations under this Agreement, available to Covered Entity to testify as
+witnesses, or otherwise, in the event of litigation or administrative proceedings being commenced
+against Covered Entity, its directors, officers, or employees based upon a claimed violation of
+HIPAA, the Privacy Rule, the Security Rule or other laws relating to security and privacy, except
+where Business Associate or its subcontractor, employee, or agent is named as an adverse party.
+8.6. Disclaimer. Covered Entity makes no warranty or representation that compliance
+by Business Associate with this Agreement, HIPAA, the Privacy Rule, or the Security Rule will
+be adequate or satisfactory for Business Associate’s own purposes. Business Associate is solely
+responsible for all decisions made by Business Associate regarding the safeguarding of PHI.
+8.7. Property Rights. All PHI shall be and remain the exclusive property of Covered
+Entity. Business Associate agrees that it acquires no title or rights to the PHI, including any de-
+identified information, as a result of this Agreement.
+8.8. Liability Limitations/Exclusions. Any limitations on liabilities or exclusions from
+liability previously agreed upon shall not be applicable to breaches of this Agreement, HIPAA, the
+Privacy Rule or the Security Rule and other confidentiality and privacy requirements regarding
+PHI under this Agreement.
+8.9. Right to Cure. Business Associate agrees that Covered Entity has the right, but not
+the obligation, to cure any and all breaches of Business Associate’s privacy, security and
+confidentiality obligations under this Agreement. Any expenses or costs associated with Covered
+Entity’s cure of Business Associate’s breach(es) shall be borne solely by Business Associate.
+8.10. Injunctive Relief. Business Associate agrees that breach of the terms and conditions
+of this Agreement shall cause irreparable harm and there exists no adequate remedy of law.
+Covered Entity retains all rights to seek injunctive relief to prevent or stop any breach of the terms
+of this Agreement, including, but not limited to the unauthorized use or disclosure of PHI by
+Business Associate or any agent, contractor or third party that received PHI from Business
+Associate.
+8.11. Survival. The respective rights and obligations of the Parties under this Agreement
+shall survive the termination of this Agreement.
+8.12. Amendment. The Parties agree to take such action as is necessary to amend this
+Agreement from time to time as is necessary for Covered Entity to comply with the requirements
+of the Privacy Rule, Security Rule, and HIPAA.
+8.13. Regulatory References. A reference in this Agreement to a section in the Privacy
+Rule or the Security Rule means the section as in effect or as amended, and for which compliance
+is required.
+8.14. Interpretation. Any ambiguity in this Agreement shall be interpreted to permit
+compliance with the Privacy Rule, Security Rule, and HIPAA.
+8.15. Entire Agreement. This document, together with any written schedules,
+-12-
+
+amendments and addenda, constitute the entire agreement of the Parties and supersedes all prior
+oral and written agreements or understandings between them with respect to the matters provided
+for herein.
+8.16. Governing Law. This Agreement shall be governed by and construed in accordance
+with the laws of the State of Iowa a to the extent that the provisions of HIPAA or the Privacy Rule
+or the Security Rule do not preempt the laws of the State of Iowa. The sole and exclusive
+jurisdiction for any action arising from or relating to this agreement shall be in the state or federal courts
+located in the State of Iowa.
+8.17. Modifications. Any modifications to this Agreement shall be valid only if made in
+writing and signed by a duly authorized agent of both Parties.
+8.18. Notice. Any notice required or permitted to be given by either Party under this
+Agreement shall be sufficient if in writing and hand delivered (including delivery by courier) or
+sent by postage prepaid certified mail return receipt requested, as follows:
+If to Covered Entity: If to Business Associate:
+Iowa City Community School District ClaimAid Consulting Corporation, Inc
+2255 N. Dubuque Road 8141 Zionsville Rd
+Iowa City, IA 52245 Indianapolis IN 46268
+Attn: Jessica Jimmerson Attn: Chas LaPierre
+Severability. The Parties agree that if a court determines, contrary to the intent of the Parties, that
+any of the provisions or terms of this Agreement are unreasonable or contrary to public policy, or
+invalid or unenforceable for any reason in fact, law, or equity, such unenforceability or validity
+shall not affect the enforceability or validity of the remaining provisions and terms of this
+Agreement. Should any particular provision of this Agreement be held unreasonable or
+unenforceable for any reason, then such provision shall be given effect and enforced to the fullest
+extent that would be reasonable and enforceable.
+8.19. Waiver of Breach. No failure or delay by either Party in exercising its rights under
+this Agreement shall operate as a waiver of such rights, and no waiver of any breach shall constitute
+a waiver of any prior, concurrent, or subsequent breach.
+8.20. Titles. Titles or headings are used in this Agreement for reference only and shall
+not have any effect on the construction or legal effect of this Agreement.
+8.21. Independent Contractors. For purposes of this Agreement, Covered Entity and
+Business Associate are and will act at all times as independent contractors. None of the provisions
+of this Agreement are intended to create, nor shall be deemed or construed to create any
+relationship other than that of independent entities contracting with each other for the purpose of
+effecting this Agreement. None of the provisions of this Agreement shall establish or be deemed
+or construed to establish any partnership, agency, employment agreement or joint venture between
+the Parties.
+8.22. No Third-Party Beneficiaries. It is the intent of the Parties that this Agreement is to
+be effective only in regard to their rights and obligations with respect to each other. It is expressly
+not the intent of the Parties to create any independent rights in any third party or to make any third-
+-13-
+
+party beneficiary of this Agreement and no privity of contract shall exist between third parties and
+each Party.
+Each Party to this Agreement warrants that it has full power and authority to enter into this
+Agreement, and the person signing this Agreement on behalf of either Party warrants that
+he/she has been duly authorized and empowered to enter into this Agreement.
+Iowa City Community School District ClaimAid Consulting Corporation, Inc
+Covered Entity Business Associate
+By: By:
+Title: Title:
+Date: Date:
+15440743.1
+4905-7172-9295-1\14546-000
+-14-

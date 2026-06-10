@@ -1,0 +1,194 @@
+Second Quarter
+Financial Report
+FY 2026
+Prepared by the
+Iowa City Community School District Business Services Department
+Presented: February 10, 2026
+Purpose: This quarterly financial report is intended to inform the Board of Directors and the public about the district's
+financial performance and budget status for the reporting period.
+Disclaimer: This quarterly financial report is presented for informational purposes only and reflects unaudited financial data. The accounting
+fund balances and cash balances included herein are derived from the district's internal financial records as of the reporting date and are
+subject to normal year-end adjustments, accruals, and audit review. As a result, amounts presented may differ from those reported in the
+district's annual audited financial statements. This report should not be considered a substitute for the audited financial statements prepared in
+accordance with generally accepted accounting principles and applicable Iowa Department of Education and governmental reporting
+requirements.
+Sources of Information:
+Combined Statement Statements of Receipts and Disbursements - Internal District Financial Records
+General Fund Revenues by Month - Internal District Financial Records
+General Fund Expenditures by Month - Internal District Financial Records
+Cash and Investment Summary - Bank Statements
+
+2025-2026 Combined Statement of Receipts and Disbursements (Cash Basis)
+Period Ending 12/31/2025
+Fund # Fund Description Balance as of 7/1/2025 Budgeted Receipts Receipts to Date Rec. as % of Budget Budget Disbursements Disbursements to Date Disb. as % of Budget Ending Balance
+10 General Fund $ 17,852,375 $ 221,745,164 $ 94,256,177 42.5% $ 215,222,547 $ 86,401,778 40.1% $ 25,706,774
+21 Student Activity Fund $ 438,424 $ 3,520,061 $ 1,481,836 42.1% $ 3,500,000 $ 1,835,250 52.4% $ 85,009
+22 Management Fund $ 5,618,732 $ 8,450,861 $ 7,392,327 87.5% $ 8,525,667 $ 6,843,946 80.3% $ 6,167,114
+33 Capital Projects - SAVE $ 9,210,196 $ 20,657,855 $ 17,639,968 85.4% $ 24,938,482 $ 17,857,794 71.6% $ 8,992,370
+36 PPEL $ 8,353,372 $ 13,785,103 $ 6,193,249 44.9% $ 10,815,420 $ 4,489,184 41.5% $ 10,057,437
+40 Debt Service Fund $ 215,435 $ 13,448,067 $ 5,960,490 44.3% $ 13,445,686 $ 4,966,791 36.9% $ 1,209,133
+61 School Nutrition Fund $ 7,095,904 $ 10,406,540 $ 3,942,379 37.9% $ 10,280,328 $ 4,441,928 43.2% $ 6,596,356
+Total $ 48,784,438 $ 292,013,651 $ 136,866,427 46.9% $ 286,728,130 $ 126,836,671 44.2% $ 58,814,193
+Budgeted Receipts by Fund as Percent of Total Receipts Disbursements to Date by Fund as Percent of Total Disbursements
+School Nutrition Fund School Nutrition Fund
+3.6% 3.5%
+Debt Service Fund Debt Service Fund
+4.6% 3.9%
+PPEL PPEL
+4.7% 3.5%
+Capital Projects - SAVE
+7.1% Capital Projects - SAVE
+14.1%
+Management Fund
+2.9%
+Student Activity Fund
+1.2%
+Management Fund
+5.4%
+Student Activity Fund
+1.4%
+General Fund
+68.1%
+General Fund
+75.9%
+
+General Fund Revenue by Month
+Prior Year (Period Ending 6/30/2025)
+Current Year Revenue July August September October November December January February March April May June Accruals Total
+Taxes Levied on Property $ 424,654 $ - $ 4,211,829 $ 37,962,993 $ 1,064,647 $ 1,099,361 $ 1,118,787 $ 492,523 $ 3,034,055 $ 30,292,968 $ 4,072,828 $ 279,447 $ 84,054,092
+Utility Replacement Excise Tax $ - $ - $ - $ 305,100 $ - $ - $ - $ - $ 15,628 $ 95,588 $ 132,837 $ - $ 549,153
+Income Surtaxes $ - $ - $ - $ - $ - $ 6,729,557 $ 46,175 $ - $ - $ - $ - $ - $ 6,775,731
+Tuition,Transportation $ 936,912 $ 734,753 $ (1,599,445) $ (1,206) $ - $ - $ 197 $ 244,414 $ 817 $ 1,070,769 $ 144,957 $ 1,882,396 $ 3,414,563
+Investment Earnings $ 94,356 $ 43,420 $ 22,500 $ 129,659 $ 111,148 $ 108,409 $ - $ 255,053 $ 63,132 $ 156,772 $ 190,874 $ 87,778 $ 1,263,101
+Nutrition Services $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+Student Activities $ 160,478 $ 313,279 $ 30,501 $ 20,256 $ 267 $ 45 $ 1,802 $ 2,756 $ 1,269 $ 3,181 $ 3,647 $ 1,291 $ 538,771
+Other Local Sources $ 27,127 $ 14,819 $ 55,460 $ 112,201 $ 16,167 $ 258,547 $ 49,155 $ 95,064 $ 35,852 $ 324,752 $ 123,144 $ 220,871 $ 1,333,158
+Intermediary Sources $ - $ 9,000 $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ 9,000
+State Foundation Aid $ 904,587 $ 489,032 $ 10,088,234 $ 10,088,234 $ 10,088,234 $ 10,088,234 $ 10,088,234 $ 10,469,301 $ 10,034,251 $ 10,034,251 $ 10,034,251 $ 10,153,268 $ 102,560,114
+Instructional Support $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+Other State Sources $ - $ 53,667 $ (7,497) $ 46,170 $ - $ 4,800 $ - $ 174,473 $ - $ 46,170 $ - $ 712,345 $ 1,030,128
+Two Tier Assessment Limitation Replace $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ 931,060 $ 931,060
+Title 1 Grants $ - $ - $ - $ - $ - $ - $ - $ - $ 989,997 $ - $ 763,359 $ 889,487 $ 2,642,842
+Other Federal Sources $ (112,206) $ 10,146 $ (216,503) $ 369,203 $ - $ 349,436 $ 23,772 $ 507,229 $ 242,260 $ 407,332 $ 464,214 $ 1,403,993 $ 3,448,875
+Other Sources $ 14,530 $ 875 $ 9,455 $ 895 $ 1,177 $ 473 $ 511 $ 145 $ - $ 1,489 $ 2,608 $ 1,177 $ 33,335
+Total Monthly Revenues $ 2,450,437 $ 1,668,992 $ 12,594,535 $ 49,033,506 $ 11,281,641 $ 18,638,862 $ 11,328,633 $ 12,240,957 $ 14,417,260 $ 42,433,271 $ 15,932,718 $ 16,563,113
+Total YTD Revenues $ 2,450,437 $ 4,119,429 $ 16,713,964 $ 65,747,470 $ 77,029,110 $ 95,667,972 $ 106,996,605 $ 119,237,562 $ 133,654,822 $ 176,088,093 $ 192,020,811 $ 208,583,924 $ 208,583,924
+General Fund Revenue by Month
+Current Year (Period Ending 12/31/2025)
+Current Year Revenue July August September October November December January February March April May June Accruals Total
+Taxes Levied on Property $ 1,502 $ 379,454 $ 6,213,734 $ 33,158,006 $ 5,031,856 $ 2,084,441.41 $ 46,868,993
+Utility Replacement Excise Tax $ - $ - $ - $ 581,810 $ 187,553 $ - $ 769,363
+Income Surtaxes $ - $ - $ - $ - $ - $ - $ -
+Tuition,Transportation $ (220,119) $ 262,435 $ 885,484 $ 101,284 $ 2,275 $ 91,370.47 $ 1,122,729
+Investment Earnings $ 40,423 $ 9,103 $ 16,730 $ 83,493 $ 76,202 $ 73,985.08 $ 299,937
+Nutrition Services $ - $ - $ - $ - $ - $ - $ -
+Student Activities $ 153,687 $ 321,759 $ 55,079 $ 28,373 $ 11,122 $ - $ 570,020
+Other Local Sources $ 15,883 $ 40,646 $ 34,608 $ 302,206 $ 217,279 $ 102,132.12 $ 712,754
+Intermediary Sources $ - $ - $ - $ 500 $ 1,000 $ 9,300.00 $ 10,800
+State Foundation Aid $ 423,804 $ - $ 10,647,629 $ 10,602,678 $ 10,602,236 $10,602,236.00 $ 42,878,583
+Instructional Support $ - $ - $ - $ - $ - 0 $ -
+Other State Sources $ - $ 46,170 $ - $ 231,484 $ 46,835 46835 $ 371,324
+Two Tier Assessment Limitation Replace $ - $ - $ - $ - $ - $ - $ -
+Title 1 Grants $ - $ - $ - $ - $ - $ - $ -
+Other Federal Sources $ - $ - $ - $ (61,265) $ 62,909 $ - $ 1,644
+Other Sources $ - $ - $ - $ 1,065 $ (90,031) $ 3,316.11 $ (85,650)
+Total Monthly Revenues $ 415,179 $ 1,059,567 $ 17,853,264 $ 45,029,633 $ 16,149,237 $ 13,013,616 $ - $ - $ - $ - $ - $ -
+Total YTD Revenues $ 415,179 $ 1,474,746 $ 19,328,011 $ 64,357,643 $ 80,506,881 $ 93,520,497 $ 93,520,497 $ 93,520,497 $ 93,520,497 $ 93,520,497 $ 93,520,497 $ 93,520,497 $ 93,520,497
+Prior Year vs Current Year Revenues by Month (Cumulative)
+Prior Year Revenues Current Year Revenues
+$ 250,000,000
+$ 200,000,000
+$ 150,000,000
+$ 100,000,000
+$ 50,000,000
+$ -
+July August September October November December January February March April May June
+
+General Fund Expenditures by Month
+Prior Year (Period Ending 6/30/2025)
+Current Year Expenditures by Month July August September October November December January February March April May June Accruals Total
+Instruction $1,208,455 $2,083,053 $11,221,769 $11,499,053 $11,937,511 $11,960,372 $11,729,094 $12,146,156 $11,645,639 $11,541,098 $12,256,655 $28,249,149 $ - $137,478,004 Instruction
+Student Support Services $111,823 $361,118 $720,426 $731,230 $742,456 $749,959 $697,588 $711,262 $717,342 $707,911 $743,264 $1,568,537 $ - $8,562,916 Student Support Services
+Instructional Staff Support $252,731 $647,374 $889,029 $2,810,792 $853,841 $831,584 $812,134 $869,446 $816,832 $788,909 $863,440 $1,739,268 $ - $12,175,380 Instructional Staff Support
+General Administration $262,112 $262,488 $223,061 $252,996 $255,948 $243,185 $262,827 $254,039 $264,168 $222,559 $258,195 $322,199 $ - $3,083,777 General Administration
+Building Administration $737,130 $946,262 $973,289 $712,242 $764,235 $744,711 $937,032 $1,708,379 $965,349 $951,878 $996,212 $996,153 $ - $11,432,872 Building Administration
+Business & Central Admin $439,994 $479,348 $406,523 $429,920 $436,704 $447,189 $433,780 $420,043 $466,453 $433,524 $399,387 $722,041 $ - $5,514,906 Business & Central Admin
+Plant Operation&Maintenance $1,501,978 $1,885,959 $1,735,241 $1,726,407 $1,525,734 $1,366,541 $1,702,597 $1,478,832 $1,393,168 $1,503,175 $1,403,600 $1,957,060 $ - $19,180,292 Plant Operation&Maintenance
+Student Transportation $53,860 $2,044 $443,134 $419,785 $40,892 $148,454 $967,593 $136,139 $181,033 $428,690 $102,155 $2,574,750 $ - $5,498,529 Student Transportation
+Other Support Services(must be 0) $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $0 Other Support Services(must be 0)
+Noninstructional Programs $132 $3,664 $5,861 $11,192 $13,644 $7,141 $4,409 $4,326 $3,744 $1,060 $695 $ - $ - $55,868 Noninstructional Programs
+Facility Acquistion,Constr. $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $0 Facility Acquistion,Constr.
+Debt Services $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $0 Debt Services
+AEA Support $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $489,032 $ - $5,868,384 AEA Support
+Transfers Out $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - $ - Transfers Out
+Total Monthly Expendidtures $5,057,247 $7,160,342 $17,107,365 $19,082,649 $17,059,997 $16,988,168 $18,036,086 $18,217,654 $16,942,760 $17,067,836 $17,512,635 $38,618,189 $ - Total Monthly Expendidtures
+Total YTD Expenditures $5,057,247 $12,217,589 $29,324,954 $48,407,603 $65,467,600 $82,455,768 $100,491,854 $118,709,508 $135,652,268 $152,720,104 $170,232,739 $208,850,928 $208,850,928 Total YTD Expenditures
+General Fund Expenditures by Month
+Current Year (Period Ending 9/30/2025)
+Current Year Expenditures by Month July August September October November December January February March April May June Accruals Total
+Instruction $432,552 $2,119,645 $12,211,710 $12,874,788 $12,718,442 $12,362,378 $ - $52,719,515 Instruction
+Student Support Services $108,490 $402,897 $737,752 $722,546 $717,536 $704,921 $ - $3,394,143 Student Support Services
+Instructional Staff Support $378,807 $988,730 $2,380,947 $1,326,189 $1,045,897 $1,079,528 $ - $7,200,097 Instructional Staff Support
+General Administration $285,996 $264,805 $297,684 $233,329 $248,764 $248,503 $ - $1,579,081 General Administration
+Building Administration $847,556 $1,041,775 $1,103,566 $1,103,685 $1,092,480 $1,089,290 $ - $6,278,352 Building Administration
+Business & Central Admin $527,870 $495,274 $517,653 $396,578 $487,972 $458,465 $ - $2,883,812 Business & Central Admin
+Plant Operation&Maintenance $1,521,951 $1,759,907 $1,661,794 $1,606,351 $1,485,184 $1,476,767 $ - $9,511,955 Plant Operation&Maintenance
+Student Transportation -$234,885 $278,473 $79,436 $623,039 $232,760 $36,249 $ - $1,015,072 Student Transportation
+Other Support Services(must be 0) $0 $0 $0 $0 $0 $ - $0 Other Support Services(must be 0)
+Noninstructional Programs $0 $244 $4,048 $4,910 $2,728 $150 $ - $12,081 Noninstructional Programs
+Facility Acquistion,Constr. $0 $0 $0 $0 $0 $0 $ - $0 Facility Acquistion,Constr.
+Debt Services $0 $0 $0 $0 $0 $0 $ - $0 Debt Services
+AEA Support $0 $0 $421,517 $421,517 $646,442 $421,517 $ - $1,910,994 AEA Support
+Transfers Out -$306,384 $0 $0 $0 $0 $0 $ - $ - Transfers Out
+Total Monthly Expendidtures $3,561,953 $7,351,751 $19,416,107 $19,312,932 $18,678,205 $17,877,769 $0 $0 $0 $0 $0 $0 $ - Total Monthly Expendidtures
+Total YTD Expenditures $3,561,953 $10,913,705 $30,329,811 $49,642,744 $68,320,948 $86,198,717 $86,198,717 $86,198,717 $86,198,717 $86,198,717 $86,198,717 $86,198,717 $86,505,102 Total YTD Expenditures
+Prior Year vs Current Year Expenditures by Month (Cumulative)
+Prior Year Current Year
+$250,000,000
+$200,000,000
+$150,000,000
+$100,000,000
+$50,000,000
+$0
+July August September October November December January February March April May June
+
+Cash Totals by Quarter FY26 Q2 Cash and Investments Detail
+As of 12/31/2025 As of 12/31/2025
+Cash Totals 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter Fund Type Cash in Bank CDs ISJIT Investments Total Funds Weighted Portion
+General (10, 84) $ 8,609,013 $ 6,631,101 General (10, 84) $ 6,631,101 $ - $ 21,885,563 $ 28,516,664 71.5%
+Activity (21) $ 980,794 $ 998,503 Activity (21) $ 998,503 $ - $ 998,503 2.5%
+Capital Projects and Bonds (33, 36) $ 3,534,250 $ 621,148 Capital Projects and Bonds (33, 36) $ 621,148 $ - $ 4,966,690 $ 5,587,838 14.0%
+Nutrition (61) $ 2,900,468 $ 1,606,596 Nutrition (61) $ 1,606,596 $ 2,312,779 $ 3,919,375 9.8%
+Insurance (71, 74) $ 4,515,152 $ 802,529 Insurance (71, 74) $ 802,529 $ - $ 7,169 $ 809,698 2.0%
+Children's Aid (82) $ 15,396 $ 66,309 Children's Aid (82) $ 66,309 $ 66,309 0.2%
+Total All Funds $ 23,901,573 $ 10,726,186 $ - $ - Total All Funds $10,726,186 $ - $ 29,172,202 $ 39,898,388 100.0%
+Investment Totals by Quarter
+As of 12/31/2025 Cash and Investments by Quarter by Fund
+Investment Totals 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+$ 60,000,000 General (10, 84)
+General (10, 84) $ 2,377,168 $ 21,885,563
+Activity (21)
+Activity (21) $ - $ -
+Capital Projects and Bonds (31,
+Capital Projects and Bonds (33, 36) $ 18,744,821 $ 4,966,690 33, 36)
+Nutrition (61) $ 3,506,221 $ 2,312,779
+Nutrition (61)
+Insurance (71, 74) $ 10,591,070 $ 7,169
+Insurance (71, 74)
+Children's Aid (82) $ - $ - $ 40,000,000
+Children's Aid (82)
+Total All Funds $ 35,219,281 $ 29,172,202 $ - $ -
+Total All Funds
+Combined Cash and Investment Totals by Quarter
+As of 12/31/2025
+Cash and Investment Totals 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+$ 20,000,000
+General (10, 84) $ 10,986,181 $ 28,516,664
+Activity (21) $ 980,794 $ 998,503
+Capital Projects and Bonds (31, 33, 36) $ 22,279,072 $ 5,587,838
+Nutrition (61) $ 6,406,689 $ 3,919,375
+Insurance (71, 74) $ 15,106,222 $ 809,698
+Children's Aid (82) $ 15,396 $ 66,309 $ -
+1st Quarter 2nd Quarter 3rd Quarter 4th Quarter
+Total All Funds $ 55,774,354 $ 39,898,388
+Cash and Investment Totals

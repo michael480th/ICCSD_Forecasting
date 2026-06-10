@@ -1,0 +1,214 @@
+TO: Members, Board of Directors
+THROUGH: Mr. Matthew Degner, Superintendent
+THROUGH: Dr. Chace Ramey, Deputy Superintendent
+FROM: Mr. Curt Pratt, Chief Operating Officer
+DEPARTMENT: Facilities Management
+DATE: 1/27/2026
+SUBJECT: Appendix 9 Approval Request
+PROJECT: HVAC Upgrades
+PROJECT This project is part of Facility Master Plan 2.0 and includes replacement of
+DESCRIPTION: HVAC systems to upgrade the remainder of the building to a geothermal HVAC
+system. Other work to support the installation of the new HVAC system is
+anticipated to include electrical service and distribution upgrades to support new
+geothermal HVAC equipment.
+BUDGET: $0.00
+PROJECT STATUS: On time and on budget
+SUB PROJECT: 2023 Weber ES HVAC Upgrades
+DESCRIPTION: Project includes replacement of HVAC systems to upgrade the remainder of the
+building to a geothermal HVAC system.
+PLANNED START: 6/6/2024 PLANNED COMPLETE: 8/12/2025
+NOTE: Change Order #1
+Substantial Completion
+ATTACHMENTS: Change Order #1
+Certificate of Substantial Completion
+RECOMMENDATION: Recommend approval of Change Order #1 and Substantial Completion
+Appendix 9, Step 1
+Approval Date: 6/14/2022 Pending? No
+Note:
+Appendix 9, Step 2
+Approval Date: 10/25/2022 Pending? No
+Contract: Design Contract
+Firm: Design Engineers
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 1
+
+Amount $187,000.00 Funding: SAVE
+Note:
+Appendix 9, Step 3
+Approval Date: 8/8/2023 Pending? No
+Op. Cost: $0.00
+Op. Cost Impact:
+Note:
+Appendix 9, Step 4
+Approval Date: 8/8/2023 Pending? No
+Op. Cost: $0.00
+Op. Cost Impact:
+Note:
+Appendix 9, Step 5
+Approval Date: 8/8/2023 Pending? No
+Op. Cost: $0.00
+Op. Cost Impact:
+Note:
+Appendix 9, Step 6
+Approval Date: 8/8/2023 Pending? No
+Publication Date: 8/9/2023 Public Hearing Date: 8/22/2023
+Publication Name: Press Citizen
+Note:
+Appendix 9, Step 7
+Approval Date: 9/26/2023 Pending? No
+Bid Date/Time: 9/6/2023 2:00 PM Bid Location: Facilities Managemen
+Contract Description: Construction Contract
+Contractor: City Construction Group
+Amount $3,535,200.00 Funding Source: SAVE
+Note: The District received four bids on 9/6/2023 for the Weber Elementary
+HVAC Replacement project. The bids ranged in the amount of $3,535,200
+to $3,925,000 with City Construction of Iowa City, Iowa being the low
+bidder.
+Appendix 9, Step 9
+Approval Date: 1/27/2026 Pending? Yes
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 2
+
+Retainage Release: $0.00
+Note:
+Contract
+Description: Design Contract
+Contract with: Design Engineers
+Funding source: SAVE
+Initial contract amount: $187,000.00
+Current contract amount: $187,000.00
+Change Authorization Request
+Approval Date: Pending? No
+Number: Date:
+Subject:
+Description:
+Reason Amount
+TOTAL
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 3
+
+Payments
+Date Doc. # Amount % Cmplt Period To
+3/28/2023 22165-1 $14,025.00 2/28/2023
+4/25/2023 22165-2 $14,025.00 3/31/2023
+5/23/2023 22165-3 $23,375.00 4/30/2023
+6/27/2023 22165-4 $23,375.00 40% 5/31/2023
+8/8/2023 22165-5 $32,725.00 58% 6/30/2023
+8/22/2023 22165-6 $26,180.00 72% 7/31/2023
+10/24/2023 22165-7 $11,233.86 75% 10/1/2023
+12/22/2023 22165-8 $2,337.50 76% 11/30/2023
+1/23/2024 22165-9 $2,337.50 12/31/2023
+1/31/2024 22165-10 $2,337.50 2/27/2024
+6/25/2024 22165-11 $2,337.50 5/31/2024
+7/23/2024 22165-12 $2,337.50 6/30/2024
+8/13/2024 22165-13 $2,337.50 7/31/2024
+9/24/2024 22165-14 $2,337.50 8/31/2024
+10/22/2024 22165-15 $2,337.50 9/30/2024
+11/26/2024 22165-16 $2,337.50 10/31/2024
+12/18/2024 22165-17 $2,337.50 11/30/2024
+1/28/2025 22165-18 $2,337.50 89% 12/31/2024
+2/25/2025 22165-19 $2,337.50 90% 1/31/2025
+3/25/2025 22165-20 $4,675.00 93% 2/28/2025
+4/22/2025 22165-21 $2,337.50 3/31/2025
+5/27/2025 22165-22 $2,337.50 4/30/2025
+6/25/2025 22165-23 $2,337.50 6/1/2025
+7/22/2025 22165-24 $2,337.50 6/30/2025
+9/23/2025 22165-25 $2,337.50 8/31/2025
+$189,351.36
+Contract
+Description: Construction Contract
+Contract with: City Construction Group
+Funding source: SAVE
+Initial contract amount: $3,535,200.00
+Current contract amount: $3,592,625.00
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 4
+
+Change Authorization Request
+Approval Date: 1/27/2026 Pending? Yes
+Number: 1 Date: 1/6/2026
+Subject: Change Order #1
+Description: This Change Order includes revisions to exhaust fan locations,
+ductwork routing, roof modifications, water heater replacement, and
+demo work. There is also a credit for equipment disconnects &
+partial TAB services.
+Reason Amount
+Contractor Request $33,694.00
+District Request $1,279.00
+District Request ($2,823.00)
+District Request $7,427.00
+District Request $5,042.00
+District Request $1,987.00
+District Request ($23,426.00)
+Unforeseen Conditions $3,499.00
+Unforeseen Conditions $1,511.00
+Unforeseen Conditions $15,328.00
+Unforeseen Conditions $1,481.00
+District Request $8,852.00
+District Request $3,574.00
+TOTAL $57,425.00
+Payments
+Date Doc. # Amount % Cmplt Period To
+6/11/2024 1 $250,796.20 7% 5/14/2024
+7/9/2024 2 $144,803.75 11% 6/11/2024
+7/23/2024 3 $575,475.80 27% 6/30/2024
+8/27/2024 4 $222,867.76 34% 8/12/2024
+9/24/2024 5 $504,947.24 48% 9/11/2024
+11/12/2024 6 $422,041.85 60% 10/16/2024
+12/10/2024 7 $85,578.47 62% 11/7/2024
+12/18/2024 8 $106,019.52 65% 12/9/2024
+2/25/2025 9 $95,177.70 67% 2/11/2025
+4/8/2025 10 $110,627.74 70% 3/13/2025
+6/26/2025 11 $232,634.24 76% 5/13/2025
+7/22/2025 12 $197,780.93 82% 7/3/2025
+9/9/2025 13 $235,436.93 88% 8/5/2025
+9/23/2025 14 $217,742.87 93% 9/10/2025
+1/27/2026 15 $11,062.75 95% 12/31/2025
+$3,412,993.75
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 5
+
+Contract
+Description: Testing and Balancing
+Contract with: System Works LLC
+Funding source: SAVE
+Initial contract amount: $39,875.00
+Current contract amount: $39,875.00
+Change Authorization Request
+Approval Date: Pending? No
+Number: Date:
+Subject:
+Description:
+Reason Amount
+TOTAL
+Payments
+Date Doc. # Amount % Cmplt Period To
+1/13/2026 12714 $38,875.00 100% 12/31/2025
+$38,875.00
+Contract
+Description: Commissioning
+Contract with: System Works LLC
+Funding source: SAVE
+Initial contract amount: $58,050.00
+Current contract amount: $58,050.00
+Change Authorization Request
+Approval Date: Pending? No
+Number: Date:
+Subject:
+Description:
+Reason Amount
+TOTAL
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 6
+
+Payments
+Date Doc. # Amount % Cmplt Period To
+3/26/2024 11669 $1,755.00 2/29/2024
+3/11/2025 12224 $4,320.00 1/31/2025
+7/22/2025 12446 $1,350.00 6/30/2025
+$7,425.00
+PROJECT: HVAC Upgrades 1/27/2026
+SUB-PROJECT: 2023 Weber ES HVAC Upgrades Page 7
+
+
+

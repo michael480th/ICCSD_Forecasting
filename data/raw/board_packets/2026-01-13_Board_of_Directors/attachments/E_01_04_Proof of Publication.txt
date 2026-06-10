@@ -1,0 +1,31 @@
+Order Confirmation
+Not an Invoice
+Account Number: 1249726 Date: 12/01/2025
+Customer Name: Iowa City Community Schools Order Number: 11887493
+Customer Iowa City Community Schools Prepayment $ 0.00
+Address: 2255 N Dubuque RD Amount:
+Iowa City IA 52245-9580
+Contact Name: Adam Kurth
+Contact Phone:
+Column Count: 1.0000
+Contact Email: kurth.adam@iowacityschools.org
+Line Count: 71.0000
+PO Number:
+Height in Inches: 5.0000
+Print
+Product #Insertions Start - End Category
+IOW Iowa City Press Citizen 1 12/10/2025 - 12/10/2025 Public Notices
+IOW press-citizen.com 1 12/10/2025 - 12/10/2025 Public Notices
+Total Cash Order Confirmation Amount Due $55.44
+Tax Amount $0.00
+As an incentive for customers, we provide a discount off the
+total order cost equal to the 3.99% service fee if you pay with Service Fee 3.99% $2.21
+Cash/Check/ACH. Pay by Cash/Check/ACH and save!
+Cash/Check/ACH Discount -$2.21
+Payment Amount by Cash/Check/ACH $55.44
+Payment Amount by Credit Card $57.65
+Order Confirmation Amount $55.44
+1/2
+
+Ad Preview
+2/2

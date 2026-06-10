@@ -1,0 +1,159 @@
+February 23rd, 2026
+Subject: FY23 Internal Control Audit Findings and Corrective Actions
+To Whom It May Concern:
+This memorandum is intended to provide an overview of the
+internal control findings identified during the FY23 audit of the
+Iowa City Community School District’s financial operations. The
+audit assessed key processes related to cash management,
+disbursements, reconciliations, and oversight procedures.
+While certain control deficiencies were noted, the District has
+taken prompt and appropriate corrective actions to
+strengthen internal controls, enhance accountability, and
+ensure full compliance with applicable financial policies and
+regulatory requirements. The details of the findings and the
+corresponding corrective measures implemented are outlined
+below.
+Finding 2023-001: Material Weakness: Inadequate Controls
+over Financial Reporting
+The District’s financials required significant revisions and were
+significantly delayed.
+Condition: The District does not have processes and controls
+in place for timely financial reporting. The District was
+performing year-end close procedures over significant
+financial statement accounts over an extended period of time
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color,
+national origin, sex, disability, religion, creed, age, marital status, sexual orientation, gender identity and
+socioeconomic status in its educational programs, activities, or employment practices. There is a grievance
+procedure for processing complaints of discrimination. If you have questions or a grievance related to this
+policy, please contact Laura Cottrell for programming at cottrell.laura@iowacityschools.org or Nick Proud for
+employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City, IA 52245, (319) 688-1000. If
+you are unsure how to proceed or would like assistance in discussing your options, you may also contact
+Janet Abejo-Parker at ombuds@iowacityschools.org or (319) 688-1312.
+
+and did not complete reconciliations over all accounts and
+preparation of a financial report draft until December 2024. In
+addition, the District’s controls were not operating effectively
+over financial reporting because during the audit, there were
+significant adjustments provided subsequent to the original
+trial balance, which materially affected year-end balances. In
+addition, supporting schedules and reconciliations did not
+agree to financial statement amounts and required revisions.
+Corrective Action: The previous accounting leadership did not
+appear to properly reconcile the District’s balance sheet, and
+what reconciliations were available contained unknown
+variances or other errors that compounded misstatement of
+the draft financials. Additionally, record keeping was difficult to
+follow and frequently contained errors. Other transactions
+recorded were booked as estimates without documentation or
+resolution. The controller is working to formalize the
+reconciliation process and return to a status where bank and
+investment accounts are reconciled on at least a monthly basis
+and reviewed by the controller. Additionally, the capital project
+the capital projects portfolio will be updated on at least a
+monthly basis and reviewed by the controller. All balance
+sheet accounts will be reviewed and reconciled on at least an
+annual basis. Account reconciliations will be current and
+regular monthly or annual review in place by August 31, 2026.
+Alan Moran is responsible for the corrective action plan.
+Operational Milestones: The finance team has worked with
+external auditors to develop a roadmap to bring financial
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color,
+national origin, sex, disability, religion, creed, age, marital status, sexual orientation, gender identity and
+socioeconomic status in its educational programs, activities, or employment practices. There is a grievance
+procedure for processing complaints of discrimination. If you have questions or a grievance related to this
+policy, please contact Laura Cottrell for programming at cottrell.laura@iowacityschools.org or Nick Proud for
+employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City, IA 52245, (319) 688-1000. If
+you are unsure how to proceed or would like assistance in discussing your options, you may also contact
+Janet Abejo-Parker at ombuds@iowacityschools.org or (319) 688-1312.
+
+statements current. We have begun working on the 2024
+audit with the external auditors and have a roadmap in place
+to be current for the March 15, 2027 filing deadline.
+Finding 2023-002: Significant Deficiency: Inadequate
+Controls over Bank Reconciliations
+The District’s bank reconciliations required corrections for
+unreconciled amounts.
+Condition: During audit procedures performed, and testing of
+the accuracy of bank reconciliations, two improper reconciling
+items were identified. It was determined that approximately $1
+million of reconciling items on two different bank accounts
+should have been classified as due to/from other funds,
+however, were not presented in the financial statements
+correctly. These amounts netted across the two funds and
+therefore District cash was misstated by an immaterial
+amount, however the District’s bank reconciliations did not
+identify this error. It was further identified that an additional
+$55,000, which reduced general ledger cash and increased
+payroll-related expenditures, should be reversed. An adjusting
+entry was recognized in the financials to eliminate these
+reconciling items.
+Corrective Action: Bank accounts were not being properly
+reconciled and frequently contained “miscellaneous
+variances.” Bank reconciliations will be completed on an at
+least monthly basis by a member of the business services
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color,
+national origin, sex, disability, religion, creed, age, marital status, sexual orientation, gender identity and
+socioeconomic status in its educational programs, activities, or employment practices. There is a grievance
+procedure for processing complaints of discrimination. If you have questions or a grievance related to this
+policy, please contact Laura Cottrell for programming at cottrell.laura@iowacityschools.org or Nick Proud for
+employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City, IA 52245, (319) 688-1000. If
+you are unsure how to proceed or would like assistance in discussing your options, you may also contact
+Janet Abejo-Parker at ombuds@iowacityschools.org or (319) 688-1312.
+
+team and reviewed by the controller. Unknown variances will
+no longer be permissible on reconciliations. All reconciliations
+will be current and completed on an at least monthly basis by
+August 31, 2026. Alan Moran is responsible for the corrective
+action plan.
+Operational Milestones: The finance team is in the process of
+resolving this issue to bring finances current. FY24 cash
+reconciliations are complete, and we are underway with the
+reconciliation of certain FY25 reconciliations. We have
+completed the cash reconciliation for the general fund
+through May 2025, which has historically been the most time
+consuming to complete and correct.
+Finding 2023-006: Significant Deficiency: Inadequate
+Segregation of Duties over Cash Disbursements and
+Journal Entries
+The District’s Chief Financial Officer has the ability to update
+and add new vendors, process invoices, post journal entries,
+and has access to the electronic signature for cash
+disbursements.
+Condition: During audit procedures performed, it was
+identified the District’s Chief Financial Officer has the ability to
+update and add new vendors, process invoices, post journal
+entries, and has access to the electronic signature for cash
+disbursements. These are incompatible duties that should be
+segregated when performing financial accounting and
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color,
+national origin, sex, disability, religion, creed, age, marital status, sexual orientation, gender identity and
+socioeconomic status in its educational programs, activities, or employment practices. There is a grievance
+procedure for processing complaints of discrimination. If you have questions or a grievance related to this
+policy, please contact Laura Cottrell for programming at cottrell.laura@iowacityschools.org or Nick Proud for
+employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City, IA 52245, (319) 688-1000. If
+you are unsure how to proceed or would like assistance in discussing your options, you may also contact
+Janet Abejo-Parker at ombuds@iowacityschools.org or (319) 688-1312.
+
+reporting. The District’s compensating controls include other
+individuals performing bank reconciliations, as well as
+superintendent reviews of the financial statements, including
+budget to actual comparisons. These compensating controls
+and reviews help minimize the risk when they are operating
+effectively.
+Corrective Action: We will remove account maintenance,
+invoice processing and Journal Entry Post capabilities from the
+CFO. This was removed August 27th, 2025 by the controller,
+Alan Moran.
+Operational Milestones: The CFO no longer has ledger access.
+Any entries drafted by the controller are subject to
+independent review and may not be posted by the controller.
+Control is as of date of end of report and will likely repeat as a
+result for the FY24 audit.
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color,
+national origin, sex, disability, religion, creed, age, marital status, sexual orientation, gender identity and
+socioeconomic status in its educational programs, activities, or employment practices. There is a grievance
+procedure for processing complaints of discrimination. If you have questions or a grievance related to this
+policy, please contact Laura Cottrell for programming at cottrell.laura@iowacityschools.org or Nick Proud for
+employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City, IA 52245, (319) 688-1000. If
+you are unsure how to proceed or would like assistance in discussing your options, you may also contact
+Janet Abejo-Parker at ombuds@iowacityschools.org or (319) 688-1312.

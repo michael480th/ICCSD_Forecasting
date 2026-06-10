@@ -1,0 +1,47 @@
+Bank Reconciliations 2023 2024 2025 2026
+General Complete Complete In Process (Thru May) Pending
+schoolhouse Complete Complete Pending Pending
+Activity Complete Complete Pending Pending
+Insurance Complete Complete Complete pending
+Food Service Complete Complete Pending Pending
+Payroll Complete Complete Pending Pending
+*Custody of funds / allocations needs confirmation
+Investment
+General Complete Complete Pending Pending
+PPEL Complete Complete Pending Pending
+Save Complete Complete Pending Pending
+Activity Complete Complete Pending Pending
+Insurance Complete Complete Pending Pending
+Food Service Complete Complete Pending Pending
+Audit
+Interim Fieldwork Complete In process Pending Pending
+Final Fieldwork Complete Schedule early April Pending Pending
+Single Audit Complete Part of final Fieldwork Pending Pending
+Tax Filings Complete Current n/a n/a
+*Complete indicates through June 30th, the year then ended.
+Certified Budget Complete In Process (Curt Pratt) n/a n/a
+The schedule 941 has been reconciled and filed for 1st Qtr 2026. Iowa will be filed April 10th.
+A $112.02 variance was noted on the schedule 941. The error was a result of a correction of a 2025 w-2 that
+was correct in the payroll subsidiary ledger detail and prior year reports, but deducted from the January payroll register totals
+resulting in understatement of the Social Security and Medicare tax liabilities. We have notified Software Unlimited with the issue
+in the report, and added a manual recalculation to the monthly reconciliations between the register totals and the 941 totals as an
+additional review moving forward. The variance is minimal, and unlikely to result in penalty or notice by the IRS since total
+penalty would be less than $15. total tax liability for the quarter was $8.5MM The process change will be implemented with the
+first payroll of Q2. We have also changed procedures as of January 1st for how these transactions crossing fiscal years are
+processed to prevent negative a negative form W-2 moving forward.
+We have started daily cash monitoring to assist in both cash management and reconciliations. All cash receipts and checks are
+now being cleared on a daily basis to promptly identify any variances between ledger and bank, as well as providing more current
+information for monitoring cash position
+We have begun the process of correcting the accounts receivable aging. The Accounts receivable ledger dating back to at least
+2022 has been inconsistently applied, where the same "department" code was not used for both the receivable, and the receipt,
+resulting in customers with no account balance due, but balances due listed as 180+ past current.
+In conjunction with the daily cash monitoring noted above and cleanup of the AR aging schedule, Accounts receivable is
+conducting a monthly review of the cash receipts journal for items that should have been applied to a receivable balance, to
+assist in AR accuracy, and past due collection efforts.
+The audit appears to be on on schedule. We have been working with the auditors for ongoing requests for documentation
+required as part of the audit fieldwork. Known outstanding adjustments at this time include an adjustment to the insurance claims
+payable, contingent on the 509a expected early next week. The adjustment would result in a likely immaterial change to claims
+expense for the fiscal year. Per meeting with the auditors, they believe the audit is moving along well.
+In order to improve capital project and asset reporting during the year, we have begun conversations with the COO on
+implementing a formal fixed asset module within our ERP. Formal initial planning will take place in late May or early June to
+outline procedures for departments impacted (Facilities, Nutritional Service and accounts payable).

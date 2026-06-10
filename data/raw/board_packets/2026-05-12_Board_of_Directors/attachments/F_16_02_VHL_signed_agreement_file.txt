@@ -1,0 +1,57 @@
+Iowa
+This Student Data Privacy Agreement (“DPA”) is entered into on the date of full execution (the
+“Effective Date”) and is entered into by and between: Indianola Community School District (the
+“Local Education Agency” or “LEA”) and Vista Higher Learning, Inc. (the “Provider”).
+WHEREAS, the Provider is providing educational or digital services to LEA.
+WHEREAS, the Provider and LEA recognize the need to protect personally identifiable student
+information and other regulated data exchanged between them as required by applicable laws
+and regulations, such as the Family Educational Rights and Privacy Act (“FERPA”) at 20 U.S.C.
+§ 1232g (34 CFR Part 99); the Children’s Online Privacy Protection Act (“COPPA”) at 15
+U.S.C. § 6501-6506 (16 CFR Part 312), applicable state privacy laws and regulations and
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s
+Services are also subject to several state laws in Iowa. Specifically, those laws include Iowa
+Code §§ 22; Iowa Code §§ 715C, 281 I.A.C. 12.3(4); 41; and
+WHEREAS, the Provider and LEA desire to enter into this DPA for the purpose of establishing
+their respective obligations and duties in order to comply with applicable laws and regulations.
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. Provider agrees to offer the LEA all the same terms and conditions found in the
+MA-ME-MO-NH-NY-OH-RI-VT-VA-DPA, Modified Version 1.0, Data Privacy
+Agreement between the Provider and Pattonville R-III School District (“Originating
+LEA”) which is dated October 2, 2024 (“Originating DPA”). The terms and conditions of
+the Originating DPA are thus incorporated herein.
+2. Provider additionally agrees to the following additional terms, which will control in the
+event of a conflict between the DPA and the Originating DPA:
+a. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required”
+and delete “or stated in the Service Agreement.”
+b. All employees of the Provider who will have direct contact with students shall pass
+criminal background checks.
+c. In Article V, Section 1 Data Storage: Iowa does not require all Student Data to be
+stored within the United States.
+d. In Exhibit “C” add to the definition of “Student Data” significant information on
+progress and growth, experiences, interests, aptitudes, attitudes, abilities, part-time
+employment, and future plans.
+3. Provider may, by signing the attached form of “General Offer of Privacy Terms” be bound
+by the terms of the General Offer of Privacy Terms to any other LEA who signs the
+acceptance on said Offer. The form is limited by the terms and conditions described therein.
+4. Notices. All notices or other communication required or permitted to be given pursuant to
+the Originating DPA may be given for the LEA via e-mail transmission, or first-class mail,
+sent to the designated representatives below.
+
+The designated representative for the Provider for this DPA is:
+Name: _J_as_o_n_ A_._ J_o_rd_a_n__________________ Title: _E_V_P_ T_e_c_h_no_l_og_y_________________
+Address: _5_00_ _B_o_yl_st_o_n _S_tr_e_et_, _10_t_h_ F_lo_o_r,_ B_o_s_to_n_ M_A_ _0_21_1_6____________________________
+Email: _jj_or_d_an_@__v_is_ta_h_ig_h_e_rle_a_rn_i_ng_._co_m______________ Phone: _9_78_-_7_64_-_3_38_7___________
+The designated representative for the LEA for this DPA is:
+Ray Coffey, Technology Director
+1301 East Second Avenue, Indianola, IA 50125
+(515) 961-9500 ext. 1512 ray.coffey@indianola.k12.ia.us
+Iowa City Community School District
+By: _________________________________________________
+Date: ____________________
+Printed Name: ________________________________________
+Title/Position: _________________________________________
+Vista Higher Learning, Inc.
+By: _________________________________________________
+Date: _0_9/_2_5_/2_5______________
+Printed Name: _J_as_o_n_ A_._ J_o_rd_a_n_____________________________
+Title/Position: _E_V_P_ T_e_c_h_no_l_og_y_____________________________

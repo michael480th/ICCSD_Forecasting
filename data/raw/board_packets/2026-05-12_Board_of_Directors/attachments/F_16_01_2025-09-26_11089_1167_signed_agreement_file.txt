@@ -1,0 +1,1219 @@
+Iowa
+This Student Data Privacy Agreement (“DPA”) is entered into on the date of full execution (the
+“Effective Date”) and is entered into by and between: Indianola Community School District (the
+“Local Education Agency” or “LEA”) and Vista Higher Learning, Inc. (the “Provider”).
+WHEREAS, the Provider is providing educational or digital services to LEA.
+WHEREAS, the Provider and LEA recognize the need to protect personally identifiable student
+information and other regulated data exchanged between them as required by applicable laws
+and regulations, such as the Family Educational Rights and Privacy Act (“FERPA”) at 20 U.S.C.
+§ 1232g (34 CFR Part 99); the Children’s Online Privacy Protection Act (“COPPA”) at 15
+U.S.C. § 6501-6506 (16 CFR Part 312), applicable state privacy laws and regulations and
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s
+Services are also subject to several state laws in Iowa. Specifically, those laws include Iowa
+Code §§ 22; Iowa Code §§ 715C, 281 I.A.C. 12.3(4); 41; and
+WHEREAS, the Provider and LEA desire to enter into this DPA for the purpose of establishing
+their respective obligations and duties in order to comply with applicable laws and regulations.
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. Provider agrees to offer the LEA all the same terms and conditions found in the
+MA-ME-MO-NH-NY-OH-RI-VT-VA-DPA, Modified Version 1.0, Data Privacy
+Agreement between the Provider and Pattonville R-III School District (“Originating
+LEA”) which is dated October 2, 2024 (“Originating DPA”). The terms and conditions of
+the Originating DPA are thus incorporated herein.
+2. Provider additionally agrees to the following additional terms, which will control in the
+event of a conflict between the DPA and the Originating DPA:
+a. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required”
+and delete “or stated in the Service Agreement.”
+b. All employees of the Provider who will have direct contact with students shall pass
+criminal background checks.
+c. In Article V, Section 1 Data Storage: Iowa does not require all Student Data to be
+stored within the United States.
+d. In Exhibit “C” add to the definition of “Student Data” significant information on
+progress and growth, experiences, interests, aptitudes, attitudes, abilities, part-time
+employment, and future plans.
+3. Provider may, by signing the attached form of “General Offer of Privacy Terms” be bound
+by the terms of the General Offer of Privacy Terms to any other LEA who signs the
+acceptance on said Offer. The form is limited by the terms and conditions described therein.
+4. Notices. All notices or other communication required or permitted to be given pursuant to
+the Originating DPA may be given for the LEA via e-mail transmission, or first-class mail,
+sent to the designated representatives below.
+
+The designated representative for the Provider for this DPA is:
+Name: _J_as_o_n_ A_._ J_o_rd_a_n__________________ Title: _E_V_P_ T_e_c_h_no_l_og_y_________________
+Address: _5_00_ _B_o_yl_st_o_n _S_tr_e_et_, _10_t_h_ F_lo_o_r,_ B_o_s_to_n_ M_A_ _0_21_1_6____________________________
+Email: _jj_or_d_an_@__v_is_ta_h_ig_h_e_rle_a_rn_i_ng_._co_m______________ Phone: _9_78_-_7_64_-_3_38_7___________
+The designated representative for the LEA for this DPA is:
+Ray Coffey, Technology Director
+1301 East Second Avenue, Indianola, IA 50125
+(515) 961-9500 ext. 1512 ray.coffey@indianola.k12.ia.us
+Indianola Community School District
+By: _________________________________________________
+Date: _0_9_/2_5_/_2_0_25____________
+Printed Name: _R_a_y_ C_o_f_fe_y________________________________
+Title/Position: _D_i_re_c_t_o_r _o_f _T_ec_h_n_o_l_o_g_y_______________________
+Vista Higher Learning, Inc.
+By: _________________________________________________
+Date: _0_9/_2_5_/2_5______________
+Printed Name: _J_as_o_n_ A_._ J_o_rd_a_n_____________________________
+Title/Position: _E_V_P_ T_e_c_h_no_l_og_y_____________________________
+
+STANDARD STUDENT DATA PRIVACY AGREEMENT
+MASSACHUSETTS, MAINE, MISSOURI, NEW HAMPSHIRE, NEW YORK, OHIO,
+RHODE ISLAND, VERMONT, AND VIRGINIA
+MA-ME-MO-NH-NY-OH-RI-VT-VA-DPA, Modified Version 1.0
+Pattonville R-III School District
+and
+Vista Higher Learning, Inc.
+docs\EDU002\00023\1382439.v1-9/10/24 1
+
+This Student Data Privacy Agreement (“DPA”) is entered into on the date of full execution (the “Effective Date”)
+and is entered into by and between: Pattonville R-III School District, located at 11097 St. Charles Rock Road, St.
+Ann, MO 63074 USA (the “Local Education Agency” or “LEA”) and Vista Higher Learning, Inc., located at 500
+Boylston Street, Suite 620, Boston, MA 02116 USA (the “Provider”).
+WHEREAS, the Provider isproviding educational or digital servicesto LEA.
+WHEREAS, the Provider and LEA recognize the need to protect personally identifiable student information and
+other regulated data exchanged between them as required by applicable laws and regulations, such as the
+Family Educational Rights and Privacy Act (“FERPA”) at 20 U.S.C. § 1232g (34 CFR Part 99); the Children’s Online Privacy
+PPrriovtaeccyt ion Act (“COPPA”) at 15 U.S.C. § 6501-6506 (16 CFR Part 312), applicable state privacy laws and regulations
+and
+WHEREAS, the Provider and LEA desire to enter into this DPA for the purpose of establishing their respective
+obligations and duties in order to comply with applicable laws and regulations.
+NOW THEREFORE, for good and valuable consideration, LEA and Provider agree as follows:
+1. A description of the Services to be provided, the categories of Student Data that may be provided by LEA
+to Provider, and other information specific to this DPA are contained in the Standard Clauses hereto.
+2. Special Provisions. Check if Required
+ If checked, the Supplemental State Terms and attached hereto as Exhibit “G” are hereby
+incorporated by reference into this DPA in their entirety.
+ If Checked, the Provider, has signed Exhibit “E” to the Standard Clauses, otherwise known as
+General Offer of Privacy Terms
+3. In the event of a conflict between the SDPC Standard Clauses, the State or Special Provisions will control.
+In the event there is conflict between the terms of the DPA and any other writing, including, but not
+limited to the Service Agreement and Provider Terms of Service or Privacy Policy the terms of this DPA
+shall control.
+4. This DPA shall stay in effect for three years. Exhibit E will expire 3 years from the date the original DPA
+was signed.
+5. The services to be provided by Provider to LEA pursuant to this DPA are detailed in Exhibit “A” (the
+“Services”).
+6. Notices. All notices or other communication required or permitted to be given hereunder may be given
+via e-mail transmission, or first-class mail, sent to the designated representatives below.
+docs\EDU002\00023\1382439.v1-9/10/24 2
+
+The designated representative for the Provider for this DPA is:
+Name: Jason Jordan Title: EVP, Technology
+Address: 500 Boylston Street, Suite 620, Boston MA 02116
+Phone: (800) 269-6311
+Email: jjordan@vistahigherlearning.com
+The designated representative for the LEA for this DPA is:
+Greg Southard, Director of Technology
+11097 St. Charles Rock Road, St. Ann, MO 63074
+(314) 213-8152
+gsouthard@psdr3.org
+IN WITNESS WHEREOF, LEA and Provider execute this DPA as of the Effective Date.
+Pattonville R-III School District
+By: Tammy Hasheider (Oct 2, 2024 08:41 CDT)
+Date: 10/02/24
+Printed Name: Tammy Hasheider
+Title/Position: Assistant Director of Technology
+Vista Higher Learning, Inc.
+By:
+Date: 10/1/2024
+Printed Name: Jason Jordan
+Title/Position: EVP, Technology
+docs\EDU002\00023\1382439.v1-9/10/24 3
+
+STANDARD CLAUSES
+Version 1.0
+ARTICLE I: PURPOSE AND SCOPE
+1. Purpose of DPA. The purpose of this DPA is to describe the duties and responsibilities to protect Student
+Data including compliance with all applicable federal, state, and local privacy laws, rules, and regulations,
+all as may be amended from time to time. In performing these services, the Provider shall be considered
+a School Official with a legitimate educational interest, and performing services otherwise provided by the
+LEA. Provider shall be under the direct control and supervision of the LEA, with respect to its use of Student
+Data
+2. Student Data to Be Provided. In order to perform the Services described above, LEA shall provide
+Student Data as identified in the Schedule of Data, attached hereto as Exhibit “B”.
+3. DPA Definitions. The definition of terms used in this DPA is found in Exhibit “C”. In the event of a conflict,
+definitions used in this DPA shall prevail over terms used in any other writing, including, but not limited
+to the Service Agreement, Terms of Service, Privacy Policies etc.
+ARTICLE II: DATA OWNERSHIP AND AUTHORIZED ACCESS
+1. Student Data Property of LEA. All Student Data transmitted to the Provider pursuant to the Service
+Agreement is and will continue to be the property of and under the control of the LEA. The Provider further
+acknowledges and agrees that all copies of such Student Data transmitted to the Provider, including any
+modifications or additions or any portion thereof from any source, are subject to the provisions of this
+DPA in the same manner as the original Student Data. The Parties agree that as between them, all rights,
+including all intellectual property rights in and to Student Data contemplated per the Service Agreement,
+shall remain the exclusive property of the LEA. For the purposes of FERPA, the Provider shall be considered
+a School Official, under the control and direction of the LEA as it pertains to the use of Student Data,
+notwithstanding the above.
+2. Parent Access. To the extent required by law the LEA shall establish reasonable procedures by which a
+parent, legal guardian, or eligible student may review Education Records and/or Student Data correct
+erroneous information, and procedures for the transfer of student-generated content to a personal
+account, consistent with the functionality of services. Provider shall respond in a reasonably timely
+manner (and no later than forty five (45) days from the date of the request or pursuant to the time frame
+required under state law for an LEA to respond to a parent or student, whichever is sooner) to the LEA’s
+request for Student Data in a student’s records held by the Provider to view or correct as necessary. In
+the event that a parent of a student or other individual contacts the Provider to review any of the Student
+Data accessed pursuant to the Services, the Provider shall refer the parent or individual to the LEA, who
+will follow the necessary and proper procedures regarding the requested information.
+3. Separate Account. If Student-Generated Content is stored or maintained by the Provider, Provider shall,
+at the request of the LEA, transfer, or provide a mechanism for the LEA to transfer, said Student-
+Generated Content to a separate account created by the student: provided, however, such transfer shall
+only apply to the extent consistent with the functionality of the Services and to Student Generated
+Content that is severable from the Service and can be transferred.
+docs\EDU002\00023\1382439.v1-9/10/24 4
+
+4. Law Enforcement Requests. Should law enforcement or other government entities (“Requesting
+Party(ies)”) contact Provider with a request for Student Data held by the Provider pursuant to the Services,
+the Provider shall notify the LEA in advance of a compelled disclosure to the Requesting Party, unless
+lawfully directed by the Requesting Party not to inform the LEA of the request, or otherwise legally
+prohibited from so informing the LEA of the request.
+5. Subprocessors. Provider shall enter into written agreements with all Subprocessors performing functions
+for the Provider in order for the Provider to provide the Services pursuant to the Service Agreement,
+whereby the Subprocessors agree to protect Student Data in a manner no less stringent than the terms
+of this DPA.
+ARTICLE III: DUTIES OF LEA
+1. Provide Data in Compliance with Applicable Laws. LEA shall provide Student Data for the purposes of
+obtaining the Services in compliance with all applicable federal, state, and local privacy laws, rules, and
+regulations, all as may be amended from time to time.
+2. Annual Notification of Rights. If the LEA has a policy of disclosing Education Records and/or Student
+Data under FERPA (34 CFR § 99.31(a)(1)), LEA shall include a specification of criteria for determining who
+constitutes a school official and what constitutes a legitimate educational interest in its annual
+notification of rights.
+3. Reasonable Precautions. LEA shall take reasonable precautions to secure usernames, passwords, and
+any other means of gaining access to the services and hosted Student Data.
+4. Unauthorized Access Notification. LEA shall notify Provider promptly of any known unauthorized access.
+LEA will assist Provider in any efforts by Provider to investigate and respond to any unauthorized access.
+ARTICLE IV: DUTIES OF PROVIDER
+1. Privacy Compliance. The Provider shall comply with all applicable federal, state, and local laws, rules, and
+regulations pertaining to Student Data privacy and security, all as may be amended from time to time.
+2. Authorized Use. The Student Data shared pursuant to the Service Agreement, including persistent unique
+identifiers, shall be used for no purpose other than the Services outlined in Exhibit A or stated in the
+Service Agreement and/or otherwise authorized under the statutes referred to herein this DPA.
+3. Provider Employee Obligation. Provider shall require all of Provider’s employees and agents who have
+access to Student Data to comply with all applicable provisions of this DPA with respect to the Student
+Data shared under the Service Agreement. Provider agrees to require and maintain an appropriate
+confidentiality agreement from each employee or agent with access to Student Data pursuant to the
+Service Agreement.
+4. No Disclosure. Provider acknowledges and agrees that it shall not make any re-disclosure of any Student
+Data or any portion thereof, including without limitation, user content or other non-public information
+and/or personally identifiable information contained in the Student Data other than as directed or
+docs\EDU002\00023\1382439.v1-9/10/24 5
+
+permitted by the LEA or this DPA. This prohibition against disclosure shall not apply to aggregate
+summaries of De-Identified information, Student Data disclosed pursuant to a lawfully issued subpoena
+or other legal process, or to subprocessors performing services on behalf of the Provider pursuant to this
+DPA. Provider will not Sell Student Data to any third party.
+5. De-Identified Data: Provider agrees not to attempt to re-identify de-identified Student Data. De-Identified
+Data may be used by the Provider for those purposes allowed under FERPA and the following purposes:
+(1) assisting the LEA or other governmental agencies in conducting research and other studies; and (2)
+research and development of the Provider's educational sites, services, or applications, and to
+demonstrate the effectiveness of the Services; and (3) for adaptive learning purpose and for customized
+student learning. Provider's use of De-Identified Data shall survive termination of this DPA or any request
+by LEA to return or destroy Student Data. Except for Subprocessors, Provider agrees not to transfer de-
+identified Student Data to any party (other than summary aggregated, de-identified Student Data that is not
+associated with any particular students, e.g. “ 70% of students who used VHL did X,”) unless (a) that party agrees in
+writing not to attempt re-identification, and (b) prior written notice has been given to the LEA who has
+provided prior written consent for such transfer. Prior to publishing any document that names the LEA
+explicitly or indirectly, the Provider shall obtain the LEA’s written approval of the manner in which de-
+identified data is presented.
+6. Disposition of Data. Upon written request from the LEA, Provider shall dispose of Student Data obtained
+under the Service Agreement, within sixty (60) days of the date of said request and according to a schedule
+and procedure as the Parties may reasonably agree. Upon termination of this DPA, receipt of written
+request from the LEA, Provider shall dispose of all Student Data. The duty to dispose of Student Data shall
+not extend to Student Data that had been De-Identified or placed in a separate student account pursuant
+to section II 3. The LEA may employ a “Directive for Disposition of Data” form, a copy of which is attached
+hereto as Exhibit “D”. If the LEA and Provider employ Exhibit “D,” written request or notice is required as
+provided herein prior to the disposition of Student Data described in Exhibit “D.
+7. Advertising Limitations. Provider is prohibited from using, disclosing, or selling Student Data to (a) inform,
+influence, or enable Targeted Advertising; or (b) develop a profile of a student, family member/guardian
+or group, for any purpose other than providing the Service to LEA. This section does not prohibit Provider
+from using Student Data (i) for adaptive learning or customized student learning (including generating
+personalized learning recommendations); or (ii) to make product recommendations to teachers or LEA
+employees; or (iii) to notify account holders about new education product updates, features, or services
+or from otherwise using Student Data as permitted in this DPA and its accompanying exhibits
+ARTICLE V: DATA PROVISIONS
+1. Data Storage. Where required by applicable law, Student Data shall be stored within the United States.
+Upon request of the LEA, Provider will provide a list of the locations where Student Data is stored.
+2. Audits. No more than once a year, or following unauthorized access, upon receipt of a written request
+from the LEA with at least ten (10) business days’ notice and upon the execution of an appropriate
+confidentiality agreement, the Provider will allow the LEA to audit the security and privacy measures that
+are in place to ensure protection of Student Data or any portion thereof as it pertains to the delivery of
+services to the LEA . The Provider will cooperate reasonably with the LEA and any local, state, or federal
+docs\EDU002\00023\1382439.v1-9/10/24 6
+
+agency with oversight authority or jurisdiction in connection with any audit or investigation of the Provider
+and/or delivery of Services to students and/or LEA, and shall provide reasonable access to the Provider’s
+facilities, staff, agents and LEA’s Student Data and all records pertaining to the Provider, LEA and delivery
+of Services to the LEA. Failure to reasonably cooperate shall be deemed a material breach of the DPA.
+3. Data Security. The Provider agrees to utilize reasonable administrative, physical, and technical safeguards
+designed to protect Student Data from unauthorized access, disclosure, acquisition, destruction, use, or
+modification. The Provider shall adhere to any applicable law relating to data security. The provider shall
+implement an adequate Cybersecurity Framework based on one of the nationally recognized standards
+set forth in Exhibit “F”. Notwithstanding the foregoing, Provider agrees to comply with AICPA System and
+Organization Controls (SOC) 2, Type 2 standards Additionally, Provider may choose to further detail its
+security programs and measures that augment or are in addition to the Cybersecurity Framework in
+Exhibit “F”. Provider shall provide, in the Standard Schedule to the DPA, contact information of an
+employee who LEA may contact if there are any data security concerns or questions.
+4. Data Breach. In the event of an unauthorized release, disclosure or acquisition of Student Data that
+compromises the security, confidentiality or integrity of the Student Data maintained by the Provider the
+Provider shall provide notification to LEA within seventy-two (72) hours of confirmation of the incident,
+unless notification within this time limit would disrupt investigation of the incident by law enforcement.
+In such an event, notification shall be made within a reasonable time after the incident. Provider shall
+follow the following process:
+(1) The security breach notification described above shall include, at a minimum, the following
+information to the extent known by the Provider and as it becomes available:
+i. The name and contact information of the reporting LEA subject to this section.
+ii. A list of the types of personal information that were or are reasonably believed to have
+been the subject of a breach.
+iii. If the information is possible to determine at the time the notice is provided, then either
+(1) the date of the breach, (2) the estimated date of the breach, or (3) the date range
+within which the breach occurred. The notification shall also include the date of the
+notice.
+iv. Whether the notification was delayed as a result of a law enforcement investigation, if
+that information is possible to determine at the time the notice is provided; and
+v. A general description of the breach incident, if that information is possible to determine
+at the time the notice is provided.
+(2) Provider agrees to adhere to all federal and state requirements applicable to Provider with respect
+to a data breach related to the Student Data, including, when appropriate or required, the required
+responsibilities and procedures for notification and mitigation of any such data breach.
+(3) Provider further acknowledges and agrees to have a written incident response plan that is
+consistent with industry standards and federal and state law for responding to a data breach,
+breach of security, privacy incident or unauthorized acquisition or use of Student Data or any
+portion thereof, including personally identifiable information and agrees to provide LEA, upon
+request, with a summary of said written incident response plan.
+docs\EDU002\00023\1382439.v1-9/10/24 7
+
+(4) LEA shall provide notice and facts surrounding the breach to the affected students, parents or
+guardians.
+(5) In the event of a breach originating from LEA’s use of the Service, Provider shall cooperate with
+LEA to the extent necessary to expeditiously secure Student Data, but shall not bear any
+financial responsibility in doing so., other than its internal time and resources in the course of
+such cooperation.
+ARTICLE VI: GENERAL OFFER OF TERMS
+Provider may, by signing the attached form of “General Offer of Privacy Terms” (General Offer, attached hereto
+as Exhibit “E”), be bound by the terms of Exhibit “E” to any other LEA who signs the acceptance on said Exhibit.
+The form is limited by the terms and conditions described therein.
+ARTICLE VII: MISCELLANEOUS
+1. Termination. In the event that either Party seeks to terminate this DPA, they may do so by mutual written
+consent so long as the Service Agreement has lapsed or has been terminated. Either party may terminate
+this DPA and any service agreement or contract if the other party breaches any terms of this DPA, which
+is not cured within 30 days prior written notice of such breach.
+2. Effect of Termination Survival. If the Service Agreement is terminated, , then upon written notice, the
+Provider shall destroy all of LEA’s Student Data pursuant to Article IV, section 6.
+3. Priority of Agreements. This DPA shall govern the treatment of Student Data in order to comply with the
+privacy protections, including those found in FERPA and all applicable privacy statutes identified in this
+DPA. In the event there is conflict between the terms of the DPA and the Service Agreement, Terms of
+Service, Privacy Policies, or with any other bid/RFP, license agreement, or writing, the terms of this DPA
+shall apply and take precedence. In the event of a conflict between the SDPC Standard Clauses and the
+Supplemental State Terms, the Supplemental State Terms will control. Except as described in this
+paragraph herein, all other provisions of the Service Agreement shall remain in effect.
+4. Entire Agreement. This DPA and the Service Agreement constitute the entire agreement of the Parties
+relating to the subject matter hereof and supersedes all prior communications, representations, or
+agreements, oral or written, by the Parties relating thereto. This DPA may be amended and the observance
+of any provision of this DPA may be waived (either generally or in any particular instance and either
+retroactively or prospectively) only with the signed written consent of both Parties. Neither failure nor
+delay on the part of any Party in exercising any right, power, or privilege hereunder shall operate as a
+waiver of such right, nor shall any single or partial exercise of any such right, power, or privilege preclude
+any further exercise thereof or the exercise of any other right, power, or privilege.
+docs\EDU002\00023\1382439.v1-9/10/24 8
+
+5. Severability. Any provision of this DPA that is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating
+the remaining provisions of this DPA, and any such prohibition or unenforceability in any jurisdiction shall
+not invalidate or render unenforceable such provision in any other jurisdiction. Notwithstanding the
+foregoing, if such provision could be more narrowly drawn so as not to be prohibited or unenforceable in
+such jurisdiction while, at the same time, maintaining the intent of the Parties, it shall, as to such
+jurisdiction, be so narrowly drawn without invalidating the remaining provisions of this DPA or affecting
+the validity or enforceability of such provision in any other jurisdiction.
+6. Governing Law; Venue and Jurisdiction. THIS DPA WILL BE GOVERNED BY AND CONSTRUED IN
+ACCORDANCE WITH THE LAWS OF THE STATE OF THE LEA, WITHOUT REGARD TO CONFLICTS OF LAW
+PRINCIPLES. EACH PARTY CONSENTS AND SUBMITS TO THE SOLE AND EXCLUSIVE JURISDICTION TO THE
+STATE AND FEDERAL COURTS FOR THE COUNTY OF THE LEA FOR ANY DISPUTE ARISING OUT OF OR
+RELATING TO THIS DPA OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+7. Successors Bound: This DPA is and shall be binding upon the respective successors in interest to Provider
+in the event of a merger, acquisition, consolidation or other business reorganization or sale of all or
+substantially all of the assets of such business In the event that the Provider sells, merges, or otherwise
+disposes of its business to a successor during the term of this DPA, the Provider shall provide written
+notice to the LEA no later than sixty (60) days after the closing date of sale, merger, or disposal. Such
+notice shall include a written, signed assurance that the successor will assume the obligations of the DPA
+and any obligations with respect to Student Data within the Service Agreement. The LEA has the authority
+to terminate the DPA if it in good faith, reasonably disapproves of the successor to whom the Provider is
+selling, merging, or otherwise disposing of its business, and provides its objections in writing to Provider.
+8. Authority. Each party represents that it is authorized to bind to the terms of this DPA, including
+confidentiality and destruction of Student Data and any portion thereof contained therein, all related or
+associated institutions, individuals, employees or contractors who may have access to the Student Data
+and/or any portion thereof.
+9. Waiver. No delay or omission by either party to exercise any right hereunder shall be construed as a waiver
+of any such right and both parties reserve the right to exercise any such right from time to time, as often
+as may be deemed expedient.
+docs\EDU002\00023\1382439.v1-9/10/24 9
+
+EXHIBIT “A”
+DESCRIPTION OF SERVICES
+Vista Higher Learning, a digital platform specifically designed to make language learning and
+literacy instruction engaging and effective for both teachers and students. The programs target
+students acquiring a new language, strengthening their second language, or improving their
+native language skills.
+docs\EDU002\00023\1382439.v1-9/10/24 10
+
+EXHIBIT “B”
+SCHEDULE OF DATA
+Check if Used by
+Category of Data Elements
+Your System
+Application Technology IP Addresses of users, Use of cookies, etc. X
+Meta Data
+Other application technology meta data-Please specify:
+Application Use Statistics Meta data on user interaction with application X
+Assessment Standardized test scores
+Observation data
+Other assessment data-Please specify: Practice quizzes X
+Attendance Student school (daily) attendance data
+Student class attendance data
+Communications Online communications captured (emails, blog entries) Optional online X
+chats and forums
+Conduct Conduct or behavioral data
+Demographics Date of Birth X
+Place of Birth
+Gender
+Ethnicity or race
+Language information (native, or primary language spoken by student)
+Other demographic information-Please specify:
+Enrollment Student school enrollment
+Student grade level
+Homeroom
+Guidance counselor
+Specific curriculum programs
+Year of graduation
+Other enrollment information-Please specify:
+Parent/Guardian Contact Address
+Information
+Email
+Phone
+Parent/Guardian ID Parent ID number (created to link parents to students)
+docs\EDU002\00023\1382439.v1-9/10/24 11
+
+Check if Used by
+Category of Data Elements
+Your System
+Parent/Guardian Name First and/or Last
+Schedule Student scheduled courses
+X
+Teacher names
+Special Indicator English language learner information
+Low income status
+Medical alerts/ health data
+Student disability information
+Specialized education services (IEP or 504)
+Living situations (homeless/foster care)
+Other indicator information-Please specify:
+Student Contact Address
+Information
+X
+Email
+Phone
+Student Identifiers Local (School district) ID number X
+State ID number
+X
+Provider/App assigned student ID number
+X
+Student app username
+X
+Student app passwords
+Student Name First and/or Last X
+Student In App Program/application performance (typing program-student types 60 X
+Performance wpm, reading program-student reads below grade level)
+Student Program Academic or extracurricular activities a student may belong to or
+Membership participate in
+Student Survey Responses Student responses to surveys or questionnaires
+Student work Student generated content; writing, pictures, etc.
+Other student work data -Please specify: Activity responses and scores X
+Transcript Student course grades
+Student course data
+Student course grades/ performance scores
+Other transcript data - Please specify:
+Transportation Student bus assignment
+docs\EDU002\00023\1382439.v1-9/10/24 12
+
+Check if Used by
+Category of Data Elements
+Your System
+Student pick up and/or drop off location
+Student bus card ID number
+Other transportation data – Please specify:
+Other Please list each additional data element used, stored, or collected by
+your application:
+None
+No Student Data collected at this time. Provider will immediately
+notify LEA if this designation is no longer applicable.
+docs\EDU002\00023\1382439.v1-9/10/24 13
+
+EXHIBIT “C”
+DEFINITIONS
+De-Identified Data and De-Identification: Records and information are considered to be de-identified when all
+personally identifiable information has been removed or obscured, such that the remaining information does not
+reasonably identify a specific individual, including, but not limited to, any information that, alone or in
+combination is linkable to a specific student and provided that the educational agency, or other party, has made
+a reasonable determination that a student’s identity is not personally identifiable, taking into account reasonable
+available information.
+Educational Records: Educational Records are records, files, documents, and other materials directly related to a
+student and maintained by the school or local education agency, or by a person acting for such school or local
+education agency, including but not limited to, records encompassing all the material kept in the student’s
+cumulative folder, such as general identifying data, records of attendance and of academic work completed,
+records of achievement, and results of evaluative tests, health data, disciplinary status, test protocols and
+individualized education programs.
+Metadata: means information that provides meaning and context to other data being collected; including, but not
+limited to: date and time records and purpose of creation Metadata that have been stripped of all direct and
+indirect identifiers are not considered Personally Identifiable Information.
+Operator: means the operator of an internet website, online service, online application, or mobile application with
+actual knowledge that the site, service, or application is used for K–12 school purposes. Any entity that operates
+an internet website, online service, online application, or mobile application that has entered into a signed, written
+agreement with an LEA to provide a service to that LEA shall be considered an “operator” for the purposes of this
+section.
+Originating LEA: An LEA who originally executes the DPA in its entirety with the Provider.
+Provider: For purposes of the DPA, the term “Provider” means provider of digital educational software or services,
+including cloud-based services, for the digital storage, management, and retrieval of Student Data. Within the DPA
+the term “Provider” includes the term “Third Party” and the term “Operator” as used in applicable state statutes.
+Sell: The term “sell” as used in this DPA does not include or apply to a purchase, merger or other type of acquisition
+of a company by another entity, provided that the company or successor entity continue to treat the personally
+identifiable information in the Student Data in a manner consistent with this DPA with respect to the previously
+acquired personally identifiable information contained in the Student Data. Sell also does not include sharing,
+transferring or disclosing Student Data with a Subprocessor that is necessary to perform a business purpose (such
+as detecting security incidents, debugging and repairing, analytics, storage or other processing activities) provided
+that the Subprocessor does not sell the Student Data except as necessary to perform the business purpose.
+Provider is also not “selling” personally identifiable information if (i) a user directs Provider to intentionally
+disclose Student Data (provided that Provider shall notify the LEA in advance, to the extent permitted by applicable
+law) or (ii) a parent or other user (with parental consent) purchases Student Data (e.g. enhanced reports).
+Student Generated Content: The term “student-generated content” means materials or content created by a
+student in the services including, but not limited to, essays, research reports, portfolios, creative writing, music or
+other audio files, photographs, videos, and account information that enables ongoing ownership of student
+content.
+School Official: For the purposes of this DPA and pursuant to 34 CFR § 99.31(b), a School Official is a contractor
+that: (1) Performs an institutional service or function for which the agency or institution would otherwise use
+docs\EDU002\00023\1382439.v1-9/10/24 14
+
+employees; (2) Is under the direct control of the agency or institution with respect to the use and maintenance of
+Student Data including Education Records; and (3) Is subject to 34 CFR § 99.33(a) governing the use and re-
+disclosure of personally identifiable information from Education Records.
+Service Agreement: Refers to the Contract, Purchase Order or Terms of Service or Terms of Use.
+Student Data: Student Data includes any data, whether gathered by Provider or provided by LEA or its users,
+students, or students’ parents/guardians, that is descriptive of the student including, but not limited to,
+information in the student’s educational record or email, first and last name, birthdate, home or other physical
+address, telephone number, email address, or other information allowing physical or online contact, discipline
+records, videos, test results, special education data, juvenile dependency records, grades, evaluations, criminal
+records, medical records, health records, social security numbers, biometric information, disabilities,
+socioeconomic information, individual purchasing behavior or preferences, food purchases, political affiliations,
+religious information, text messages, documents, student identifiers, search activity, photos, voice recordings,
+geolocation information, parents’ names, or any other information or identification number that would provide
+information about a specific student. Student Data includes Meta Data. Student Data further includes “personally
+identifiable information (PII),” as defined in 34 C.F.R. § 99.3 and as defined under any applicable state law. Student
+Data shall constitute Education Records for the purposes of this DPA, and for the purposes of federal, state, and
+local laws and regulations. Student Data as specified in Exhibit “B” is confirmed to be collected or processed by
+the Provider pursuant to the Services. Student Data shall not constitute that information that has been
+anonymized or de-identified, or anonymous usage data regarding a student’s use of Provider’s services.
+Subprocessor: For the purposes of this DPA, the term “Subprocessor” (sometimes referred to as the
+“Subcontractor”) means a party other than LEA or Provider, who Provider uses for data collection, analytics,
+storage, or other service to operate and/or improve its service, and who has access to Student Data.
+Subscribing LEA: An LEA that was not party to the original Service Agreement and who accepts the Provider’s
+General Offer of Privacy Terms.
+Targeted Advertising: means presenting an advertisement to a student where the selection of the advertisement
+is based on Student Data or inferred over time from the usage of the operator's Internet web site, online service
+or mobile application by such student or the retention of such student's online activities or requests over time for
+the purpose of targeting subsequent advertisements. "Targeted advertising" does not include any advertising to
+a student on an Internet web site based on the content of the web page or in response to a student's response or
+request for information or feedback. "Targeted advertising" does not include any advertising to a student on an
+Internet web site based on the content of the web page or in response to a student's response or request for
+information or feedback.
+Third Party: The term “Third Party” means a provider of digital educational software or services, including cloud-
+based services, for the digital storage, management, and retrieval of Education Records and/or Student Data, as
+that term is used in some state statutes. However, for the purpose of this DPA, the term “Third Party” when used
+to indicate the provider of digital educational software or services is replaced by the term “Provider.”
+docs\EDU002\00023\1382439.v1-9/10/24 15
+
+EXHIBIT “D”
+DIRECTIVE FOR DISPOSITION OF DATA
+[Insert Name of District or LEA] Provider to dispose of data obtained by Provider pursuant to the terms of the
+Service Agreement between LEA and Provider. The terms of the Disposition are set forth below:
+1. Extent of Disposition
+Disposition is partial. The categories of data to be disposed of are set forth below or are found in
+an attachment to this Directive:
+[Insert categories of data here]
+Disposition is Complete. Disposition extends to all categories of data.
+2. Nature of Disposition
+Disposition shall be by destruction or deletion of data.
+Disposition shall be by a transfer of data. The data shall be transferred to the following site as
+follows:
+[Insert or attach special instructions]
+3. Schedule of Disposition
+Data shall be disposed of by the following date:
+As soon as commercially practicable.
+By [Insert Date]
+4. Signature
+Authorized Representative of LEA Date
+5. Verification of Disposition of Data
+Authorized Representative of Company Date
+docs\EDU002\00023\1382439.v1-9/10/24 16
+
+EXHIBIT “F”
+DATA SECURITY REQUIREMENTS
+Adequate Cybersecurity Frameworks
+2/24/2020
+The Education Security and Privacy Exchange (“Edspex”) works in partnership with the Student Data Privacy
+Consortium and industry leaders to maintain a list of known and credible cybersecurity frameworks which can
+protect digital learning ecosystems chosen based on a set of guiding cybersecurity principles* (“Cybersecurity
+Frameworks”) that may be utilized by Provider .
+Cybersecurity Frameworks
+MAINTAINING ORGANIZATION/GROUP FRAMEWORK(S)
+National Institute of Standards and NIST Cybersecurity Framework Version 1.1
+X
+Technology
+National Institute of Standards and NIST SP 800-53, Cybersecurity Framework for
+X
+Technology Improving Critical Infrastructure Cybersecurity
+(CSF), Special Publication 800-171
+International Standards Organization Information technology — Security techniques
+— Information security management systems
+(ISO 27000 series)
+Secure Controls Framework Council, LLC Security Controls Framework (SCF)
+Center for Internet Security CIS Critical Security Controls (CSC, CIS Top 20)
+Office of the Under Secretary of Defense for Cybersecurity Maturity Model Certification
+Acquisition and Sustainment (OUSD(A&S)) (CMMC, ~FAR/DFAR)
+Please visit http://www.edspex.org for further details about the noted frameworks.
+*Cybersecurity Principles used to choose the Cybersecurity Frameworks are located here
+docs\EDU002\00023\1382439.v1-9/10/24 18
+
+EXHIBIT “G”
+Massachusetts
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s Services are also subject
+to several state laws in Massachusetts. Specifically, those laws are 603 C.M.R. 23.00, Massachusetts General Law,
+Chapter 71, Sections 34D to 34H and 603 CMR 28.00; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that the Services
+provided conform to the requirements of the privacy laws referred to above and to establish implementing
+procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in their entirety for
+Massachusetts;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and delete “or stated in
+the Service Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal background
+checks.
+3. In Article V, Section 1 Data Storage: Massachusetts does not require data to be stored within the United
+States.
+docs\EDU002\00023\1382439.v1-9/10/24 19
+
+EXHIBIT “G”
+Maine
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s Services are also subject to several
+state laws in Maine. Specifically, those laws are 20-A M.R.S. §6001-6005.; 20-A M.R.S. §951 et. seq., Maine Unified Special
+Education Regulations, Maine Dep’t of Edu. Rule Ch. 101; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that the Services provided
+conform to the requirements of the privacy laws referred to above and to establish implementing procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in their entirety for Maine;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and delete “or stated in the Service
+Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal background checks.
+3. In Article V, Section 1 Data Storage: Maine does not require data to be stored within the United States.
+4. The Provider may not publish on the Internet or provide for publication on the Internet any Student Data.
+5. If the Provider collects student social security numbers, the Provider shall notify the LEA of the purpose the social
+security number will be used and provide an opportunity not to provide a social security number if the parent and/or
+student elects.
+6. The parties agree that the definition of Student Data in Exhibit “C” includes the name of the student’s family members,
+the student’s place of birth, the student’s mother’s maiden name, results of assessments administered by the State, LEA or
+teacher, including participating information, course transcript information, including, but not limited to, courses taken and
+completed, course grades and grade point average, credits earned and degree, diploma, credential attainment or other
+school exit information, attendance and mobility information between and within LEAs within Maine, student's gender,
+race and ethnicity, educational program participation information required by state or federal law and email.
+7. The parties agree that the definition of Student Data in Exhibit “C” includes information that:
+a. Is created by a student or the student's parent or provided to an employee or agent of the LEA or a Provider in
+the course of the student's or parent's use of the Provider’s website, service or application for kindergarten to
+grade 12 school purposes;
+b. Is created or provided by an employee or agent of the LEA, including information provided to the Provider in
+the course of the employee's or agent's use of the Provider’s website, service or application for kindergarten to
+grade 12 school purposes; or
+c. Is gathered by the Provider through the operation of the Provider’s website, service or application for
+kindergarten to grade 12 school purposes.
+docs\EDU002\00023\1382439.v1-9/10/24 20
+
+EXHIBIT “G”
+Missouri
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s
+Services are also subject to several state laws in Missouri. Specifically, those laws are Sections
+162.1475 and 407.1500 RSMo; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that
+the Services provided conform to the requirements of the privacy laws referred to above and to
+establish implementing procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in
+their entirety for Missouri;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and
+delete “or stated in the Service Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal
+background checks.
+3. In Article V, Section 1 Data Storage: Missouri does not require data to be stored within the
+United States.
+4. Replace Article V, Section 4(1) with the following:
+a. In the event of a breach of data maintained in an electronic form that includes
+personal information of a student or a student’s family member, Provider shall
+notify LEA within seventy-two (72) hours. The notice shall include:
+i. Details of the incident, including when it occurred and when it was
+discovered;
+ii. The type of personal information that was obtained as a result of the breach;
+and
+iii. The contact person for Provider who has more information about the
+incident.
+b. “Breach” shall mean the unauthorized access to or unauthorized acquisition of
+personal information that compromises the security, confidentiality, or integrity of
+the personal information. Good faith acquisition of personal information by a
+person employed by or contracted with, or an agent of, Provider is not a breach
+provided that the personal information is not used in violation of applicable Federal
+or Missouri law, or in a manner that harms or poses an actual threat to the security,
+confidentiality, or integrity of the personal information.
+c. “Personal information” is the first name or initial and last name of a student or a
+family member of a student in combination with any one or more of the following
+data items that relate to the student or a family member of the student if any of the
+data elements are not encrypted, redacted, or otherwise altered by any method or
+technology such that the name or data elements are unreadable or unusable:
+i. Social Security Number;
+ii. Driver’s license number or other unique identification number created or
+collected by a government body;
+docs\EDU002\00023\1382439.v1-9/10/24 21
+
+iii. Financial account information, credit card number, or debit card number in
+combination with any required security code, access code, or password that
+would permit access to an individual’s financial account;
+iv. Unique electronic identifier or routing code in combination with any required
+security code, access code, or password that would permit access to an
+individual’s financial account;
+v. Medical information; or
+vi. Health insurance information.
+docs\EDU002\00023\1382439.v1-9/10/24 22
+
+EXHIBIT “G”
+Ohio
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s
+Services are also subject to several state laws in Ohio. Specifically, those laws are R.C. §§
+3319.32-3319.324, R.C. §§ 1349.17-19, Rule 3301-51-04; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that
+the Services provided conform to the requirements of the privacy laws referred to above and to
+establish implementing procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in
+their entirety for Ohio;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and
+delete “or stated in the Service Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal
+background checks.
+3. In Article V, Section 1 Data Storage: Ohio does not require data to be stored within the
+United States.
+23
+docs\EDU002\00023\1368051.v1-3/25/24
+docs\EDU002\00023\1382439.v1-9/10/24
+
+EXHIBIT “G”
+Rhode Island
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s Services are also subject
+to several state laws in Rhode Island. Specifically, those laws are R.I.G.L. 16-71-1, et. seq., R.I.G.L. 16-104-1, and
+R.I.G.L., 11-49.3 et. seq.; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that the Services
+provided conform to the requirements of the privacy laws referred to above and to establish implementing
+procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in their entirety for
+Rhode Island;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and delete “or stated
+in the Service Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal background
+checks.
+3. In Article V, Section 1 Data Storage: Rhode Island does not require data to be stored within the United
+States.
+4. The Provider agrees that this DPA serves as its written certification of its compliance with R.I.G.L. 16-
+104-1.
+5. The Provider agrees to implement and maintain a risk-based information security program that contains
+reasonable security procedures.
+6. In the case of a data breach, as a part of the security breach notification outlined in Article V, Section
+4(1), the Provider agrees to provide the following additional information:
+i. Information about what the Provider has done to protect individuals whose information
+has been breached, including toll free numbers and websites to contact:
+1. The credit reporting agencies
+2. Remediation service providers
+3. The attorney general
+ii. Advice on steps that the person whose information has been breached may take to
+protect himself or herself.
+iii. A clear and concise description of the affected parent, legal guardian, staff member, or
+eligible student’s ability to file or obtain a police report; how an affected parent, legal
+guardian, staff member, or eligible student’s requests a security freeze and the
+necessary information to be provided when requesting the security freeze; and that fees
+may be required to be paid to the consumer reporting agencies.
+docs\EDU002\00023\1382439.v1-9/10/24 24
+
+EXHIBIT “G”
+Vermont
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s Services are also subject
+to several state laws in Vermont. Specifically, those laws are 9 VSA 2443 to 2443f; 16 VSA 1321 to 1324; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that the Services
+provided conform to the requirements of the privacy laws referred to above and to establish implementing
+procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in their entirety for
+Vermont;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and delete “or stated in
+the Service Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal background
+checks.
+3. In Article V, Section 1 Data Storage: Vermont does not require data to be stored within the United States.
+docs\EDU002\00023\1382439.v1-9/10/24 25
+
+EXHIBIT “G”
+Virginia
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s
+Services are also subject to several state laws in Virginia. Specifically, those laws are Code of
+Virginia § 22.1-289.01 and Virginia Code § 2.2-5514(c); and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that
+the Services provided conform to the requirements of the privacy laws referred to above and to
+establish implementing procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in
+their entirety for Virginia;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and
+delete “or stated in the Service Agreement.”
+2. All employees of the Provider who will have direct contact with students shall pass criminal
+background checks.
+3. In Article V, Section 1 Data Storage: Virginia does not require data to be stored within the
+United States.
+4. In Article V, Section 4, add: In order to ensure the LEA’s ability to comply with its reporting
+requirements under Virginia Code § 2.2-5514(c), Provider shall provide initial notification to
+the LEA as soon as reasonably practical, and at a minimum within twenty-four (24) hours,
+where the Provider reasonably expects or confirms Student Data may have been disclosed
+in a data breach.
+docs\EDU002\00023\1372501.v1-5/13/24
+26
+docs\EDU002\00023\1382439.v1-9/10/24
+
+EXHIBIT “G”
+New Hampshire
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s Services are also subject
+to several state laws in New Hampshire. Specifically, those laws are RSA 189:1-e and 189:65-68-a; RSA 186; NH
+Admin. Code Ed. 300 and NH Admin. Code Ed. 1100; and
+WHEREAS, the Parties wish to enter into these supplemental terms to the DPA to ensure that the Services
+provided conform to the requirements of the privacy laws referred to above and to establish implementing
+procedures and duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in their entirety for
+New Hampshire;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. All references in the DPA to “Student Data” shall be amended to state “Student Data and Teacher Data.”
+“Teacher Data” is defined as at least the following:
+Social security number.
+Date of birth.
+Personal street address.
+Personal email address.
+Personal telephone number
+Performance evaluations.
+Other information that, alone or in combination, is linked or linkable to a specific teacher, paraprofessional,
+principal, or administrator that would allow a reasonable person in the school community, who does not have
+personal knowledge of the relevant circumstances, to identify any with reasonable certainty.
+Information requested by a person who the department reasonably believes or knows the identity of the
+teacher, paraprofessional, principal, or administrator to whom the education record relates.
+“Teacher” means teachers, paraprofessionals, principals, school employees, contractors, and other
+administrators.
+2. In order to perform the Services described in the DPA, the LEA shall provide the categories of Teacher Data
+described in the Schedule of Data, attached hereto as Exhibit “I”.
+3. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and delete “or stated in
+the Service Agreement.”
+4. In Article IV, Section 7 amend each reference to “students,” to state: “students, teachers,…”
+5. All employees of the Provider who will have direct contact with students shall pass criminal background
+checks.
+6. Provider is prohibited from leasing, renting, or trading Student Data or Teacher Data to (a) market or
+advertise to students, teachers, or families/guardians; (b) inform, influence, or enable marketing,
+advertising or other commercial efforts by a Provider; (c) develop a profile of a student, teacher, family
+member/guardian or group, for any commercial purpose other than providing the Service to LEA; or (d) use
+the Student Data and Teacher Data for the development of commercial products or services, other than as
+necessary to provide the Service to the LEA. For the avoidance of doubt, and notwithstanding anything to
+the contrary contained herein, this Agreement does not prohibit Provider from using Student Data for
+docs\EDU002\00023\1382439.v1-9/10/24 27
+
+adaptive learning or customized student learning purposes, responding to technical support requests from
+students or their parents or guardians or as otherwise required by law, using De-identified Information or
+Student Data placed in a separate student account, pursuant to the other terms of the DPA, or using
+Teacher Data for marketing and sales purposes.
+docs\EDU002\00023\1382439.v1-9/10/24 28
+
+7. The Provider agrees to the following privacy and security standards. Specifically, the Provider agrees to:
+(1) Limit system access to the types of transactions and functions that authorized users, such as
+students, parents, and LEA are permitted to execute;
+(2) Limit unsuccessful logon attempts;
+(3) Employ cryptographic mechanisms to protect the confidentiality of remote access sessions;
+(4) Authorize wireless access prior to allowing such connections;
+(5) Create and retain system audit logs and records to the extent needed to enable the
+monitoring, analysis, investigation, and reporting of unlawful or unauthorized system
+activity;
+(6) Ensure that the actions of individual system users can be uniquely traced to those users so
+they can be held accountable for their actions;
+(7) Establish and maintain baseline configurations and inventories of organizational systems
+(including hardware, software, firmware, and documentation) throughout the respective
+system development life cycles;
+(8) Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols,
+and services;
+(9) Enforce a minimum password complexity and change of characters when new passwords
+are created;
+(10) Perform maintenance on organizational systems;
+(11) Provide controls on the tools, techniques, mechanisms, and personnel used to conduct
+system maintenance;
+(12) Ensure equipment removed for off-site maintenance is sanitized of any Student Data or
+Teacher Data in accordance with NIST SP 800-88 Revision 1;
+(13) Protect (i.e., physically control and securely store) system media containing Student Data or
+Teacher Data, both paper and digital;
+(14) Sanitize or destroy system media containing Student Data or Teacher Data in accordance
+with NIST SP 800-88 Revision 1 before disposal or release for reuse;
+(15) Control access to media containing Student Data or Teacher Data and maintain
+accountability for media during transport outside of controlled areas;
+(16) Periodically assess the security controls in organizational systems to determine if the
+controls are effective in their application and develop and implement plans of action
+designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational
+systems;
+docs\EDU002\00023\1382439.v1-9/10/24 29
+
+(17) Monitor, control, and protect communications (i.e., information transmitted or received by
+organizational systems) at the external boundaries and key internal boundaries of
+organizational systems;
+(18) Deny network communications traffic by default and allow network communications traffic
+by exception (i.e., deny all, permit by exception);
+(19) Protect the confidentiality of Student Data and Teacher Data at rest;
+(20)Identify, report, and correct system flaws in a timely manner;
+(21) Provide protection from malicious code (i.e. Antivirus and Antimalware) at designated
+locations within organizational systems;
+(22) Monitor system security alerts and advisories and take action in response; and
+(23) Update malicious code protection mechanisms when new releases are available.
+Alternatively, the Provider agrees to comply with one of the following standards: (1) NIST SP 800-171 rev 2,
+Basic and Derived Requirements; (2) NIST SP 800-53 rev 4 or newer, Low Impact Baseline or higher; (3) FedRAMP
+(Federal Risk and Authorization Management Program); (4) ISO/IEC 27001:2013; (5) Center for Internet Security
+(CIS) Controls, v. 7.1, Implementation Group 1 or higher; (6) AICPA System and Organization Controls (SOC) 2,
+Type 2; and (7) Payment Card Industry Data Security Standard (PCI DSS), v3.2.1. The Provider will provide to the
+LEA on an annual basis and upon written request demonstration of successful certification of these alternative
+standards in the form of a national or international Certification document; an Authorization to Operate (ATO)
+issued by a state or federal agency, or by a recognized security standards body; or a Preliminary Authorization to
+Operate (PATO) issued by the FedRAMP Joint Authorization Board (JAB).
+8. In the case of a data breach, as a part of the security breach notification outlined in Article V, Section 4(1),
+the Provider agrees to provide the following additional information:
+i. The estimated number of students and teachers affected by the breach, if any.
+9. The parties agree to add the following categories into the definition of Student Data: the name of the
+student's parents or other family members, place of birth, social media address, unique pupil identifier, and
+credit card account number, insurance account number, and financial services account number.
+10. In Article V, Section 1 Data Storage: New Hampshire does not require data to be stored within the United
+States.
+docs\EDU002\00023\1382439.v1-9/10/24 30
+
+EXHIBIT “I” – TEACHER DATA
+Check if used
+Category of Data Elements by your
+system
+Application IP Addresses of users, Use of cookies etc. X
+Technology Meta
+Other application technology meta data-Please specify:
+Data
+Application Use Meta data on user interaction with application X
+Statistics
+Online communications that are captured (emails, blog entries) – Optional online chats X
+Communications
+and forums
+Date of Birth
+Place of Birth
+Social Security Number
+Demographics
+Ethnicity or race
+Other demographic information-Please specify:
+Personal Address X
+Personal Contact
+Personal Email X
+Information
+Personal Phone X
+Performance Performance Evaluation Information
+evaluations
+Teacher scheduled courses X
+Schedule
+Teacher calendar
+Medical alerts
+Special Teacher disability information
+Information
+Other indicator information-Please specify:
+Local (School district) ID number X
+State ID number
+Teacher
+Vendor/App assigned student ID number X
+Identifiers
+Teacher app username X
+Teacher app passwords X
+Program/application performance
+Teacher In App
+Performance
+Teacher Survey X
+Responses Teacher responses to surveys or questionnaires
+Teacher generated content; writing, pictures etc. X
+Teacher work
+Other teacher work data -Please specify:
+Course grades from schooling
+Education
+Other transcript data -Please specify:
+Other Please list each additional data element used, stored or collected by your application
+docs\EDU002\00023\1382439.v1-9/10/24 30
+
+Exhibit “G”
+New York
+WHEREAS, the documents and data transferred from LEAs and created by the Provider’s Services are also subject
+to several state laws in New York. Specifically, those laws are New York Education Law § 2-d; and the Regulations
+of the Commissioner of Education at 8 NYCRR Part 121; and
+WHEREAS, the Parties wish to enter into these additional terms to the DPA to ensure that the Services provided
+conform to the requirements of the privacy laws referred to above and to establish implementing procedures and
+duties;
+WHEREAS, the Parties wish these terms to be hereby incorporated by reference into the DPA in their entirety for
+New York;
+NOW THEREFORE, for good and valuable consideration, the parties agree as follows:
+1. All employees of the Provider who will have direct contact with students shall pass criminal background
+checks.
+2. Student Data will be used by Provider exclusively to provide the Services identified in Exhibit A to the
+DPA.
+3. Provider agrees to maintain the confidentiality and security of Student Data in accordance with LEA’s
+Data Security and Privacy Policy. The LEA’s Data Security Policy is attached hereto as Exhibit J. Each
+Subscribing LEA will provide its Data Security Policy to the Provider upon execution of Exhibit “E”.
+Provider shall use industry standard security measures including encryption protocols that comply with
+New York law and regulations to preserve and protect Student Data and APPR Data. Provider must
+Encrypt Student Data and APPR Data at rest and in transit in accordance with applicable New York laws
+and regulations.
+4. Provider represents that their Data Privacy and Security Plan can be found at the URL link listed in
+Exhibit K and is incorporated into this DPA. Provider warrants that its Data Security and Privacy Plan, at
+a minimum: (a)implements all applicable state, federal and local data privacy and security requirements;
+(b) has operational technical safeguards and controls in place to protect PII that it will receive under the
+service agreement; (c) complies with the LEA’s parents bill of rights for data privacy and security; (d)
+requires training of all providers’ employees, assignees and subprocessors who have Access to student
+data or APPR data; (e) ensures subprocessors are required to protect PII received under this service
+agreement; (f) specifies how data security and privacy incidents that implicate PII will be managed and
+ensuring prompt notification to the LEA, and (g) addresses Student Data return, deletion and
+destruction.
+5. In addition to the requirements described in Paragraph 3 above, the Provider's Data Security and Privacy
+Plan shall be deemed to incorporate the LEA's Parents Bill of Rights for Data Security and Privacy, as
+found at the URL link identified in Exhibit J. The Subscribing LEA will provide its Parents Bill of Rights for
+Data Security and Privacy to the Provider upon execution of Exhibit “E”.
+docs\EDU002\00023\1382439.v1-9/10/24 31
+
+6. All references in the DPA to “Student Data” shall be amended to include and state, “Student Data and
+APPR Data.”
+7. To amend Article II, Section 5 to add: Provider shall ensure that its subprocessors agree: (i) that they do
+not have any property, licensing or ownership rights or claims to Student Data or APPR data; and (ii) will
+be responsible for their compliance with the LEA’s Data Privacy and Security Policy. Provider shall
+examine the data privacy and security measures of its Subprocessors. If at any point a Subprocessor fails
+to materially comply with the requirements of this DPA, Provider shall: (i) notify LEA, (ii) as applicable,
+remove such Subprocessor’s Access to Student Data and APPR Data; and (iii) as applicable, retrieve all
+Student Data and APPR Data received or stored by such Subprocessor and/or ensure that Student Data
+and APPR Data has been securely deleted or securely destroyed in accordance with this DPA. In the
+event there is an incident in which Student Data and APPR Data held, possessed, or stored by the
+Subprocessor is compromised, or unlawfully Accessed or disclosed, Provider shall follow the Data Breach
+reporting requirements set forth in the DPA.
+8. In Article IV, Section 2, replace “otherwise authorized,” with “otherwise required” and delete “or stated
+in the Service Agreement.”
+9. To amend Article IV, Section 3 to add: Provider shall ensure that all its employees and subprocessors
+who have Access to or will receive Student Data and APPR Data will be trained on the federal and state
+laws governing confidentiality of such Student Data and APPR Data prior to receipt. Access to or
+Disclosure of Student Data and APPR Data shall only be provided to Provider’s employees and
+subprocessors who need to know the Student Data and APPR Data to provide the services and such
+Access and/or Disclosure of Student Data and APPR Data shall be limited to the extent necessary to
+provide such services.
+10. To replace Article IV, Section 6 (Disposition of Data) with the following: Upon written request
+from the LEA, Provider shall dispose of Student Data obtained under the Service Agreement,
+within ninety (90) days of the date of said request and according to a schedule and procedure
+as the Parties may reasonably agree. Provider is prohibited from retaining disclosed Student
+Data or continuing to Access Student Data beyond
+the term of the Service Agreement unless such retention is expressly authorized for a prescribed period
+by the Service Agreement, necessary for purposes of facilitating the transfer of disclosed Student Data
+to the LEA, or expressly required by law. The confidentiality and data security
+obligations of Provider under this DPA shall survive any termination of this contract to which this
+DPA is attached but shall terminate upon Provider’s certifying that it and it’s subprocessors, as
+applicable: (a) no longer have the ability to Access any Student Data provided to Provider
+pursuant to the Service Agreement and/or (b) have destroyed all Student Data and APPR Data provided
+to Provider pursuant to this DPA. The Provider agrees that the timelines for disposition
+of data will be modified by any Assurance of Discontinuation, which will control in the case of a conflict.
+Within ninety (90) days of termination of this DPA, if no written request from the LEA is received,
+Provider shall dispose of all student data within ninety (90) days after confirming, using
+commercially reasonable efforts, that such student data is no longer needed for any services to
+the LEA under this Agreement or other agreement with the LEA.
+docs\EDU002\00023\1382439.v1-9/10/24 32
+
+The duty to dispose of student data shall not extend to Student Data that had been de-identified
+or placed in a separate student account pursuant to section II 3. The LEA may employ a
+“Directive for Disposition of Data” form, a copy of which is attached hereto as Exhibit “D”, or,
+with reasonable notice to the Provider, other form of its choosing. No further written request or
+notice is required on the part of either party prior to the disposition of Student Data described in
+“Exhibit D".
+11. To amend Article IV, Section 7 to add: ‘Notwithstanding the foregoing, Provider is prohibited from using
+Student Data or APPR data for any Commercial or Marketing Purpose as defined herein. And add after
+(iii) account holder, “which term shall not include students.”
+12. To replace Article V, Section 1 (Data Storage) to state: Student Data and APPR Data shall be stored
+within the United States and Canada only. Upon request of the LEA, Provider will provide a list of the
+locations where Student Data is stored.
+13. To replace Article V, Section 2 (Audits) to state: No more than once a year or following an unauthorized
+Access, upon receipt of a written request from the LEA with at least ten (10) business days’ notice and
+upon the execution of an appropriate confidentiality agreement, the Provider will allow the LEA or its
+designee(s) to audit the security and privacy measures that are in place to ensure protection of Student
+Data or any portion thereof as it pertains to the delivery of services to the LEA. The Provider will
+cooperate reasonably with the LEA or its designee(s) and any local, state, or federal agency with
+oversight authority or jurisdiction in connection with any audit or investigation of the Provider and/or
+delivery of Services to students and/or LEA, and shall provide reasonable Access to the Provider’s
+facilities, staff, agents and LEA’s Student Data and all records pertaining to the Provider, LEA and
+delivery of Services to the LEA.
+Upon request by the New York State Education Department’s Chief Privacy Officer (NYSED CPO),
+Provider shall provide the NYSED CPO with copies of its policies and related procedures that pertain to
+the protection of information. In addition, the NYSED CPO may require Contractor to undergo an audit
+of its privacy and security safeguards, measures, and controls as they pertain to alignment with the
+requirements of New York State laws and regulations, and alignment with the NIST Cybersecurity
+Framework. Any audit required by the NYSED CPO must be performed by an independent third party at
+Provider’s expense and the audit report must be provided to the NYSED CPO. In lieu of being subject to a
+required audit, Provider may provide the NYSED CPO with an industry standard independent audit
+report of Provider’s privacy and security practices that was issued no more than twelve months before
+the date that the NYSED CPO informed Provider that it required Provider to undergo an audit. Failure to
+reasonably cooperate with any of the requirements in this provision shall be deemed a material breach
+of the DPA.
+To amend the third sentence of Article V. Section 3 (Data Security) to read: The Provider shall implement
+security practices that are in alignment with the NIST Cybersecurity Framework v1.1 or any update to
+this Framework that is adopted by the New York State Department of Education.
+14. To replace Article V. Section 4 (Data Breach) to state: In the event of a Breach as defined in 8 NYCRR Part
+121.1 Provider shall provide notification to LEA within seventy-two (72) hours of confirmation of the
+docs\EDU002\00023\1382439.v1-9/10/24 33
+
+incident, unless notification within this time limit would disrupt investigation of the incident by law
+enforcement. In such an event, notification shall be made within a reasonable time after the incident.
+Provider shall follow the following process:
+(1) The security breach notification described above shall include, at a minimum, the following
+information to the extent known by the Provider and as it becomes available:
+i. The name and contact information of the reporting LEA subject to this section.
+ii. A list of the types of personal information that were or are reasonably believed to have been the
+subject of a breach.
+iii. If the information is possible to determine at the time the notice is provided, then either (1) the
+date of the breach, (2) the estimated date of the breach, or (3) the date range within which the
+breach occurred. The notification shall also include the date of the notice.
+iv. Whether the notification was delayed as a result of a law enforcement investigation, if that
+information is possible to determine at the time the notice is provided; and
+v. A general description of the breach incident, if that information is possible to determine at the
+time the notice is provided; and
+vi. The number of records affected, if known; and
+vii. A description of the investigation undertaken so far; and
+viii. The name of a point of contact for Provider.
+(2) Provider agrees to adhere to all federal and state requirements with respect to a data breach
+related to the Student Data, including, when required, the required responsibilities and
+procedures for notification and mitigation of any such data breach.
+(3) Provider further acknowledges and agrees to have a written incident response plan that reflects
+best practices and is consistent with industry standards and federal and state law for responding to
+a data breach, breach of security, privacy incident or unauthorized acquisition or use of Student
+Data or any portion thereof, including personally identifiable information and agrees to provide LEA,
+upon request, with a summary of said written incident response plan.
+(4) LEA shall provide notice and facts surrounding the breach to the affected students, parents or
+guardians. Where a Breach of Student Data and/or APPR Data occurs that is attributable to Provider
+and/or its Subprocessors, Provider shall, to the extent required by applicable law, pay for or
+promptly reimburse LEA for the full cost of notification to Parents, Eligible Students, teachers,
+and/or principals.
+(5) In the event of a breach originating from LEA’s use of the Service, Provider shall cooperate with
+LEA to the extent necessary to expeditiously secure Student Data but shall not bear any financial
+responsibility in doing so other than its internal time and resources in the course of such
+cooperation.
+(6) Provider and its subprocessors will cooperate with the LEA, the NYSED Chief Privacy Officer and
+law enforcement where necessary, in any investigations into a Breach. Any costs incidental to the
+required cooperation or participation of the Provider will be the sole responsibility of the Provider if
+such Breach is attributable to Provider or its subprocessors.
+15. To amend the definitions in Exhibit “C” as follows:
+- “Subprocessor” is equivalent to subcontractor. It is a third party who the provider uses for data
+collection, analytics, storage, or other service to allow Provider to operate and/or improve its
+service, and who has access to Student Data.
+docs\EDU002\00023\1382439.v1-9/10/24 34
+
+- “Provider” is also known as third party contractor. It any person or entity, other than an
+educational agency, that receives student data or teacher or principal data from an educational
+agency pursuant to a contract or other written agreement for purposes of providing services to
+such educational agency, including but not limited to data management or storage services,
+conducting studies for or on behalf of such educational agency, or audit or evaluation of publicly
+funded programs. Such term shall include an educational partnership organization that receives
+student and/or teacher or principal data from a school district to carry out its responsibilities and
+is not an educational agency and a not-for-profit corporation or other non-profit organization,
+other than an educational agency.
+16. To add to Exhibit “C” the following definitions:
+- Access: The ability to view or otherwise obtain, but not copy or save, Student Data and/or
+APPR Data arising from the on-site use of an information system or from a personal meeting.
+- APPR Data: Personally Identifiable Information from the records of an Educational Agency
+relating to the annual professional performance reviews of classroom teachers or principals
+that is confidential and not subject to release under the provisions of Education Law §§
+3012-c and 3012-d
+- Commercial or Marketing Purpose: In accordance with § 121.1(c) of the regulations of the
+New York Commissioner of Education, the Disclosure, sale, or use of Student or APPR Data
+for the purpose of directly or indirectly receiving remuneration, including the Disclosure,
+sale, or use of Student Data or APPR Data for advertising purposes, or the Disclosure, sale, or
+use of Student Data to develop, improve, or market products or services to Students.
+- Disclose or Disclosure: The intentional or unintentional communication, release, or transfer
+of Student Data and/or APPR Data by any means, including oral, written, or electronic.
+- Encrypt or Encryption: As defined in the Health Insurance Portability and Accountability Act
+of 1996 Security Rule at 45 CFR § 164.304, encrypt means the use of an algorithmic process
+to transform Personally Identifiable Information into an unusable, unreadable, or
+indecipherable form in which there is a low probability of assigning meaning without use of a
+confidential process or key.
+- Release: Shall have the same meaning as Disclose
+- LEA: As used in this DPA and all Exhibits, the term LEA shall mean the educational agency, as
+defined in Education Law Section 2-d, that has executed the DPA; if the LEA is a board of cooperative
+educational services, then the term LEA shall also include Participating School Districts for purposes
+of the following provisions of the DPA: Article I, Section 2; Article II, Sections 1 and 3; and Sections 1,
+2, and 3 of Article III.
+- Participating School District: As used in Exhibit G and other Exhibits to the DPA, the term
+Participating School District shall mean a New York State educational agency, as that term is defined
+in Education Law Section 2-d, that obtains access to the Services through a CoSer agreement with
+LEA, and shall include LEA if it uses the Services in its own educational or operational programs.
+-
+docs\EDU002\00023\1382439.v1-9/10/24 35
+
+Exhibit “J”
+LEA Documents
+New York LEAs will provide links to their Data Security and Privacy Policy, Parents Bill of
+Rights for Data Security and Privacy, and supplemental information for this service
+agreement in their Exhibit Es.
+docs\EDU002\00023\1382439.v1-9/10/24 36
+
+Exhibit “K”
+Provider Security Policy
+Provider’s Data Security and Privacy Plan can be accessed at:
+https://vistahigherlearning.com/privacy-policy
+docs\EDU002\00023\1382439.v1-9/10/24 37
+
+VistaHigherLearning_PattonvilleMO_VendorSig
+ned
+Final Audit Report 2024-10-02
+Created: 2024-10-02
+By: Ramah Hawley (rhawley@tec-coop.org)
+Status: Signed
+Transaction ID: CBJCHBCAABAAy6McNSqpeP23HHmc0hOy6YV0izuXQBbW
+"VistaHigherLearning_PattonvilleMO_VendorSigned" History
+Document created by Ramah Hawley (rhawley@tec-coop.org)
+2024-10-02 - 11:33:16 AM GMT
+Document emailed to thasheider@psdr3.org for signature
+2024-10-02 - 11:33:22 AM GMT
+Email viewed by thasheider@psdr3.org
+2024-10-02 - 1:39:26 PM GMT
+Signer thasheider@psdr3.org entered name at signing as Tammy Hasheider
+2024-10-02 - 1:41:23 PM GMT
+Document e-signed by Tammy Hasheider (thasheider@psdr3.org)
+Signature Date: 2024-10-02 - 1:41:25 PM GMT - Time Source: server
+Agreement completed.
+2024-10-02 - 1:41:25 PM GMT
+
+VistaHigherLearning,Inc._IndianolaCommunityS
+choolDistrict_IA_Add-On_Modified_VendorSigne
+d
+Final Audit Report 2025-09-25
+Created: 2025-09-25
+By: TEC SDPA (kperham@tec-coop.org)
+Status: Signed
+Transaction ID: CBJCHBCAABAALLMpCdkF4emypQb1QnIwbN7n1KwQp7WD
+"VistaHigherLearning,Inc._IndianolaCommunitySchoolDistrict_IA
+_Add-On_Modified_VendorSigned" History
+Document created by TEC SDPA (kperham@tec-coop.org)
+2025-09-25 - 7:30:14 PM GMT
+Document emailed to RAY COFFEY (ray.coffey@indianola.k12.ia.us) for signature
+2025-09-25 - 7:30:22 PM GMT
+Email viewed by RAY COFFEY (ray.coffey@indianola.k12.ia.us)
+2025-09-25 - 8:26:44 PM GMT
+Document e-signed by RAY COFFEY (ray.coffey@indianola.k12.ia.us)
+Signature Date: 2025-09-25 - 8:27:10 PM GMT - Time Source: server
+Agreement completed.
+2025-09-25 - 8:27:10 PM GMT

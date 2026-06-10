@@ -1,0 +1,98 @@
+Educational Services Center
+2255 N Dubuque Rd • Iowa City, IA 52245
+(319) 688-1000 • www.iowacityschools.org
+Summary of Progress as of March 20, 2026
+The chart attached includes a summary of activities that are in progress for the FY2024, FY 2025
+and the FY2026 fiscal years clean up and audit preparation.
+Bank Statements for 2023 and 2024 have been completed. Fiscal Year 2025 has begun, the
+General Fund has been reconciled thru December 2024. Journal entries posted for
+August-December 2024 and have been cleared back within the reconciliations. Currently working
+on draft entries for the rest of the year.
+The remaining funds are still pending for FY2025, as the General Fund is being reconciled several
+entries and corrections impact the other accounts which will help with those reconciliations once
+all the General Fund is completed. FY2026 has not yet begun.
+Fund 36 (PPEL) is done. So far it has been relatively smooth. Most accounts had journal entries
+that either did not reconcile to their support and had to be voided and corrected or were posted
+backwards. A few of these accounts look like they have never been reconciled because they have
+compounding balances and reversals for their accruals that don’t tie out, and in those instances, it
+was just a matter of making the change through an expense account to the supporting
+documentation. A few of the accounts had reversals either posted backwards (For example
+succeeding taxes receivable fund 36 were double what they should have been), or the
+asset/liability was debited and credited with the same amount in the entry and did not actually hit
+the corresponding expense account to adjust for the period. Fixing these hasn’t been particularly
+difficult, the reporting tools in the software are just cumbersome to do the research into how to
+correct the entries.
+Part of the remaining clean-up for FY2024 that still needs to occur includes the following tasks.
+-Tie out year-end receivables and Payables against state reporting (Provided annually)
+Completed for all funds except General Fund
+-Capitalization worksheets
+SOA - SCFB needs completion first - General Fund Pending
+-Lease Worksheet
+SOA - SCFB needs completion first - General Fund Pending
+Matt Degner - Superintendent of Schools
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color, national origin, sex, disability, religion, creed, age,
+marital status, sexual orientation, gender identity and socioeconomic status in its educational programs, activities, or employment practices. There is a
+grievance procedure for processing complaints of discrimination. If you have questions or a grievance related to this policy, please contact Laura Cottrell
+for programming at cottrell.laura@iowacityschools.org or Nick Proud for employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City,
+IA 52245, (319) 688-1000. If you are unsure how to proceed or would like assistance in discussing your options, you may also contact Janet Abejo-Parker at
+ombuds@iowacityschools.org or (319) 688-1312.
+
+Educational Services Center
+2255 N Dubuque Rd • Iowa City, IA 52245
+(319) 688-1000 • www.iowacityschools.org
+-GASB 75 calculations
+SOA - SCFB needs completion first - General Fund Pending
+-GASB 34 worksheet
+SOA - SCFB needs completion first - General Fund Pending
+-Revenue tie out to state and county reports.
+Completed for all funds except General Fund
+Audit field work testing has begun while the remaining tasks for FY2024 are still underway. We
+received the Interim Request List from the Auditors for the FY2024 audit, staff has responded and
+have provided the documentation that has been requested.
+Efficiencies and Internal Control Items for the week of March 20, 2026
+Monthly close schedule development continues as the reconciliations move forward. Once
+reconciliations are currently this will be the document that all staff uses each month for the close.
+The initial list of monthly items as has been assigned to individuals responsible for each item on
+the balance sheet and to close out the month. A meeting has been scheduled for March 23 rd to
+address all items.
+PCard policy has been updated and we would like to roll it out. With this the number of PCards
+will be reduced and is detailed out in the policy.
+Matt Degner - Superintendent of Schools
+It is the policy of the Iowa City Community School District not to discriminate on the basis of race, color, national origin, sex, disability, religion, creed, age,
+marital status, sexual orientation, gender identity and socioeconomic status in its educational programs, activities, or employment practices. There is a
+grievance procedure for processing complaints of discrimination. If you have questions or a grievance related to this policy, please contact Laura Cottrell
+for programming at cottrell.laura@iowacityschools.org or Nick Proud for employment at proud.nick@iowacityschools.org, 2255 N. Dubuque Rd, Iowa City,
+IA 52245, (319) 688-1000. If you are unsure how to proceed or would like assistance in discussing your options, you may also contact Janet Abejo-Parker at
+ombuds@iowacityschools.org or (319) 688-1312.
+
+Summary Update Chart as of 3.20.2026
+Bank Reconciliations 2023 2024 2025 2026
+General Complete Complete In Process Pending
+schoolhouse Complete Complete Pending Pending
+Activity Complete Complete Pending Pending
+Insurance Complete Complete Complete pending
+Food Service Complete Complete Pending Pending
+Payroll Complete Complete Pending Pending
+*Custody of funds / allocations needs confirmation
+Investment
+General Complete Complete Pending Pending
+PPEL Complete Complete Pending Pending
+Save Complete Complete Pending Pending
+Activity Complete Complete Pending Pending
+Insurance Complete Complete Pending Pending
+Food Service Complete Complete Pending Pending
+Audit
+Interim Fieldwork Complete Completed Pending Pending
+Final Fieldwork Complete In Preparation Pending Pending
+Prove out Financials (3)
+Single Audit Complete In Preparation Pending Pending
+Tax Filings Complete Current n/a n/a
+*Complete indicates through June 30th, the year then ended.
+Certified Budget Complete In Process (Curt Pratt) n/a n/a
+NOTES
+(1)Staff that are not part of process preparing financial statements and reconciliations have been tasked with preparing interim audit request items.
+(2)The preparation of FY24 financials is underway.
+(3) The balance sheet was out of balance. This was a result of an account misclasified in SoftwareUnlimited (SU) and has been corrected
+The net asset roll-forward was out of balance. These have been corrected.
+Interfund is also out of balance. We have identified the transactions requiring correction. These are the result of imbalanced interfund transactions, many through the 2024 CAR process that did not include the proper activity to the corresponding funds.
+The interfund balances at FYE appear to have been forced to balance through an additional entry to validate the CAR.

@@ -1,0 +1,114 @@
+Iowa City CSD
+FYE: 6/30/24
+PBC List
+Responsible Individual Date Submitted
+Confirmations
+1 Cash
+2 Debt
+3 Tuition
+4 AEA
+5 Property Taxes
+Cash and Investments
+1 Cash and investment summary. Should include all cash and investment accounts
+2 Bank reconciliations
+3 Check reconciliation report for each account
+4 Outstanding check listings and deposits in transit detail
+5 Bank statements and investment statements for July 2024
+6 Board resolution approving bank depositories and maximum limits for fiscal year 2024
+7 Investment policy
+Capital Assets
+1 Capital assets footnote rollforward by governmental activities and business-type activities (Summary of fixed assets)(cid:9)
+2 Detail listing of all assets
+3 Detail listing of current year additions by class (Land, construction in progress, buildings, etc.)
+4 Detail listing of disposals including calculation of gain/loss by governmental activities and business-type activities
+5 Detail listing of construction in progress (CIP) as of 6/30/24 and any CIP added and disposed of in the current year
+6 Nutrition Fund capital asset summary
+7 Depreciation schedules, including building depreciation report for depreciation by function
+8 Detail of contractual commitments and retainage amounts
+9 Detail listing of capital assets contributed/donated during the year
+10 Copies of any lease agreements
+11 Copies of any SBITA agreements
+Debt
+1 Closing Statements and Debt Service Schedules for the following and any debt issued in 2024:
+a. GO Series 2020
+b. GO Series 2019
+c. GO Series 2017C
+d. Capital Loan Note, Series 2014
+e. Revenue Series 2016
+f. Revenue Series 2017
+g. Revenue Series 2017B
+h. Revenue Series 2018
+i. Revenue Series 2022A
+j. Revenue Series 2023
+
+For the Revenue Bonds we will also need the authorizing resolution that contains any debt covenants.
+2 Copies of any new debt agreements
+3 Covenant monitoring
+Risk Financing and Insurance
+1 Claims lag summary for 7/1 – 6/30
+2 Claims Lag summary for 7/1/ - 8/30 (following fiscal year)
+3 SOC Report and Bridge Letter
+4 Invoice paid for June claims
+5 Excess Insurance Contract
+Equity
+1 For the General Fund schedule of restricted, committed, assigned and unassigned.
+2 Board resolutions or documentation supporting restricted and committed balances
+Operations
+Download all revenue and expenditure detail transactions for the year. Make sure the download includes date,
+1 description, account number transaction amount and type of transaction.
+2 Detailed listing of legal fees for the year
+Receivables and Revenues
+1 Detail of general fund accounts receivable including receivable from other Districts
+2 Accounts receivable listing by fund
+Tax revenue tie out to general ledger by fund including property taxes, utility replacement tax, mobile home tax, military
+3 credit machinery and equipment tax
+4 Analytical of lunch sales and ala carte sales
+5 Property tax receivable and deferred revenue agreed to the general ledger
+State and Federal revenue tie out to the general ledger by program including deferred revenue, unearned revenue and
+6 receivables
+7 Detail of deferred revenue accounts (other than property taxes)
+Nutrition fund deferred revenue-please provide a report from the food service program that shows student account
+8 balances as of June 30, 2024
+9 Listing of insurance proceeds received during the fiscal year and account recorded in.
+10 SES Screen 3 Report
+11 Maximum Tuition Rates
+12 Tuition AR or confirmations
+13 Federal expenditures
+14 DHS Payments
+15 Food Sales report or school dining system grand total report
+16 Before and after school program enrollment
+17 Student fees
+Payables
+1 Accounts payable tie out by fund to the general ledger
+2 Detail accounts payable listing by fund
+3 Download of all check registers subsequent to year-end – please provide in Excel if possible.
+
+Accruals
+1 Accrual outstanding invoices report by fund
+2 Accrued vacation Summary
+Vacation accrual calculation. Provide vacation accrual by amount due that should be recorded in the governmental
+3 funds and then remaining balance for governmental activities
+4 Total compensated absences for each proprietary fund
+5 Identify the amount of vacation used during fiscal year 2024
+6 Early retirement insurance benefit calculation.
+7 Listing of early retirement payouts
+8 Listing of retirees as of June 30, 2024
+9 Accrued sick leave
+10 Salaries and benefits payable tie out to the general ledger
+11 Payroll registers for June and July
+12 OPEB actuarial valuation including breakout between governmental activities and the various enterprise funds
+13 Combined Earnings Report (Annual Payroll of Active Employees Covered by the Plan)
+General
+1 Final trial balance of all funds. Format so that the download includes the following: account, description, debit, (credit)
+2 General ledger detail of revenue and expense accounts.
+3 Attorney confirmation
+4 Activity Funds balance report
+5 Journal entry file report
+6 Copy of current Year Allocations used for CAR edits
+7 Transfers between funds
+Compliance
+Schedule of Expenditures of Federal Awards for the year-end 6/30/24 which also reconciles receipts, unearned revenue,
+1 deferred revenue and expenditures
+2 Follow up responses and corrective action plans on prior year findings
+3 G/L detail of expenditures for each grant project code (4XXX)
+4 See separate listing for major program testing

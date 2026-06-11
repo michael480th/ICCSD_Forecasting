@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the ICCashForecast GitHub Pages site into docs/.
+"""Build the ICCSD Forecasting GitHub Pages site into docs/.
 
 Converts the markdown analysis reports to styled, self-contained HTML pages
 (shared docs/site.css), generates the landing page (index.html), and drops a
@@ -15,7 +15,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 DOCS = REPO / "docs"
-GH = "https://github.com/michael480th/ICCashForecast"
+GH = "https://github.com/michael480th/ICCSD_Forecasting"
 
 # Markdown reports to convert -> (output html, nav label, hero subtitle)
 REPORTS = {
@@ -144,18 +144,18 @@ def nav(active: str) -> str:
     links = "".join(
         f'<a href="{href}"{" aria-current=page" if href == active else ""}>{label}</a>'
         for href, label in NAV_ITEMS)
-    return ('<nav class="topnav"><a class="brand" href="index.html">ICCashForecast</a>'
+    return ('<nav class="topnav"><a class="brand" href="index.html">ICCSD Forecasting</a>'
             f'<div class="links">{links}</div></nav>')
 
 
 FOOTER = (
-    '<footer><p><b>About.</b> ICCashForecast is an <b>unofficial</b> analysis project that '
+    '<footer><p><b>About.</b> ICCSD Forecasting is an <b>unofficial</b> analysis project that '
     'extracts Iowa City Community School District financial data from public records and builds '
     'a transparent General Fund cash forecast. It is <b>not affiliated</b> with ICCSD, Moody&rsquo;s, '
     'S&amp;P, or PFM. Figures are estimates carrying material uncertainty; nothing here is investment '
     f'advice.</p><p class="src">Sources: ICCSD audited ACFRs, Iowa DOM filings, and PFM board '
-    f'presentations. Built from the <a href="{GH}">ICCashForecast repository</a>. '
-    'Last generated 2026-06-10.</p></footer>')
+    f'presentations. Built from the <a href="{GH}">ICCSD Forecasting repository</a>. '
+    'Last generated 2026-06-11.</p></footer>')
 
 
 def page(title: str, body: str, active: str, hero_title: str = "", hero_sub: str = "",
@@ -163,7 +163,7 @@ def page(title: str, body: str, active: str, hero_title: str = "", hero_sub: str
     hero = ""
     if hero_title:
         hero = ('<header class="hero"><div class="wrap">'
-                '<p class="kicker">ICCashForecast &middot; unofficial analysis</p>'
+                '<p class="kicker">ICCSD Forecasting &middot; unofficial analysis</p>'
                 f"<h1>{hero_title}</h1>" + (f"<p>{hero_sub}</p>" if hero_sub else "") +
                 "</div></header>")
     inner = f'<main class="content">{body}</main>' if wrap_content else body
@@ -241,7 +241,7 @@ warrant</b> is already planned for FY2027. The warrants manage <em>liquidity</em
 <em>solvency</em> gap. <a href="liquidity.html"><b>Monthly liquidity forecast &rarr;</b></a></p>
 
 <h2 id="contents">Repository contents</h2>
-<p>Everything here is reproducible from the <a href="{GH}">ICCashForecast repository</a>. An auditable
+<p>Everything here is reproducible from the <a href="{GH}">ICCSD Forecasting repository</a>. An auditable
 pipeline turns source PDFs into canonical data and forecasts:</p>
 <div class="card">
 <ul>
@@ -272,7 +272,7 @@ def main():
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
 
     (DOCS / "index.html").write_text(
-        page("ICCSD General Fund Financial Forecast — ICCashForecast", LANDING_BODY, "index.html",
+        page("ICCSD General Fund Financial Forecast — ICCSD Forecasting", LANDING_BODY, "index.html",
              hero_title="ICCSD General Fund Financial Forecast",
              hero_sub="A transparent, source-traced cash forecast for the Iowa City Community "
                       "School District."),
@@ -285,7 +285,7 @@ def main():
             print(f"  ! missing {md_name}, skipped"); continue
         title, body = md_to_html(src.read_text(encoding="utf-8"))
         (DOCS / html_name).write_text(
-            page(f"{title} — ICCashForecast", body, html_name,
+            page(f"{title} — ICCSD Forecasting", body, html_name,
                  hero_title=title, hero_sub=sub),
             encoding="utf-8")
         print(f"  {md_name} -> docs/{html_name}")

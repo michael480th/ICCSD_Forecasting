@@ -1,6 +1,6 @@
 # Data Dictionary
 
-This document defines every canonical table in the ICCashForecast pipeline. It is
+This document defines every canonical table in the ICCSD Forecasting pipeline. It is
 the authoritative reference for column names, meanings, and allowed values.
 
 All tables are CSV with a header row. Conventions used throughout:

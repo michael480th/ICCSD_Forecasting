@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Detect duplicate documents and basic inventory-quality issues.
 
-Phase 1 of the ICCashForecast pipeline. Reads
+Phase 1 of the ICCSD Forecasting pipeline. Reads
 ``data/extracted/document_inventory.csv`` and flags:
 
 - **Exact duplicates** — two or more files with identical content hashes

@@ -1,4 +1,4 @@
-# ICCashForecast — ICCSD Public Financial Forecast
+# ICCSD Forecasting — ICCSD Public Financial Forecast
 
 An **unofficial, citizen-built** project to create visibility into the cash
 position of the **Iowa City Community School District (ICCSD)** using publicly
@@ -23,7 +23,7 @@ the HTML from the markdown reports + `docs/site.css`).
 
 **To publish:** in the repo's **Settings → Pages**, set the source to **Deploy from
 a branch**, branch = the published branch, folder = **`/docs`**. The site then
-serves at `https://michael480th.github.io/ICCashForecast/`.
+serves at `https://michael480th.github.io/ICCSD_Forecasting/`.
 
 ---
 

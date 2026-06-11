@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the document inventory from files under data/raw/.
 
-Phase 1 of the ICCashForecast pipeline. Walks the raw-document tree, hashes
+Phase 1 of the ICCSD Forecasting pipeline. Walks the raw-document tree, hashes
 every file, classifies it (auto rules + manual overrides), and writes
 ``data/extracted/document_inventory.csv``. Also writes a human-readable
 ``data/extracted/inventory_summary.md``.

@@ -127,6 +127,9 @@ def write_md(audit, uab):
       "Source: ICCSDAdvocacy benchmarking (audited ACFRs + Iowa DOM filings).\n")
     A("> FY2024–FY2025 ICCSD ACFRs are not yet issued, so audited **solvency** for those "
       "years is unavailable. **UAB** (a state filing) runs through FY2025.\n")
+    A("> **Want to check the math?** The [KPI source-trace report](kpi_trace.html) recomputes every "
+      "number below from its raw audited components and links each one to the primary source document "
+      "(ICCSD ACFR / Iowa DOM filing).\n")
 
     A("\n## ICCSD trend vs. board targets\n")
     A("| Fiscal year | Solvency ratio % | UAB ratio % | Operating margin % |")

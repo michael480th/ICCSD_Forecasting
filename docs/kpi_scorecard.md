@@ -4,6 +4,8 @@ Key indicators required by board policy **701.5R1 – Financial Metrics**, score
 
 > FY2024–FY2025 ICCSD ACFRs are not yet issued, so audited **solvency** for those years is unavailable. **UAB** (a state filing) runs through FY2025.
 
+> **Want to check the math?** The [KPI source-trace report](kpi_trace.html) recomputes every number below from its raw audited components and links each one to the primary source document (ICCSD ACFR / Iowa DOM filing).
+
 
 ## ICCSD trend vs. board targets
 

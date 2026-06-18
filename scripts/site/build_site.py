@@ -31,6 +31,7 @@ REPORTS = {
 NAV_ITEMS = [
     ("index.html", "Home"),
     ("kpi_scorecard.html", "KPI Scorecard"),
+    ("kpi_trace.html", "KPI Trace"),
     ("forecast.html", "Forecast"),
     ("liquidity.html", "Liquidity"),
     ("bond_rating_assessment.html", "Bond Rating"),
@@ -259,6 +260,7 @@ pipeline turns source PDFs into canonical data and forecasts:</p>
 <h3>The analysis reports</h3>
 <div class="card"><ul>
   <li><a href="kpi_scorecard.html">Financial-KPI scorecard</a> &mdash; metrics vs. targets &amp; peers</li>
+  <li><a href="kpi_trace.html">KPI source-trace report</a> &mdash; every scorecard number traced to its primary source &amp; formula</li>
   <li><a href="forecast.html">General Fund forecast (FY2026&ndash;FY2029)</a> &mdash; solvency &amp; UAB, PFM-reconciled</li>
   <li><a href="liquidity.html">Monthly liquidity forecast</a> &mdash; cash through June 2027 with the warrant package</li>
   <li><a href="bond_rating_assessment.html">Hypothetical 2028 Moody&rsquo;s GO rating</a> &mdash; methodology, scoring &amp; probabilities</li>

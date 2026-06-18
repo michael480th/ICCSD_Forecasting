@@ -45,6 +45,8 @@ DISTRICT_CSV = "data/raw/manual_uploads/iccsd_advocacy_extractions/district-extr
 AEA_CSV = "data/raw/manual_uploads/iccsd_advocacy_extractions/dom/aea-flowthrough.csv"
 UAB_CSV = "data/raw/manual_uploads/iccsd_advocacy_extractions/dom/unspent-authorized-budget.csv"
 CRL_CSV = "data/raw/manual_uploads/iccsd_advocacy_extractions/dom/cash-reserve-levy.csv"
+ENROLL_CSV = "data/raw/manual_uploads/iccsd_advocacy_extractions/dom/certified-enrollment.csv"
+VAL_CSV = "data/raw/manual_uploads/iccsd_advocacy_extractions/dom/assessed-valuation-latest.csv"
 ACFR = {fy: f"data/raw/district_reports/audits/Iowa City CSD-{fy}.pdf" for fy in range(2020, 2024)}
 # PFM board documents behind the forecast (paths match the document inventory).
 PFM_CFA = "data/raw/board_packets/2026-04-01_Work_Session/attachments/B_01_02_PFM Summary of Comprehensive Fiscal Analysis - Tax Anticipation Warrants.pdf"
@@ -69,6 +71,19 @@ def load_iccsd_uab() -> list[dict]:
     with open(SRC / "dom/unspent-authorized-budget.csv", newline="") as fh:
         rows = [r for r in csv.DictReader(fh) if r["district"] == ICCSD]
     return sorted(rows, key=lambda r: int(r["fiscal_year"]))
+
+
+def load_iccsd_enrollment() -> list[dict]:
+    with open(SRC / "dom/certified-enrollment.csv", newline="") as fh:
+        rows = [r for r in csv.DictReader(fh) if r["district"] == ICCSD]
+    return sorted(rows, key=lambda r: int(r["fiscal_year"]))
+
+
+def load_actual_valuation() -> tuple[int, float]:
+    with open(SRC / "dom/assessed-valuation-latest.csv", newline="") as fh:
+        rows = [r for r in csv.DictReader(fh) if r["district"] == ICCSD]
+    r = max(rows, key=lambda x: int(x["fiscal_year"]))
+    return int(r["fiscal_year"]), float(r["assessed_actual_with_ge"])
 
 
 def load_csv(name: str) -> list[dict]:
@@ -139,9 +154,17 @@ def build_source_links(inv, audit) -> list[dict]:
         "imported from ICCSDAdvocacy repo (Iowa DOM)", "high",
         "AEA flow-through removed from the solvency denominator per policy 701.5R1."))
     links.append(_row(inv, UAB_CSV,
-        "kpi_scorecard.csv :: uab_pct_of_max (ICCSD + 14 peers, FY2020-2025)",
+        "kpi_scorecard.csv :: uab_pct_of_max + unspent_authority_dollars (ICCSD + 14 peers)",
         "imported from ICCSDAdvocacy repo (Iowa DOM filing)", "high",
-        "Unspent Authorized Budget / Maximum Authorized Budget, per Iowa DOM."))
+        "UAB ratio and dollars; the dollars feed policy metric #4 (balance vs. authority)."))
+    links.append(_row(inv, ENROLL_CSV,
+        "kpi_scorecard.csv :: certified_enrollment (FY2020-2025)",
+        "imported from ICCSDAdvocacy repo (Iowa DOM)", "high",
+        "Certified enrollment — the 701.5R1 reported indicator."))
+    links.append(_row(inv, VAL_CSV,
+        "kpi_scorecard.csv :: go_debt_pct_actual_value (5% statutory debt limit)",
+        "imported from ICCSDAdvocacy repo (Iowa DOM)", "high",
+        "Actual property valuation — denominator for the 5% GO debt limit."))
 
     # ---- GF forecast lineage (PFM model + anchors) ------------------------
     links.append(_row(inv, PFM_CFA,
@@ -209,9 +232,11 @@ def blob(path: str, label: str | None = None) -> str:
 # --------------------------------------------------------------------------- #
 # Trace report body
 # --------------------------------------------------------------------------- #
-def build_body(inv, audit, uab, assumptions, forecast, events, cash, links) -> str:
+def build_body(inv, audit, uab, assumptions, forecast, events, cash, links,
+               enroll, val_fy, val_actual) -> str:
     a = {int(r["fiscal_year"]): r for r in audit}
     fys = sorted(a)
+    uab_by_fy = {int(r["fiscal_year"]): r for r in uab}
     out = []
     P = out.append
 
@@ -291,6 +316,59 @@ def build_body(inv, audit, uab, assumptions, forecast, events, cash, links) -> s
           f'<td class="w"><span class="pill {pill}">{calc:.2f}%</span></td><td class="w">{pub:.2f}%</td></tr>')
     P('</table><p class="src">Source: ' + blob(UAB_CSV, "unspent-authorized-budget.csv")
       + ' (Iowa DOM filing).</p></div>')
+
+    # ---- Metric 4: GF balance vs. unspent authority ------------------------
+    P('<h3>4 &middot; Total GF balance vs. unspent authority</h3>')
+    P('<div class="q"><b>Policy 701.5R1 #4.</b> Hold a total GF balance <b>&ge; unspent authority</b>, '
+      'so the District can cash-flow its full legal spending limit.</div>')
+    P('<div class="card"><table><tr><th>FY</th><th class="w">Total GF balance</th>'
+      '<th class="w">Unspent authority</th><th class="w">Balance &ge; authority?</th></tr>')
+    for fy in fys:
+        fb = int(a[fy]["gf_total_fund_balance"])
+        u = uab_by_fy.get(fy)
+        if not u:
+            continue
+        auth = float(u["unspent_authorized_budget"])
+        ok = "✅ yes" if fb >= auth else "🔴 no"
+        if auth <= 0:
+            ok = "✅ (authority ≤ 0)"
+        P(f'<tr><td><b>FY{fy}</b></td><td class="w">{money(fb)}</td>'
+          f'<td class="w">{money(auth)}</td><td class="w">{ok}</td></tr>')
+    P('</table><p class="src">GF balance from ' + blob(DISTRICT_CSV, "the ACFR extraction")
+      + '; unspent authority from ' + blob(UAB_CSV, "the Iowa DOM UAB file")
+      + '. Met largely because unspent authority is near zero/negative — see the scorecard note.</p></div>')
+
+    # ---- Metric 5: enrollment ----------------------------------------------
+    P('<h3>5 &middot; Enrollment trend</h3>')
+    P('<div class="q"><b>Reported indicator (no target).</b> Certified enrollment — funding follows '
+      'the student.</div>')
+    P('<div class="card"><table><tr><th>FY</th><th class="w">Certified enrollment</th>'
+      '<th class="w">Year-over-year</th></tr>')
+    prev = None
+    for r in enroll:
+        fy, e = int(r["fiscal_year"]), float(r["certified_enrollment"])
+        yoy = "&mdash;" if prev is None else f"{(e/prev-1)*100:+.1f}%"
+        P(f'<tr><td><b>FY{fy}</b></td><td class="w">{e:,.1f}</td><td class="w">{yoy}</td></tr>')
+        prev = e
+    P('</table><p class="src">Source: ' + blob(ENROLL_CSV, "certified-enrollment.csv")
+      + ' (Iowa DOM).</p></div>')
+
+    # ---- Metric 6: GO debt vs. 5% limit ------------------------------------
+    debt_fy = max(fys)
+    go_debt = int(a[debt_fy]["go_debt_outstanding"])
+    limit = 0.05 * val_actual
+    P('<h3>6 &middot; GO debt vs. the 5% statutory limit</h3>')
+    P('<div class="q"><b>Formula (Iowa Constitution).</b> outstanding GO debt must be '
+      '<b>&le; 5% of actual property value</b>.</div>')
+    P('<div class="card"><div class="callout"><div>GO debt as % of actual value</div>'
+      f'<div class="big">{go_debt/val_actual*100:.2f}%</div>'
+      f'<div>{money(go_debt)} GO debt (FY{debt_fy} ACFR) &divide; {money(val_actual)} actual valuation '
+      f'(FY{val_fy} Iowa DOM) = <b>{go_debt/val_actual*100:.2f}%</b> &mdash; well under the <b>5% '
+      f'limit (&asymp; {money(limit)})</b>, using ~{go_debt/limit*100:.0f}% of capacity.</div></div>'
+      '<p class="src">GO debt from ' + blob(DISTRICT_CSV, "the ACFR extraction")
+      + '; actual valuation from ' + blob(VAL_CSV, "assessed-valuation-latest.csv")
+      + '. Debt and valuation are the latest available years (FY' + str(debt_fy) + ' / FY'
+      + str(val_fy) + ').</p></div>')
 
     # ---- Part B: forecast ---------------------------------------------------
     P('<h2>Part B &mdash; General Fund forecast (FY2026&ndash;FY2029)</h2>')
@@ -399,11 +477,14 @@ def main():
     forecast = load_csv("gf_forecast.csv")
     events = load_csv("known_events.csv")
     cash = load_csv("cash_balances.csv")
+    enroll = load_iccsd_enrollment()
+    val_fy, val_actual = load_actual_valuation()
 
     links = build_source_links(inv, audit)
     write_source_links(links)
 
-    body = build_body(inv, audit, uab, assumptions, forecast, events, cash, links)
+    body = build_body(inv, audit, uab, assumptions, forecast, events, cash, links,
+                      enroll, val_fy, val_actual)
     OUT_HTML.write_text(
         site.page("Source-trace report — ICCSD Forecasting", body, "kpi_trace.html",
                   hero_title="Source-trace report",

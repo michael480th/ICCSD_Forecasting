@@ -31,3 +31,25 @@ uab_pct_of_max,2025,ICCSD,2.31,5,10,,below_target,Iowa DOM Unspent Authorized Bu
 uab_pct_of_max,2025,peer_median,16.14,5,10,,,Iowa DOM UAB (14 large Iowa districts)
 uab_pct_of_max,2025,peer_min,7.54,5,10,,,Iowa DOM UAB (14 large Iowa districts)
 uab_pct_of_max,2025,peer_max,29.87,5,10,,,Iowa DOM UAB (14 large Iowa districts)
+gf_total_fund_balance,2020,ICCSD,11240140,,,,,ICCSD ACFR via ICCSDAdvocacy
+gf_balance_ge_authority_x,2020,ICCSD,5.49,,,1.0,met,GF balance (ACFR) vs. unspent authority (Iowa DOM)
+gf_total_fund_balance,2021,ICCSD,15890150,,,,,ICCSD ACFR via ICCSDAdvocacy
+gf_balance_ge_authority_x,2021,ICCSD,5.02,,,1.0,met,GF balance (ACFR) vs. unspent authority (Iowa DOM)
+gf_total_fund_balance,2022,ICCSD,10063054,,,,,ICCSD ACFR via ICCSDAdvocacy
+gf_balance_ge_authority_x,2022,ICCSD,41.94,,,1.0,met,GF balance (ACFR) vs. unspent authority (Iowa DOM)
+gf_total_fund_balance,2023,ICCSD,10151221,,,,,ICCSD ACFR via ICCSDAdvocacy
+gf_balance_ge_authority_x,2023,ICCSD,,,,1.0,met (authority ≤ 0),GF balance (ACFR) vs. unspent authority (Iowa DOM)
+unspent_authority_dollars,2020,ICCSD,2048574,,,,,Iowa DOM Unspent Authorized Budget
+unspent_authority_dollars,2021,ICCSD,3167626,,,,,Iowa DOM Unspent Authorized Budget
+unspent_authority_dollars,2022,ICCSD,239935,,,,,Iowa DOM Unspent Authorized Budget
+unspent_authority_dollars,2023,ICCSD,-2505057,,,,,Iowa DOM Unspent Authorized Budget
+unspent_authority_dollars,2024,ICCSD,3304215,,,,,Iowa DOM Unspent Authorized Budget
+unspent_authority_dollars,2025,ICCSD,5031593,,,,,Iowa DOM Unspent Authorized Budget
+certified_enrollment,2020,ICCSD,14285.0,,,,,Iowa DOM certified enrollment
+certified_enrollment,2021,ICCSD,14571.6,,,,,Iowa DOM certified enrollment
+certified_enrollment,2022,ICCSD,14283.8,,,,,Iowa DOM certified enrollment
+certified_enrollment,2023,ICCSD,14395.0,,,,,Iowa DOM certified enrollment
+certified_enrollment,2024,ICCSD,14439.8,,,,,Iowa DOM certified enrollment
+certified_enrollment,2025,ICCSD,14378.7,,,,,Iowa DOM certified enrollment
+go_debt_outstanding,2023,ICCSD,156815000,,,,,ICCSD ACFR via ICCSDAdvocacy
+go_debt_pct_actual_value,2023,ICCSD,1.07,,5.0,,within_limit,GO debt FY2023 (ACFR) vs. FY2026 actual valuation (Iowa DOM)
